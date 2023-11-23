@@ -1,0 +1,140 @@
+kleio$gacto2.str
+    fonte$Kalendas_laecc2/data_1191-1300/substitui=Kalendas_laecc/tipo=obitos, aniversarios /loc=publicado em Pierre David e Torquato de Sousa Soares, Liber anniversariorum ecclesiae cathedralis Colimbriensis : livro das kalendas,Tomo II, Coimbra: Faculdade de Letras da Universidade de Coimbra, 1947-1948
+
+inscricao$kalendas_laecc0907/09/07/1262/tipo=obito/fol=Livro das Kalendas, fl.76 v.(p.25)/loc=Coimbra/sumario= óbito de Dona Justa, irmã de D. Pedro Guilherme noutros tempos bispo da Sé de Viseu e tesoureiro da Sé de Coimbra. Por seu aniversário deixa um morabitino e 2 morabitinos por seus pais com a doação das suas casas emprazadas a Martim Anes.
+    celebrada$Justa/id=kalendas_laecc0907-DJusta    
+        ls$titulo/Dona
+
+    doador$Pedro Guilherme/id=kalendas_laecc0907-PGuilherme
+        ls$cargo/Bispo da Sé de Viseu/obs=quondam
+        ls$cargo/Tesoureiro da Sé de Coimbra/obs=qui primo fuit thesaurarius Colimbriensis
+        ls$titulo/Dom
+        rel$parentesco/irmão/Justa/kalendas_laecc0907-DJusta
+
+    celebrado$nome desonhecido/id=kalendas_laecc0907-desconhecido
+        rel$parentesco/pai/Justa/kalendas_laecc0907-DJusta
+        rel$parentesco/pai/Pedro guilherme/kalendas_laecc0907-PGuilherme
+
+    celebrada$nome desconhecido/id=kalendas_laecc0907-desconhecida
+        rel$parentesco/mãe/Justa/kalendas_laecc0907-DJusta
+        rel$parentesco/mãe/Pedro guilherme/kalendas_laecc0907-PGuilherme
+
+    referido$Martim Anes/id=kalendas_laecc0907-MAnes
+        rel$parentesco/neto/Justa/kalendas_laecc0907-DJusta
+
+    donatario$Sé de Coimbra/id=sc_laecc0907
+
+    donatario$aniversário de Justa/id=ani_laecc0907
+        atr$pagamento_aniversario/8 libras/obs= a distribuir pelos presentes e enfermos e crianças
+
+    donatario$aniversário dos pais/id=ani_laecc0907_a
+        atr$pagamento_aniversario/8 libras/obs= a distribuir pelos presentes e enfermos e crianças
+
+    bem$1 morabitino
+        rel$posse/pertence/Pedro Guilherme/kalendas_laecc0907-PGuilherme
+        rel$posse/por doacao/Sé de Coimbra/sc_laecc0907
+        rel$posse/pertence/aniversário de Justa/ani_laecc0907
+
+    bem$casas
+        rel$posse/por emprazamento/Martim Anes/kalendas_laecc0907-MAnes/obs=debet eas tenere Martinus Iohannis nepos eius iure hereditario cum supra dicta pensione
+        atr$localizacao/Depois da porta, na rua que vai para o fórum/obs=super claustrum in uia que ducit ad forum 
+        atr$confrontacoes/atrás do pelourinho
+        atr$confrontacoes/junto de casas da igreja junto da monumento de pedra/obs=partem parietis ecclesie in trra sub campana  lapidea fracta iuxta monumentum totum lapideum
+
+inscricao$kalendas_laecc0308/03/08/1191/tipo=aniversario/fol=Livro das Kalendas, fl.113 v. (p.70)/loc=Coimbra/sumario=Aniversário por alma de Mestre Gonçalo com orações específicas, por doação de propriedades em Coselhas.
+
+    doador$Gonçalo/id=kalenda_laecc0308-MGonçalo
+        ls$titulo/Mestre
+        ls$alcunha/Lever
+        ls$cargo/cónego da Sé de Coimbra
+    
+    donatario$Sé de Coimbra/id=sc_laecc0308
+    
+    donatario$aniversário de Mestre Gonçalo/id=ani_laecc0308
+        atr$cerimonia_aniversario/oração especifica/obs=missa de Cruz
+        atr$pagamento_aniversario/4 libras/obs= a dividir entre cónegos presentes, crianças e enfermos
+        atr$pagamento_aniversario/12 soldos/obs= cum dimidio (sic.)
+    
+    bem$propriedades
+        atr$localizacao/Coselhas
+        rel$posse/pertence/Gonçalo/kalenda_laecc0308-MGonçalo
+        rel$posse/pertence/aniversário de Mestre Gonçalo/ani_laecc0308
+        rel$posse/por doacao/Sé de Coimbra/sc_laecc0308
+    
+inscricao$kalendas_laecc2209/22/09/1227/tipo=obito/fol=Livro das Kalendas, fl.97 v. (p.108)/loc=Coimbra/sumario=Óbito de Martim Anes de Aveiro.
+
+doador$Martim Anes/id=kalendas_laecc2209-MAnes
+    ls$alcunha/de Aveiro
+    ls$naturalidade/Aveiro
+    ls$sepultura/na Igreja de S. Bartolomeu
+
+donatario$Sé de Coimbra/id=sc_laec2209
+
+donatario$aniversário de Martim Anes de Aveiro/id=ani_laecc2209
+
+bem$casas
+    atr$localizacao/Além da Porta de Almedina
+    rel$posse/pertence/Martim Anes/kalendas_laecc2209-MAnes
+    rel$posse/pertence/aniversário de Martim Anes de Aveiro/ani_laecc2209
+    rel$posse/por doacao/Sé de Coimbra/sc_laec2209
+
+
+inscricao$kalendas_laecc0710/07/10/9999/tipo=obito/fol=Livro das Kalendas, fl.137 (p.190)/loc=Coimbra/sumario=Aniversário por alma de Mestre Gonçalo.
+doador$Gonçalo/id=kalenda_laecc0710-MGonçalo
+    ls$titulo/Mestre
+    ls$alcunha/Lever
+    ls$cargo/cónego da Sé de Coimbra
+
+donatario$Sé de Coimbra/id=sc_laecc0710
+
+donatario$aniversário de Mestre Gonçalo/id=ani_laecc0710
+    atr$cerimonia_aniversario/oração especifica/obs=missa de Cruz
+    atr$pagamento_aniversario/4 libras/obs= a dividir entre cónegos presentes, os pequenos e enfermos
+    atr$pagamento_aniversario/12 soldos/obs= cum dimidio (sic.)
+
+bem$propriedades
+    atr$localizacao/Coselhas
+    rel$posse/pertence/Gonçalo/kalenda_laecc0710-MGonçalo
+    rel$posse/pertence/aniversário de Mestre Gonçalo/ani_laecc0710
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc0710
+
+
+inscricao$kalendas_laecc2711/27/11/1229/tipo=obito/fol=Livro das Kalendas, fl.145 (p.222)/loc=Coimbra/sumario=óbito de Dona Justa Mutua por doação de um terreno.
+doadora$Justa/id=kalendas_laecc2711-DJusta
+    ls$alcunha/Mutua
+    ls$titulo/Dona
+    ls$sepultura/claustro
+    ls$sepultura/sua lapide tem um círculo com a imagem do crucifixo e na outra são imagens da lua, do outro lado a capela de Santa Maria
+
+donatario$Sé de Coimbra/id=sc_laecc2711
+
+donatario$aniversário de Dona Justa/id=ani_laecc2711
+
+bem$1 terreno
+    atr$renda/1 morabitino
+    atr$localizacao/Próximo da horta de Pedro Anes
+    atr$localizacao/Rua dos Cardadores/obs=subtus petraria de ultra pontem
+    rel$posse/pertence/Justa/kalendas_laecc2711-DJusta
+    rel$posse/pertence/aniversário de Dona Justa/ani_laecc2711
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc2711
+
+inscricao$kalendas_laecc1311/13/11/1227/tipo=obito/fol=Livro das Kalendas, fl.151 v. (p.249)/loc=Coimbra/sumario=Aniversario por alma de Dona Toda, por doação de seu marido.
+
+celebrada$Toda/id=kalendas_laecc1311-DToda
+    ls$titulo/Dona
+    ls$sepultura/Mosteiro de Santa Cruz
+
+doador$Afonso Martins/id=kalendas_laecc1311-AMartins
+    ls$profissao/cavaleiro
+    rel$parentesco/marido/Toda/kalendas_laecc1311-DToda
+
+donatario$Sé de Coimbra/id=sc_laecc1311
+
+donatario$aniversário de Dona Toda/id=ani_laecc1311
+
+bem$metade de um casal
+    atr$localizacao/Sioga
+    rel$posse/pertence/Afonso Martins/kalendas_laecc1311-AMartins
+    rel$posse/pertence/aniversário de Dona Toda/ani_laecc1311
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc1311
+

@@ -1,0 +1,2583 @@
+<?xml version='1.0'?>
+<KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.cli" TRANSLATOR="gactoxml2.str" WHEN="2023-7-17 16:11:42" OBS="" SPACE="">
+<CLASS NAME="source" SUPER="entity" TABLE="sources" GROUP="fonte">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="ref" COLUMN="ref" CLASS="ref" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="kleiofile" COLUMN="kleiofile" CLASS="kleiofile" TYPE="varchar" SIZE="512" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="replace" COLUMN="replaces" CLASS="replace" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="Kalendas_laecc2" NAME="fonte" CLASS="source" ORDER="1" LEVEL="1" LINE="4">
+    <ELEMENT NAME="line" CLASS="line"><core>4</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>Kalendas_laecc2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>fonte</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>root</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>source</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>1</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>1</core></ELEMENT>
+   <ELEMENT NAME="year" CLASS="undef">
+         <core><![CDATA[data_1191-1300]]></core>   </ELEMENT>
+   <ELEMENT NAME="substitui" CLASS="replace">
+         <core><![CDATA[Kalendas_laecc]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obitos, aniversarios]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[publicado em Pierre David e Torquato de Sousa Soares, Liber anniversariorum ecclesiae cathedralis Colimbriensis : livro das kalendas,Tomo II, Coimbra: Faculdade de Letras da Universidade de Coimbra, 1947-1948]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[0]]></core>   </ELEMENT>
+   <ELEMENT NAME="kleiofile" CLASS="kleiofile">
+         <core><![CDATA[/kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.cli]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="act" SUPER="entity" TABLE="acts" GROUP="historical-act">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="ref" COLUMN="ref" CLASS="ref" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+<CLASS NAME="escritura" SUPER="act" TABLE="escrituras" GROUP="inscricao">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="fol" COLUMN="fol" CLASS="fol" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sumario" COLUMN="summary" CLASS="summary" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="kalendas_laecc0907" NAME="inscricao" CLASS="escritura" ORDER="2" LEVEL="2" LINE="5">
+    <ELEMENT NAME="line" CLASS="line"><core>5</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>2</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[09]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[07]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1262]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obito]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.76 v.(p.25)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[ óbito de Dona Justa, irmã de D. Pedro Guilherme noutros tempos bispo da Sé de Viseu e tesoureiro da Sé de Coimbra. Por seu aniversário deixa um morabitino e 2 morabitinos por seus pais com a doação das suas casas emprazadas a Martim Anes.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="person" SUPER="entity" TABLE="persons" GROUP="celebrada">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sex" COLUMN="sex" CLASS="sex" TYPE="char" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="kalendas_laecc0907-DJusta" NAME="celebrada" CLASS="person" ORDER="3" LEVEL="3" LINE="6">
+    <ELEMENT NAME="line" CLASS="line"><core>6</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-DJusta</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>celebrada</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>3</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="relation" SUPER="entity" TABLE="relations" GROUP="relation">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="origin" COLUMN="origin" CLASS="origin" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="destination" COLUMN="destination" CLASS="destination" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="kalendas_laecc0907-rela1" NAME="relation"  ORDER="4" LEVEL="4" CLASS="relation" LINE="6">
+    <ELEMENT NAME="line" CLASS="line"><core>6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-DJusta</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>4</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>celebrada</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-DJusta</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela1</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP><CLASS NAME="attribute" SUPER="entity" TABLE="attributes" GROUP="ls">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="entity" COLUMN="entity" CLASS="entity" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="512" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="value" COLUMN="the_value" CLASS="value" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="kalendas_laecc0907-DJusta-att1" NAME="ls" CLASS="attribute" ORDER="5" LEVEL="4" LINE="8">
+    <ELEMENT NAME="line" CLASS="line"><core>8</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-DJusta-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-DJusta</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>5</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Dona]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-DJusta-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-PGuilherme" NAME="doador" CLASS="person" ORDER="6" LEVEL="3" LINE="9">
+    <ELEMENT NAME="line" CLASS="line"><core>9</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doador</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>6</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Pedro Guilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela2" NAME="relation"  ORDER="7" LEVEL="4" CLASS="relation" LINE="9">
+    <ELEMENT NAME="line" CLASS="line"><core>9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>7</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doador</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela2</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-PGuilherme-att2" NAME="ls" CLASS="attribute" ORDER="8" LEVEL="4" LINE="10">
+    <ELEMENT NAME="line" CLASS="line"><core>10</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-PGuilherme-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>8</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cargo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Bispo da Sé de Viseu]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[quondam]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-PGuilherme-att3" NAME="ls" CLASS="attribute" ORDER="9" LEVEL="4" LINE="11">
+    <ELEMENT NAME="line" CLASS="line"><core>11</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-PGuilherme-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>9</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cargo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Tesoureiro da Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[qui primo fuit thesaurarius Colimbriensis]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-PGuilherme-att4" NAME="ls" CLASS="attribute" ORDER="10" LEVEL="4" LINE="12">
+    <ELEMENT NAME="line" CLASS="line"><core>12</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-PGuilherme-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>10</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Dom]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-PGuilherme-rel1" NAME="rel" CLASS="relation" ORDER="11" LEVEL="4" LINE="14">
+    <ELEMENT NAME="line" CLASS="line"><core>14</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-PGuilherme-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-PGuilherme</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>11</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[irmão]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-desconhecido" NAME="celebrado" CLASS="person" ORDER="12" LEVEL="3" LINE="15">
+    <ELEMENT NAME="line" CLASS="line"><core>15</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecido</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>celebrado</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>12</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[nome desonhecido]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela3" NAME="relation"  ORDER="13" LEVEL="4" CLASS="relation" LINE="15">
+    <ELEMENT NAME="line" CLASS="line"><core>15</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecido</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>13</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>celebrado</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-desconhecido</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela3</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-desconhecido-rel2" NAME="rel" CLASS="relation" ORDER="14" LEVEL="4" LINE="16">
+    <ELEMENT NAME="line" CLASS="line"><core>16</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecido-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecido</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>14</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pai]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-desconhecido-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-desconhecido]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-desconhecido-rel3" NAME="rel" CLASS="relation" ORDER="15" LEVEL="4" LINE="18">
+    <ELEMENT NAME="line" CLASS="line"><core>18</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecido-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecido</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>15</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pai]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Pedro guilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-desconhecido-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-desconhecido]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-desconhecida" NAME="celebrada" CLASS="person" ORDER="16" LEVEL="3" LINE="19">
+    <ELEMENT NAME="line" CLASS="line"><core>19</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>celebrada</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>16</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[nome desconhecido]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela4" NAME="relation"  ORDER="17" LEVEL="4" CLASS="relation" LINE="19">
+    <ELEMENT NAME="line" CLASS="line"><core>19</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>17</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>celebrada</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela4</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-desconhecida-rel4" NAME="rel" CLASS="relation" ORDER="18" LEVEL="4" LINE="20">
+    <ELEMENT NAME="line" CLASS="line"><core>20</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecida-rel4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>18</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[mãe]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-desconhecida-rel4]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-desconhecida]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-desconhecida-rel5" NAME="rel" CLASS="relation" ORDER="19" LEVEL="4" LINE="22">
+    <ELEMENT NAME="line" CLASS="line"><core>22</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecida-rel5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>19</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[mãe]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Pedro guilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-desconhecida-rel5]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-desconhecida]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-MAnes" NAME="referido" CLASS="person" ORDER="20" LEVEL="4" LINE="23">
+    <ELEMENT NAME="line" CLASS="line"><core>23</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-MAnes</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>referido</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-desconhecida</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>20</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Martim Anes]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-desconhecida-rela5" NAME="relation"  ORDER="21" LEVEL="5" CLASS="relation" LINE="23">
+    <ELEMENT NAME="line" CLASS="line"><core>23</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-MAnes</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>21</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>referido</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-MAnes</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-desconhecida-rela5</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-MAnes-rel6" NAME="rel" CLASS="relation" ORDER="22" LEVEL="5" LINE="25">
+    <ELEMENT NAME="line" CLASS="line"><core>25</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-MAnes-rel6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-MAnes</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>22</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>5</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[neto]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-MAnes-rel6]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laecc0907" NAME="donatario" CLASS="person" ORDER="23" LEVEL="3" LINE="27">
+    <ELEMENT NAME="line" CLASS="line"><core>27</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>23</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela6" NAME="relation"  ORDER="24" LEVEL="4" CLASS="relation" LINE="27">
+    <ELEMENT NAME="line" CLASS="line"><core>27</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>24</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela6</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0907" NAME="donatario" CLASS="person" ORDER="25" LEVEL="3" LINE="28">
+    <ELEMENT NAME="line" CLASS="line"><core>28</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>25</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela7" NAME="relation"  ORDER="26" LEVEL="4" CLASS="relation" LINE="28">
+    <ELEMENT NAME="line" CLASS="line"><core>28</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>26</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela7</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0907-att5" NAME="atr" CLASS="attribute" ORDER="27" LEVEL="4" LINE="30">
+    <ELEMENT NAME="line" CLASS="line"><core>30</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0907-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>27</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[8 libras]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ a distribuir pelos presentes e enfermos e crianças]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0907-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0907]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="ani_laecc0907_a" NAME="donatario" CLASS="person" ORDER="28" LEVEL="3" LINE="31">
+    <ELEMENT NAME="line" CLASS="line"><core>31</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0907_a</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>28</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário dos pais]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela8" NAME="relation"  ORDER="29" LEVEL="4" CLASS="relation" LINE="31">
+    <ELEMENT NAME="line" CLASS="line"><core>31</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0907_a</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>29</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc0907_a</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela8</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0907_a-att6" NAME="atr" CLASS="attribute" ORDER="30" LEVEL="4" LINE="33">
+    <ELEMENT NAME="line" CLASS="line"><core>33</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0907_a-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0907_a</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>30</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[8 libras]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ a distribuir pelos presentes e enfermos e crianças]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0907_a-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0907_a]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="object" SUPER="entity" TABLE="objects" GROUP="object">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+<CLASS NAME="good" SUPER="object" TABLE="goods" GROUP="bem">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="type" COLUMN="the_type" CLASS="type" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="loc" COLUMN="loc" CLASS="loc" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="description" COLUMN="description" CLASS="description" TYPE="varchar" SIZE="1024" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="kalendas_laecc0907-obj1" NAME="bem" CLASS="good" ORDER="31" LEVEL="3" LINE="34">
+    <ELEMENT NAME="line" CLASS="line"><core>34</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>31</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[1 morabitino]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela9" NAME="relation"  ORDER="32" LEVEL="4" CLASS="relation" LINE="34">
+    <ELEMENT NAME="line" CLASS="line"><core>34</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>32</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela9</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-obj1-rel7" NAME="rel" CLASS="relation" ORDER="33" LEVEL="4" LINE="35">
+    <ELEMENT NAME="line" CLASS="line"><core>35</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj1-rel7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>33</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Pedro Guilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-PGuilherme]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj1-rel7]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj1-rel8" NAME="rel" CLASS="relation" ORDER="34" LEVEL="4" LINE="36">
+    <ELEMENT NAME="line" CLASS="line"><core>36</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj1-rel8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>34</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laecc0907]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj1-rel8]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj1-rel9" NAME="rel" CLASS="relation" ORDER="35" LEVEL="4" LINE="38">
+    <ELEMENT NAME="line" CLASS="line"><core>38</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj1-rel9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>35</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc0907]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj1-rel9]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj2" NAME="bem" CLASS="good" ORDER="36" LEVEL="3" LINE="39">
+    <ELEMENT NAME="line" CLASS="line"><core>39</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>36</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[casas]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj2]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-rela10" NAME="relation"  ORDER="37" LEVEL="4" CLASS="relation" LINE="39">
+    <ELEMENT NAME="line" CLASS="line"><core>39</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>37</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0907</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-rela10</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12620709</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0907-obj2-rel10" NAME="rel" CLASS="relation" ORDER="38" LEVEL="4" LINE="40">
+    <ELEMENT NAME="line" CLASS="line"><core>40</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj2-rel10</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>38</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por emprazamento]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Martim Anes]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc0907-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[debet eas tenere Martinus Iohannis nepos eius iure hereditario cum supra dicta pensione]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj2-rel10]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0907-obj2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj2-att7" NAME="atr" CLASS="attribute" ORDER="39" LEVEL="4" LINE="41">
+    <ELEMENT NAME="line" CLASS="line"><core>41</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj2-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>39</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Depois da porta, na rua que vai para o fórum]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[super claustrum in uia que ducit ad forum]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj2-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-obj2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj2-att8" NAME="atr" CLASS="attribute" ORDER="40" LEVEL="4" LINE="42">
+    <ELEMENT NAME="line" CLASS="line"><core>42</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj2-att8</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>40</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[confrontacoes]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[atrás do pelourinho]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj2-att8]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-obj2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0907-obj2-att9" NAME="atr" CLASS="attribute" ORDER="41" LEVEL="4" LINE="44">
+    <ELEMENT NAME="line" CLASS="line"><core>44</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0907-obj2-att9</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0907-obj2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>41</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[confrontacoes]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[junto de casas da igreja junto da monumento de pedra]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[partem parietis ecclesie in trra sub campana lapidea fracta iuxta monumentum totum lapideum]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0907-obj2-att9]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0907-obj2]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12620709]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308" NAME="inscricao" CLASS="escritura" ORDER="42" LEVEL="2" LINE="46">
+    <ELEMENT NAME="line" CLASS="line"><core>46</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>42</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[03]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[08]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1191]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.113 v. (p.70)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[Aniversário por alma de Mestre Gonçalo com orações específicas, por doação de propriedades em Coselhas.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0308-MGonçalo" NAME="doador" CLASS="person" ORDER="43" LEVEL="3" LINE="47">
+    <ELEMENT NAME="line" CLASS="line"><core>47</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doador</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>43</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-rela11" NAME="relation"  ORDER="44" LEVEL="4" CLASS="relation" LINE="47">
+    <ELEMENT NAME="line" CLASS="line"><core>47</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>44</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doador</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-rela11</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>11910803</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalenda_laecc0308-MGonçalo-att1" NAME="ls" CLASS="attribute" ORDER="45" LEVEL="4" LINE="48">
+    <ELEMENT NAME="line" CLASS="line"><core>48</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0308-MGonçalo-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>45</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Mestre]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0308-MGonçalo-att2" NAME="ls" CLASS="attribute" ORDER="46" LEVEL="4" LINE="49">
+    <ELEMENT NAME="line" CLASS="line"><core>49</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0308-MGonçalo-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>46</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[alcunha]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Lever]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0308-MGonçalo-att3" NAME="ls" CLASS="attribute" ORDER="47" LEVEL="4" LINE="51">
+    <ELEMENT NAME="line" CLASS="line"><core>51</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0308-MGonçalo-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0308-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>47</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cargo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cónego da Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laecc0308" NAME="donatario" CLASS="person" ORDER="48" LEVEL="3" LINE="53">
+    <ELEMENT NAME="line" CLASS="line"><core>53</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>48</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-rela12" NAME="relation"  ORDER="49" LEVEL="4" CLASS="relation" LINE="53">
+    <ELEMENT NAME="line" CLASS="line"><core>53</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>49</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-rela12</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>11910803</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0308" NAME="donatario" CLASS="person" ORDER="50" LEVEL="3" LINE="54">
+    <ELEMENT NAME="line" CLASS="line"><core>54</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>50</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Mestre Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-rela13" NAME="relation"  ORDER="51" LEVEL="4" CLASS="relation" LINE="54">
+    <ELEMENT NAME="line" CLASS="line"><core>54</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>51</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-rela13</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>11910803</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0308-att4" NAME="atr" CLASS="attribute" ORDER="52" LEVEL="4" LINE="55">
+    <ELEMENT NAME="line" CLASS="line"><core>55</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0308-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>52</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cerimonia_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[oração especifica]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[missa de Cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0308-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0308]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="ani_laecc0308-att5" NAME="atr" CLASS="attribute" ORDER="53" LEVEL="4" LINE="56">
+    <ELEMENT NAME="line" CLASS="line"><core>56</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0308-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>53</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[4 libras]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ a dividir entre cónegos presentes, crianças e enfermos]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0308-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0308]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="ani_laecc0308-att6" NAME="atr" CLASS="attribute" ORDER="54" LEVEL="4" LINE="58">
+    <ELEMENT NAME="line" CLASS="line"><core>58</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0308-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>54</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[12 soldos]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ cum dimidio (sic.)]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0308-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0308]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-obj1" NAME="bem" CLASS="good" ORDER="55" LEVEL="3" LINE="59">
+    <ELEMENT NAME="line" CLASS="line"><core>59</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>55</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[propriedades]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0308-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-rela14" NAME="relation"  ORDER="56" LEVEL="4" CLASS="relation" LINE="59">
+    <ELEMENT NAME="line" CLASS="line"><core>59</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>56</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0308</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-rela14</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>11910803</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0308-obj1-att7" NAME="atr" CLASS="attribute" ORDER="57" LEVEL="4" LINE="60">
+    <ELEMENT NAME="line" CLASS="line"><core>60</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-obj1-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>57</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Coselhas]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0308-obj1-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0308-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-obj1-rel1" NAME="rel" CLASS="relation" ORDER="58" LEVEL="4" LINE="61">
+    <ELEMENT NAME="line" CLASS="line"><core>61</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-obj1-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>58</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalenda_laecc0308-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0308-obj1-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0308-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-obj1-rel2" NAME="rel" CLASS="relation" ORDER="59" LEVEL="4" LINE="62">
+    <ELEMENT NAME="line" CLASS="line"><core>62</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-obj1-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>59</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Mestre Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc0308]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0308-obj1-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0308-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0308-obj1-rel3" NAME="rel" CLASS="relation" ORDER="60" LEVEL="4" LINE="64">
+    <ELEMENT NAME="line" CLASS="line"><core>64</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0308-obj1-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0308-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>60</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laecc0308]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0308-obj1-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0308-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[11910803]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209" NAME="inscricao" CLASS="escritura" ORDER="61" LEVEL="2" LINE="66">
+    <ELEMENT NAME="line" CLASS="line"><core>66</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>61</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[22]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[09]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1227]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obito]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.97 v. (p.108)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[Óbito de Martim Anes de Aveiro.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-MAnes" NAME="doador" CLASS="person" ORDER="62" LEVEL="3" LINE="67">
+    <ELEMENT NAME="line" CLASS="line"><core>67</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doador</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>62</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Martim Anes]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-rela15" NAME="relation"  ORDER="63" LEVEL="4" CLASS="relation" LINE="67">
+    <ELEMENT NAME="line" CLASS="line"><core>67</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>63</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doador</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-rela15</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12270922</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2209-MAnes-att1" NAME="ls" CLASS="attribute" ORDER="64" LEVEL="4" LINE="68">
+    <ELEMENT NAME="line" CLASS="line"><core>68</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-MAnes-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>64</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[alcunha]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[de Aveiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-MAnes-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2209-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-MAnes-att2" NAME="ls" CLASS="attribute" ORDER="65" LEVEL="4" LINE="69">
+    <ELEMENT NAME="line" CLASS="line"><core>69</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-MAnes-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>65</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[naturalidade]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Aveiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-MAnes-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2209-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-MAnes-att3" NAME="ls" CLASS="attribute" ORDER="66" LEVEL="4" LINE="71">
+    <ELEMENT NAME="line" CLASS="line"><core>71</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-MAnes-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-MAnes</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>66</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[sepultura]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[na Igreja de S. Bartolomeu]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-MAnes-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2209-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laec2209" NAME="donatario" CLASS="person" ORDER="67" LEVEL="3" LINE="73">
+    <ELEMENT NAME="line" CLASS="line"><core>73</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laec2209</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>67</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-rela16" NAME="relation"  ORDER="68" LEVEL="4" CLASS="relation" LINE="73">
+    <ELEMENT NAME="line" CLASS="line"><core>73</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laec2209</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>68</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laec2209</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-rela16</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12270922</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc2209" NAME="donatario" CLASS="person" ORDER="69" LEVEL="3" LINE="75">
+    <ELEMENT NAME="line" CLASS="line"><core>75</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>69</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Martim Anes de Aveiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-rela17" NAME="relation"  ORDER="70" LEVEL="4" CLASS="relation" LINE="75">
+    <ELEMENT NAME="line" CLASS="line"><core>75</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>70</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-rela17</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12270922</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2209-obj1" NAME="bem" CLASS="good" ORDER="71" LEVEL="3" LINE="76">
+    <ELEMENT NAME="line" CLASS="line"><core>76</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>71</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[casas]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-rela18" NAME="relation"  ORDER="72" LEVEL="4" CLASS="relation" LINE="76">
+    <ELEMENT NAME="line" CLASS="line"><core>76</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>72</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2209</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-rela18</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12270922</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2209-obj1-att4" NAME="atr" CLASS="attribute" ORDER="73" LEVEL="4" LINE="77">
+    <ELEMENT NAME="line" CLASS="line"><core>77</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-obj1-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>73</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Além da Porta de Almedina]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-obj1-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2209-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-obj1-rel1" NAME="rel" CLASS="relation" ORDER="74" LEVEL="4" LINE="78">
+    <ELEMENT NAME="line" CLASS="line"><core>78</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-obj1-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>74</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Martim Anes]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc2209-MAnes]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-obj1-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2209-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-obj1-rel2" NAME="rel" CLASS="relation" ORDER="75" LEVEL="4" LINE="79">
+    <ELEMENT NAME="line" CLASS="line"><core>79</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-obj1-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>75</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Martim Anes de Aveiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc2209]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-obj1-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2209-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2209-obj1-rel3" NAME="rel" CLASS="relation" ORDER="76" LEVEL="4" LINE="82">
+    <ELEMENT NAME="line" CLASS="line"><core>82</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2209-obj1-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2209-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>76</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laec2209]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2209-obj1-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2209-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12270922]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710" NAME="inscricao" CLASS="escritura" ORDER="77" LEVEL="2" LINE="83">
+    <ELEMENT NAME="line" CLASS="line"><core>83</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>77</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[07]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[10]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[9999]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obito]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.137 (p.190)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[Aniversário por alma de Mestre Gonçalo.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0710-MGonçalo" NAME="doador" CLASS="person" ORDER="78" LEVEL="3" LINE="84">
+    <ELEMENT NAME="line" CLASS="line"><core>84</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doador</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>78</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-rela19" NAME="relation"  ORDER="79" LEVEL="4" CLASS="relation" LINE="84">
+    <ELEMENT NAME="line" CLASS="line"><core>84</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>79</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doador</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-rela19</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>99991007</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalenda_laecc0710-MGonçalo-att1" NAME="ls" CLASS="attribute" ORDER="80" LEVEL="4" LINE="85">
+    <ELEMENT NAME="line" CLASS="line"><core>85</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0710-MGonçalo-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>80</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Mestre]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0710-MGonçalo-att2" NAME="ls" CLASS="attribute" ORDER="81" LEVEL="4" LINE="86">
+    <ELEMENT NAME="line" CLASS="line"><core>86</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0710-MGonçalo-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>81</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[alcunha]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Lever]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalenda_laecc0710-MGonçalo-att3" NAME="ls" CLASS="attribute" ORDER="82" LEVEL="4" LINE="88">
+    <ELEMENT NAME="line" CLASS="line"><core>88</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalenda_laecc0710-MGonçalo-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalenda_laecc0710-MGonçalo</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>82</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cargo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cónego da Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laecc0710" NAME="donatario" CLASS="person" ORDER="83" LEVEL="3" LINE="90">
+    <ELEMENT NAME="line" CLASS="line"><core>90</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>83</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-rela20" NAME="relation"  ORDER="84" LEVEL="4" CLASS="relation" LINE="90">
+    <ELEMENT NAME="line" CLASS="line"><core>90</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>84</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-rela20</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>99991007</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0710" NAME="donatario" CLASS="person" ORDER="85" LEVEL="3" LINE="91">
+    <ELEMENT NAME="line" CLASS="line"><core>91</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>85</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Mestre Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-rela21" NAME="relation"  ORDER="86" LEVEL="4" CLASS="relation" LINE="91">
+    <ELEMENT NAME="line" CLASS="line"><core>91</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>86</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-rela21</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>99991007</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc0710-att4" NAME="atr" CLASS="attribute" ORDER="87" LEVEL="4" LINE="92">
+    <ELEMENT NAME="line" CLASS="line"><core>92</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0710-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>87</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[cerimonia_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[oração especifica]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[missa de Cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0710-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0710]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="ani_laecc0710-att5" NAME="atr" CLASS="attribute" ORDER="88" LEVEL="4" LINE="93">
+    <ELEMENT NAME="line" CLASS="line"><core>93</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0710-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>88</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[4 libras]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ a dividir entre cónegos presentes, os pequenos e enfermos]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0710-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0710]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="ani_laecc0710-att6" NAME="atr" CLASS="attribute" ORDER="89" LEVEL="4" LINE="95">
+    <ELEMENT NAME="line" CLASS="line"><core>95</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc0710-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>89</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[pagamento_aniversario]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[12 soldos]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[ cum dimidio (sic.)]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[ani_laecc0710-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[ani_laecc0710]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-obj1" NAME="bem" CLASS="good" ORDER="90" LEVEL="3" LINE="96">
+    <ELEMENT NAME="line" CLASS="line"><core>96</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>90</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[propriedades]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0710-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-rela22" NAME="relation"  ORDER="91" LEVEL="4" CLASS="relation" LINE="96">
+    <ELEMENT NAME="line" CLASS="line"><core>96</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>91</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc0710</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-rela22</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>99991007</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc0710-obj1-att7" NAME="atr" CLASS="attribute" ORDER="92" LEVEL="4" LINE="97">
+    <ELEMENT NAME="line" CLASS="line"><core>97</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-obj1-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>92</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Coselhas]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0710-obj1-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc0710-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-obj1-rel1" NAME="rel" CLASS="relation" ORDER="93" LEVEL="4" LINE="98">
+    <ELEMENT NAME="line" CLASS="line"><core>98</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-obj1-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>93</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalenda_laecc0710-MGonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0710-obj1-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0710-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-obj1-rel2" NAME="rel" CLASS="relation" ORDER="94" LEVEL="4" LINE="99">
+    <ELEMENT NAME="line" CLASS="line"><core>99</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-obj1-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>94</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Mestre Gonçalo]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc0710]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0710-obj1-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0710-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc0710-obj1-rel3" NAME="rel" CLASS="relation" ORDER="95" LEVEL="4" LINE="102">
+    <ELEMENT NAME="line" CLASS="line"><core>102</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc0710-obj1-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc0710-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>95</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laecc0710]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc0710-obj1-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc0710-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[99991007]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711" NAME="inscricao" CLASS="escritura" ORDER="96" LEVEL="2" LINE="103">
+    <ELEMENT NAME="line" CLASS="line"><core>103</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>96</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[27]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[11]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1229]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obito]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.145 (p.222)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[óbito de Dona Justa Mutua por doação de um terreno.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-DJusta" NAME="doadora" CLASS="person" ORDER="97" LEVEL="3" LINE="104">
+    <ELEMENT NAME="line" CLASS="line"><core>104</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doadora</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>97</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-rela23" NAME="relation"  ORDER="98" LEVEL="4" CLASS="relation" LINE="104">
+    <ELEMENT NAME="line" CLASS="line"><core>104</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>98</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doadora</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-rela23</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12291127</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2711-DJusta-att1" NAME="ls" CLASS="attribute" ORDER="99" LEVEL="4" LINE="105">
+    <ELEMENT NAME="line" CLASS="line"><core>105</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-DJusta-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>99</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[alcunha]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Mutua]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-DJusta-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-DJusta-att2" NAME="ls" CLASS="attribute" ORDER="100" LEVEL="4" LINE="106">
+    <ELEMENT NAME="line" CLASS="line"><core>106</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-DJusta-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>100</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Dona]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-DJusta-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-DJusta-att3" NAME="ls" CLASS="attribute" ORDER="101" LEVEL="4" LINE="107">
+    <ELEMENT NAME="line" CLASS="line"><core>107</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-DJusta-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>101</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[sepultura]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[claustro]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-DJusta-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-DJusta-att4" NAME="ls" CLASS="attribute" ORDER="102" LEVEL="4" LINE="109">
+    <ELEMENT NAME="line" CLASS="line"><core>109</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-DJusta-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-DJusta</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>102</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[sepultura]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[sua lapide tem um círculo com a imagem do crucifixo e na outra são imagens da lua, do outro lado a capela de Santa Maria]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-DJusta-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laecc2711" NAME="donatario" CLASS="person" ORDER="103" LEVEL="3" LINE="111">
+    <ELEMENT NAME="line" CLASS="line"><core>111</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>103</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-rela24" NAME="relation"  ORDER="104" LEVEL="4" CLASS="relation" LINE="111">
+    <ELEMENT NAME="line" CLASS="line"><core>111</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>104</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-rela24</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12291127</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc2711" NAME="donatario" CLASS="person" ORDER="105" LEVEL="3" LINE="113">
+    <ELEMENT NAME="line" CLASS="line"><core>113</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>105</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Dona Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-rela25" NAME="relation"  ORDER="106" LEVEL="4" CLASS="relation" LINE="113">
+    <ELEMENT NAME="line" CLASS="line"><core>113</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>106</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-rela25</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12291127</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2711-obj1" NAME="bem" CLASS="good" ORDER="107" LEVEL="3" LINE="114">
+    <ELEMENT NAME="line" CLASS="line"><core>114</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>107</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[1 terreno]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-rela26" NAME="relation"  ORDER="108" LEVEL="4" CLASS="relation" LINE="114">
+    <ELEMENT NAME="line" CLASS="line"><core>114</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>108</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc2711</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-rela26</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12291127</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc2711-obj1-att5" NAME="atr" CLASS="attribute" ORDER="109" LEVEL="4" LINE="115">
+    <ELEMENT NAME="line" CLASS="line"><core>115</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-att5</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>109</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[renda]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[1 morabitino]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-att5]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-obj1-att6" NAME="atr" CLASS="attribute" ORDER="110" LEVEL="4" LINE="116">
+    <ELEMENT NAME="line" CLASS="line"><core>116</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-att6</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>110</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Próximo da horta de Pedro Anes]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-att6]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-obj1-att7" NAME="atr" CLASS="attribute" ORDER="111" LEVEL="4" LINE="117">
+    <ELEMENT NAME="line" CLASS="line"><core>117</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-att7</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>111</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Rua dos Cardadores]]></core>   </ELEMENT>
+   <ELEMENT NAME="obs" CLASS="obs">
+         <core><![CDATA[subtus petraria de ultra pontem]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-att7]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-obj1-rel1" NAME="rel" CLASS="relation" ORDER="112" LEVEL="4" LINE="118">
+    <ELEMENT NAME="line" CLASS="line"><core>118</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>112</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc2711-DJusta]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-obj1-rel2" NAME="rel" CLASS="relation" ORDER="113" LEVEL="4" LINE="119">
+    <ELEMENT NAME="line" CLASS="line"><core>119</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>113</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Dona Justa]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc2711]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc2711-obj1-rel3" NAME="rel" CLASS="relation" ORDER="114" LEVEL="4" LINE="121">
+    <ELEMENT NAME="line" CLASS="line"><core>121</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc2711-obj1-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc2711-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>114</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laecc2711]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc2711-obj1-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc2711-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12291127]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311" NAME="inscricao" CLASS="escritura" ORDER="115" LEVEL="2" LINE="123">
+    <ELEMENT NAME="line" CLASS="line"><core>123</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>inscricao</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>Kalendas_laecc2</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>escritura</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>115</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>2</core></ELEMENT>
+   <ELEMENT NAME="dia" CLASS="undef">
+         <core><![CDATA[13]]></core>   </ELEMENT>
+   <ELEMENT NAME="mes" CLASS="undef">
+         <core><![CDATA[11]]></core>   </ELEMENT>
+   <ELEMENT NAME="ano" CLASS="undef">
+         <core><![CDATA[1227]]></core>   </ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[obito]]></core>   </ELEMENT>
+   <ELEMENT NAME="fol" CLASS="fol">
+         <core><![CDATA[Livro das Kalendas, fl.151 v. (p.249)]]></core>   </ELEMENT>
+   <ELEMENT NAME="loc" CLASS="loc">
+         <core><![CDATA[Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sumario" CLASS="summary">
+         <core><![CDATA[Aniversario por alma de Dona Toda, por doação de seu marido.]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[inscricao]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-DToda" NAME="celebrada" CLASS="person" ORDER="116" LEVEL="3" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-DToda</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>celebrada</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>116</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Toda]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[f]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-rela27" NAME="relation"  ORDER="117" LEVEL="4" CLASS="relation" LINE="124">
+    <ELEMENT NAME="line" CLASS="line"><core>124</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-DToda</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>117</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>celebrada</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc1311-DToda</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-rela27</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12271113</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc1311-DToda-att1" NAME="ls" CLASS="attribute" ORDER="118" LEVEL="4" LINE="125">
+    <ELEMENT NAME="line" CLASS="line"><core>125</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-DToda-att1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-DToda</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>118</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[titulo]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Dona]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-DToda-att1]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc1311-DToda]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-DToda-att2" NAME="ls" CLASS="attribute" ORDER="119" LEVEL="4" LINE="127">
+    <ELEMENT NAME="line" CLASS="line"><core>127</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-DToda-att2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-DToda</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>119</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[sepultura]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Mosteiro de Santa Cruz]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-DToda-att2]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc1311-DToda]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-AMartins" NAME="doador" CLASS="person" ORDER="120" LEVEL="3" LINE="128">
+    <ELEMENT NAME="line" CLASS="line"><core>128</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-AMartins</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>doador</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>120</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Afonso Martins]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-rela28" NAME="relation"  ORDER="121" LEVEL="4" CLASS="relation" LINE="128">
+    <ELEMENT NAME="line" CLASS="line"><core>128</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-AMartins</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>121</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>doador</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc1311-AMartins</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-rela28</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12271113</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc1311-AMartins-att3" NAME="ls" CLASS="attribute" ORDER="122" LEVEL="4" LINE="129">
+    <ELEMENT NAME="line" CLASS="line"><core>129</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-AMartins-att3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>ls</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-AMartins</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>122</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[profissao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[cavaleiro]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-AMartins-att3]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc1311-AMartins]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-AMartins-rel1" NAME="rel" CLASS="relation" ORDER="123" LEVEL="4" LINE="131">
+    <ELEMENT NAME="line" CLASS="line"><core>131</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-AMartins-rel1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-AMartins</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>123</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[parentesco]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[marido]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Toda]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc1311-DToda]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-AMartins-rel1]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc1311-AMartins]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="sc_laecc1311" NAME="donatario" CLASS="person" ORDER="124" LEVEL="3" LINE="133">
+    <ELEMENT NAME="line" CLASS="line"><core>133</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>sc_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>124</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-rela29" NAME="relation"  ORDER="125" LEVEL="4" CLASS="relation" LINE="133">
+    <ELEMENT NAME="line" CLASS="line"><core>133</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>sc_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>125</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>sc_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-rela29</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12271113</core></ELEMENT>
+</GROUP>
+<GROUP ID="ani_laecc1311" NAME="donatario" CLASS="person" ORDER="126" LEVEL="3" LINE="135">
+    <ELEMENT NAME="line" CLASS="line"><core>135</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>ani_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>donatario</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>person</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>126</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="nome" CLASS="name">
+         <core><![CDATA[aniversário de Dona Toda]]></core>   </ELEMENT>
+   <ELEMENT NAME="sex" CLASS="sex">
+         <core><![CDATA[m]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-rela30" NAME="relation"  ORDER="127" LEVEL="4" CLASS="relation" LINE="135">
+    <ELEMENT NAME="line" CLASS="line"><core>135</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>ani_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>127</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>donatario</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>ani_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-rela30</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12271113</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc1311-obj1" NAME="bem" CLASS="good" ORDER="128" LEVEL="3" LINE="136">
+    <ELEMENT NAME="line" CLASS="line"><core>136</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>bem</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>good</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>128</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>3</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[metade de um casal]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="type" CLASS="type">
+         <core><![CDATA[bem]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-rela31" NAME="relation"  ORDER="129" LEVEL="4" CLASS="relation" LINE="136">
+    <ELEMENT NAME="line" CLASS="line"><core>136</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+    <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>129</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+    <ELEMENT NAME="type" CLASS="type"><core>function-in-act</core></ELEMENT>
+    <ELEMENT NAME="value" CLASS="value"><core>bem</core></ELEMENT>
+    <ELEMENT NAME="destname" CLASS="destname"><core>inscricao</core></ELEMENT>
+    <ELEMENT NAME="origin" CLASS="origin"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+    <ELEMENT NAME="destination" CLASS="destination"><core>kalendas_laecc1311</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-rela31</core></ELEMENT>
+    <ELEMENT NAME="date" CLASS="date"><core>12271113</core></ELEMENT>
+</GROUP>
+<GROUP ID="kalendas_laecc1311-obj1-att4" NAME="atr" CLASS="attribute" ORDER="130" LEVEL="4" LINE="137">
+    <ELEMENT NAME="line" CLASS="line"><core>137</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-obj1-att4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>atr</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>attribute</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>130</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[localizacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[Sioga]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-obj1-att4]]></core>   </ELEMENT>
+   <ELEMENT NAME="entity" CLASS="entity">
+         <core><![CDATA[kalendas_laecc1311-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-obj1-rel2" NAME="rel" CLASS="relation" ORDER="131" LEVEL="4" LINE="138">
+    <ELEMENT NAME="line" CLASS="line"><core>138</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-obj1-rel2</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>131</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Afonso Martins]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[kalendas_laecc1311-AMartins]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-obj1-rel2]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc1311-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-obj1-rel3" NAME="rel" CLASS="relation" ORDER="132" LEVEL="4" LINE="139">
+    <ELEMENT NAME="line" CLASS="line"><core>139</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-obj1-rel3</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>132</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[pertence]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[aniversário de Dona Toda]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[ani_laecc1311]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-obj1-rel3]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc1311-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+
+<GROUP ID="kalendas_laecc1311-obj1-rel4" NAME="rel" CLASS="relation" ORDER="133" LEVEL="4" LINE="141">
+    <ELEMENT NAME="line" CLASS="line"><core>141</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>kalendas_laecc1311-obj1-rel4</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>rel</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>kalendas_laecc1311-obj1</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>relation</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>133</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>4</core></ELEMENT>
+   <ELEMENT NAME="tipo" CLASS="type">
+         <core><![CDATA[posse]]></core>   </ELEMENT>
+   <ELEMENT NAME="valor" CLASS="value">
+         <core><![CDATA[por doacao]]></core>   </ELEMENT>
+   <ELEMENT NAME="nomedest" CLASS="undef">
+         <core><![CDATA[Sé de Coimbra]]></core>   </ELEMENT>
+   <ELEMENT NAME="iddest" CLASS="destination">
+         <core><![CDATA[sc_laecc1311]]></core>   </ELEMENT>
+   <ELEMENT NAME="id" CLASS="id">
+         <core><![CDATA[kalendas_laecc1311-obj1-rel4]]></core>   </ELEMENT>
+   <ELEMENT NAME="origin" CLASS="origin">
+         <core><![CDATA[kalendas_laecc1311-obj1]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[12271113]]></core>   </ELEMENT>
+</GROUP>
+</KLEIO>

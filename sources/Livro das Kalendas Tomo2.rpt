@@ -1,0 +1,40 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 16-11
+
+Processing data file Livro das Kalendas Tomo2.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$Kalendas_laecc2
+
+WARNING: Livro das Kalendas Tomo2.cli line 3 * Warning: Filename should match source Id to avoid errors. File: Livro das Kalendas Tomo2 Id: Kalendas_laecc2.
+Near lines: 3 Near lines: 4 inscricao$kalendas_laecc0907/09/07/1262/tipo=obito/fol=Livro das Kalendas, fl.76 v.(p.25)/loc=Coimbra/sumario= óbito de Dona Justa, irmã de D. Pedro Guilherme noutros tempos bispo da Sé de Viseu e tesoureiro da Sé de Coimbra. Por seu aniversário deixa um morabitino e 2 morabitinos por seus pais com a doação das suas casas emprazadas a Martim Anes.
+
+WARNING: Livro das Kalendas Tomo2.cli line 3 Element value exceeds database field length: loc=publicado em Pierre David e Torquato de Sousa Soares, Liber anniversariorum ecclesiae cathedralis Colimbriensis : livro das kalendas,Tomo II, Coimbra: Faculdade de Letras da Universidade de Coimbra, 1947-1948. Size:208 limit: 64
+Near lines: 3 Near lines: 4 inscricao$kalendas_laecc0907/09/07/1262/tipo=obito/fol=Livro das Kalendas, fl.76 v.(p.25)/loc=Coimbra/sumario= óbito de Dona Justa, irmã de D. Pedro Guilherme noutros tempos bispo da Sé de Viseu e tesoureiro da Sé de Coimbra. Por seu aniversário deixa um morabitino e 2 morabitinos por seus pais com a doação das suas casas emprazadas a Martim Anes.
+5: inscricao$kalendas_laecc0907
+46: inscricao$kalendas_laecc0308
+66: inscricao$kalendas_laecc2209
+83: inscricao$kalendas_laecc0710
+103: inscricao$kalendas_laecc2711
+123: inscricao$kalendas_laecc1311
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.cli
+** Original file- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.org
+** Previous version- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo2.ids
+0  errors. 
+2  warnings.
+Translation finished.

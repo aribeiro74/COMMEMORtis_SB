@@ -1,0 +1,48 @@
+
+kleio$gacto2.str
+fonte$pergaminhos_cmsecoimbra/1284-1412/varios/loc=Arquivo da Universidade de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6; AUC, dep.V, 3 sec., mov., gav.3, n 87.
+
+escritura$cmsecoimbra_1406/14/06/1284/tipo=carta de escambo/fol=Arquivo da Universidade de Coimbra, Pergaminhos do Cabido e Mitra da Sé de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6/loc=Coimbra/sumario=D. Estefânia troca com Pedro Aparício e sua esposa, Maria Domingues, uma vinha em Coselhas por um sobrado na freguesia de S. Bartolomeu e dez libras portuguesas.
+
+escambadora$Estefania/id=cmsecoimbra1284-destefania
+    ls$titulo/Dona
+
+escambador$Pedro Aparicio/id=cmsecoimbra1284-paparicio
+
+escambadora$Maria Domingues/id=cmsecoimbra1284-mdomingues
+    rel$parentesco/mulher/Pedro Aparício/cmsecoimbra1284-paparicio
+
+bem$vinha
+    atr$localizacao/Coselhas
+    rel$posse/pertence/Estefânia/cmsecoimbra1284-destefania
+    rel$posse/por escambo/Pedro Aparicio/cmsecoimbra1284-paparicio
+    rel$posse/por escambo/Maria Domingues/cmsecoimbra1284-mdomingues
+
+bem$sobrado
+    atr$localizacao/Freguesia de S. Bartolomeu
+    rel$posse/pertence/Pedro Aparicio/cmsecoimbra1284-paparicio
+    rel$posse/pertence/Maria Domingues/cmsecoimbra1284-mdomingues
+    rel$posse/por escambo/Estefânia/cmsecoimbra1284-destefania
+
+tabeliao$Egido Vicente
+    ls$intitulacao/Público tabelião de Coimbra 
+
+
+escritura$cmsecoimbra_1904/19/04/1363/tipo=carta de emprazamento/fol=Arquivo da Universidade de Coimbra, Pergaminhos do Cabido e Mitra da Sé de Coimbra, dep.V, 3 sec., mov., gav.3, n 87/loc=Coimbra/sumario=Carta de emprazamento feito pelo Cabido a Martinho Esteves, sapateiro e a Domingas Rodrigues, sua mulher, de uma casa em Coimbra, na Rua de S. Gião com a pensão de trinta e cinco soldos, pagos no dia 1 de Abril de cada ano.
+
+senhorio$Cabido da Se de Coimbra/id=cmsecoimbra1363-cabido
+
+enfiteuta$Martinho Esteves/id=cmsecoimbra1363-mesteves
+    ls$profissao/sapateiro
+
+enfiteutaf$Domingas Rodrigues/id=cmsecoimbra1363-drodrigues
+    rel$parentesco/mulher/Martinho Esteves/cmsecoimbra1363-mesteves
+
+bem$casa
+    atr$localizacao/Rua de S. Gião
+    rel$posse/pertence/Cabido da Sé de Coimbra/cmsecoimbra1363-cabido
+    rel$posse/por emprazamento/Martinho Esteves/cmsecoimbra1363-mesteves
+    rel$posse/por emprazamento/Domingas Rodrigues/cmsecoimbra1363-drodrigues
+    atr$renda principal valor/35 soldos
+    atr$pagamento da renda principal/1 de abril de cada ano
+

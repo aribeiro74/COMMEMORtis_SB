@@ -1,0 +1,722 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 15-19
+
+Processing data file Obituario_CSBC.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: CSBC
+Autorel: CSBC
+Translation count: 21
+Obs: 
+** Processing source fonte$CSBC-Obituario_csbc
+
+WARNING: Obituario_CSBC.cli line 3 * Warning: Filename should match source Id to avoid errors. File: Obituario_CSBC Id: CSBC-Obituario_csbc.
+Near lines: 3 
+Near lines: 4       inscricao$obituario_csbc0101/01/01/9999/obito/fol=obituario da Colegiada de S. Bartolomeu, fl.1 (p.84)/loc=Coimbra/sumario=D. André doou uma vinha na Várzea à Colegiada de S. Bartolomeu para sustentar a celebração anual do aniversário da sua morte.
+
+
+WARNING: Obituario_CSBC.cli line 3 Element value exceeds database field length: loc=ACL,serie azul,1186;ACL, serie azul, 1652(publicado em Maria Amélia Álvaro de Campos, A Comemoração dos mortos no calendário dos vivos. O Obituário medieval da Colegiada de São Bartolomeu de Coimbra. Edição crítica e estudo do manuscrito. Coimbra: IUC, 2020.. Size:258 limit: 64
+Near lines: 3 
+Near lines: 4       inscricao$obituario_csbc0101/01/01/9999/obito/fol=obituario da Colegiada de S. Bartolomeu, fl.1 (p.84)/loc=Coimbra/sumario=D. André doou uma vinha na Várzea à Colegiada de S. Bartolomeu para sustentar a celebração anual do aniversário da sua morte.
+
+6: inscricao$CSBC-obituario_csbc0101
+19: inscricao$CSBC-obituario_csbc0101_a
+36: inscricao$CSBC-obituario_csbc0201
+54: inscricao$CSBC-obituario_csbc0301
+69: inscricao$CSBC-obituario_csbc0401
+83: inscricao$CSBC-obituario_csbc0501
+99: inscricao$CSBC-obituario_csbc0601
+113: inscricao$CSBC-obituario_csbc0701
+130: inscricao$CSBC-obituario_csbc0801
+148: inscricao$CSBC-obituario_csbc0901
+162: inscricao$CSBC-obituario_csbc1201
+175: inscricao$CSBC-obituario_csbc1301
+190: inscricao$CSBC-obituario_csbc1401
+211: inscricao$CSBC-obituario_csbc1501
+227: inscricao$CSBC-obituario_csbc1601
+244: inscricao$CSBC-obituario_csbc1701
+259: inscricao$CSBC-obituario_csbc1801
+278: inscricao$CSBC-obituario_cbsc1901
+291: inscricao$CSBC-obituario_csbc2001
+308: inscricao$CSBC-obituario_csbc2201
+324: inscricao$CSBC-obituario_csbc2301
+340: inscricao$CSBC-obituario_csbc2401
+361: inscricao$CSBC-obituario_csbc2501
+377: inscricao$CSBC-obituario_csbc2601
+398: inscricao$CSBC-obituario_csbc2701
+415: inscricao$CSBC-obituario_csbc2801
+428: inscricao$CSBC-obituario_csbc2901
+443: inscricao$CSBC-obituario_csbc3001
+460: inscricao$CSBC-obituario_csbc3101
+478: inscricao$CSBC-obituario_cbsc0102
+490: inscricao$CSBC-obituario_csbc0102_a
+504: inscricao$CSBC-obituario_csbc0102_b
+526: inscricao$CSBC-obituario_csbc0202
+545: inscricao$CSBC-obituario_csbc0202_a
+557: inscricao$CSBC-obituario_csbc0202_b
+575: inscricao$CSBC-obituario_csbc0202_c
+600: inscricao$CSBC-obituario_csbc0302
+617: inscricao$CSBC-obituario_csbc0402
+636: inscricao$CSBC-obituario_csbc0402_a
+655: inscricao$CSBC-obituario_csbc0502
+670: inscricao$CSBC-obituario_csbc0602
+684: inscricao$CSBC-obituario_csbc0702
+703: inscricao$CSBC-obituario_csbc0802
+720: inscricao$CSBC-obituario_csbc0902
+733: inscricao$CSBC-obituario_csbc0902_a
+749: inscricao$CSBC-obituario_csbc1002
+765: inscricao$CSBC-obituario_csbc1102
+780: inscricao$CSBC-obituario_csbc1302
+797: inscricao$CSBC-obituario_csbc1402
+814: inscricao$CSBC-obituario_csbc1502
+827: inscricao$CSBC-obituario_csbc1602
+842: inscricao$CSBC-obituario_csbc1702
+858: inscricao$CSBC-obituario_csbc1802
+871: inscricao$CSBC-obituario_csbc1802_a
+884: inscricao$CSBC-obituario_csbc1902
+896: inscricao$CSBC-obituario_csbc2002
+909: inscricao$CSBC-obituario_csbc2102
+
+WARNING: Obituario_CSBC.cli line 908 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.97). Size:65 limit: 64
+Near lines: 908 
+Near lines: 909          doador$Mendo Neuna/id=obituario_csbc2102-MNeuna
+
+925: inscricao$CSBC-obituario_csbc2202
+
+WARNING: Obituario_CSBC.cli line 924 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.97). Size:65 limit: 64
+Near lines: 924 
+Near lines: 925          celebrado$Estêvão Peres/id=obituario_csbc2202-EPeres
+
+940: inscricao$CSBC-obituario_csbc2302
+
+WARNING: Obituario_CSBC.cli line 939 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.97). Size:65 limit: 64
+Near lines: 939 
+Near lines: 940          doador$Frutuoso/id=obituario_csbc2302-DFrutuoso
+
+958: inscricao$CSBC-obituario_csbc2402
+
+WARNING: Obituario_CSBC.cli line 957 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.98). Size:65 limit: 64
+Near lines: 957 
+Near lines: 958          doadora$Justa Peres/id=obituario_csbc2402-JPeres
+
+973: inscricao$CSBC-obituario_csbc2402_a
+
+WARNING: Obituario_CSBC.cli line 972 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.98). Size:65 limit: 64
+Near lines: 972 
+Near lines: 973          doador$Matias Martins/id=obituario_csbc2402_a-MMartins
+
+986: inscricao$CSBC-obituario_csbc2502
+
+WARNING: Obituario_CSBC.cli line 985 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.98). Size:65 limit: 64
+Near lines: 985 
+Near lines: 986          doador$Bartolomeu Gonçalves/id=obituario_csbc2502-BGonçalves
+
+1006: inscricao$CSBC-obituario_csbc2602
+
+WARNING: Obituario_CSBC.cli line 1005 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.98). Size:65 limit: 64
+Near lines: 1005 
+Near lines: 1006          doador$Domingos Gonçalves/id=obituario_csbc2602-DGonçalves
+
+1023: inscricao$CSBC-obituario_csbc2702
+
+WARNING: Obituario_CSBC.cli line 1022 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.99). Size:65 limit: 64
+Near lines: 1022 
+Near lines: 1023          doador$Domingos António/id=obituario_csbc2702-DAntónio
+
+1039: inscricao$CSBC-obituario_csbc2802
+
+WARNING: Obituario_CSBC.cli line 1038 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.3v (p.99). Size:65 limit: 64
+Near lines: 1038 
+Near lines: 1039          doador$Gomes Anes/id=obituario_csbc2802-GAnes
+
+1063: inscricao$CSBC-obituario_csbc0103
+1075: inscricao$CSBC-obituario_csbc0103_a
+
+WARNING: Obituario_CSBC.cli line 1074 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1074 
+Near lines: 1075          doador$João Bermudes/id=obituario_csbc0103_a-JBermudo
+
+1091: inscricao$CSBC-obituario_csbc0103_b
+
+WARNING: Obituario_CSBC.cli line 1090 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1090 
+Near lines: 1091          doador$Miguel Parrela/id=obituario_csbc0103_b-MParrela
+
+1104: inscricao$CSBC-obituario_csbc0203
+
+WARNING: Obituario_CSBC.cli line 1103 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1103 
+Near lines: 1104          doador$Salvador/id=obituario_csbc0203-Salvador
+
+1121: inscricao$CSBC-obituario_csbc0303
+
+WARNING: Obituario_CSBC.cli line 1120 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1120 
+Near lines: 1121          celebrado$Gonçalo Anes/id=obituario_csbc0303-GAnes
+
+1140: inscricao$CSBC-obituario_csbc0403
+
+WARNING: Obituario_CSBC.cli line 1139 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1139 
+Near lines: 1140          referido$nome desconhecido/id=obituario_csbc0403-bispo
+
+1160: inscricao$CSBC-obituario_csbc0503
+
+WARNING: Obituario_CSBC.cli line 1159 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1159 
+Near lines: 1160          doadora$Maria Esteves/id=obituario_csbc0503-MEsteves
+
+1174: inscricao$CSBC-obituario_csbc0503_a
+
+WARNING: Obituario_CSBC.cli line 1173 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.100). Size:65 limit: 64
+Near lines: 1173 
+Near lines: 1174          celebrado$Fernando/id=obituario_csbc0503_a-Fernando
+
+1195: inscricao$CSBC-obituario_csbc0603
+
+WARNING: Obituario_CSBC.cli line 1194 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.101). Size:65 limit: 64
+Near lines: 1194 
+Near lines: 1195          celebrada$Margarida Anes/id=obituario_csbc0603-MAnes
+
+1214: inscricao$CSBC-obituario_csbc0703
+
+WARNING: Obituario_CSBC.cli line 1213 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.101). Size:65 limit: 64
+Near lines: 1213 
+Near lines: 1214          celebrado$Martim Anes/id=obituario_csbc0703-MAnes
+
+1231: inscricao$CSBC-obituario_csbc0803
+
+WARNING: Obituario_CSBC.cli line 1230 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.101). Size:65 limit: 64
+Near lines: 1230 
+Near lines: 1231          doador$Godinho/id=obituario_csbc0803-DGodinho
+
+1244: inscricao$CSBC-obituario_csbc1003
+
+WARNING: Obituario_CSBC.cli line 1243 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4 (p.101). Size:65 limit: 64
+Near lines: 1243 
+Near lines: 1244          doador$nome desconhecido/id=obituario_csbc1003-Desconhecido
+
+1259: inscricao$CSBC-obituario_csbc1103
+
+WARNING: Obituario_CSBC.cli line 1258 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.102). Size:66 limit: 64
+Near lines: 1258 
+Near lines: 1259          celebrado$Estêvão Peres/id=obituario_csbc1103-EPeres
+
+1274: inscricao$CSBC-obituario_csbc1203
+
+WARNING: Obituario_CSBC.cli line 1273 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.102). Size:66 limit: 64
+Near lines: 1273 
+Near lines: 1274          celebrada$Maria Peres/id=obituario_csbc1203-MPeres
+
+1295: inscricao$CSBC-obituario_csbc1303
+
+WARNING: Obituario_CSBC.cli line 1294 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.102). Size:66 limit: 64
+Near lines: 1294 
+Near lines: 1295          doador$João Anes/id=obituario_csbc1303-JAnes
+
+1313: inscricao$CSBC-obituario_csbc1403
+
+WARNING: Obituario_CSBC.cli line 1312 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1312 
+Near lines: 1313          doador$Fernão/id=obituario_csbc1403-FBuceta
+
+1330: inscricao$CSBC-obituario_csbc1503
+
+WARNING: Obituario_CSBC.cli line 1329 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1329 
+Near lines: 1330          doadora$Maria Migueis/id=obituario_csbc1503-MMigueis
+
+1341: inscricao$CSBC-obituario_csbc1503_a
+
+WARNING: Obituario_CSBC.cli line 1340 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1340 
+Near lines: 1341          doador$Martim Mortorono/id=obituario_csbc1503_a-MMortorono
+
+1353: inscricao$CSBC-obituario_csbc1603
+
+WARNING: Obituario_CSBC.cli line 1352 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1352 
+Near lines: 1353          doador$Afonso Martins/id=obituario_csbc1603-AMartins
+
+1370: inscricao$CSBC-obituario_csbc1703
+
+WARNING: Obituario_CSBC.cli line 1369 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1369 
+Near lines: 1370          doador$Domingos Peres/id=obituario_csbc1703-DPeres
+
+1385: inscricao$CSBC-obituario_csbc1803
+
+WARNING: Obituario_CSBC.cli line 1384 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1384 
+Near lines: 1385          doador$Vicente Anes/id=obituario_csbc1803-VAnes
+
+1403: inscricao$CSBC-obituario_csbc1903
+
+WARNING: Obituario_CSBC.cli line 1402 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.4v (p.103). Size:66 limit: 64
+Near lines: 1402 
+Near lines: 1403          doador$Afonso Martins/id=obituario_csbc1903-AMartins
+
+1420: inscricao$CSBC-obituario_csbc2103
+
+WARNING: Obituario_CSBC.cli line 1419 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1419 
+Near lines: 1420          doadora$Maria Pais/id=obituario_csbc2103-MPais
+
+1434: inscricao$CSBC-obituario_csbc2203
+
+WARNING: Obituario_CSBC.cli line 1433 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1433 
+Near lines: 1434          celebrado$Domingos Migueis/id=obituario_csbc2203-DMigueis
+
+1450: inscricao$CSBC-obituario_csbc2303
+
+WARNING: Obituario_CSBC.cli line 1449 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1449 
+Near lines: 1450          doador$Afonso Martins/id=obituario_csbc2303-AMartins
+
+1467: inscricao$CSBC-obituario_csbc2403
+
+WARNING: Obituario_CSBC.cli line 1466 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1466 
+Near lines: 1467          doador$Estêvão Anes/id=obituario_csbc2403-EAnes
+
+1485: inscricao$CSBC-obituario_csbc2403_a
+
+WARNING: Obituario_CSBC.cli line 1484 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1484 
+Near lines: 1485          celebrada$Domingas Anes/id=obituario_csbc2403_a-DAnes
+
+1507: inscricao$CSBC-obituario_csbc2503
+
+WARNING: Obituario_CSBC.cli line 1506 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1506 
+Near lines: 1507          doador$Martim/id=obituario_csbc2503-MMartim
+
+1524: inscricao$CSBC-obituario_csbc2503_a
+
+WARNING: Obituario_CSBC.cli line 1523 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1523 
+Near lines: 1524          doador$Afonso Martins/id=obituario_csbc2503_a-AMartins
+
+1541: inscricao$CSBC-obituario_csbc2603
+
+WARNING: Obituario_CSBC.cli line 1540 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1540 
+Near lines: 1541          doador$Pedro Migueis/id=obituario_csbc2603-PMigueis
+
+1558: inscricao$CSBC-obituario_csbc2703
+
+WARNING: Obituario_CSBC.cli line 1557 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.105). Size:65 limit: 64
+Near lines: 1557 
+Near lines: 1558          doador$João Afonso/id=obituario_csbc2703-JAfonso
+
+1576: inscricao$CSBC-obituario_csbc2803
+
+WARNING: Obituario_CSBC.cli line 1575 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.106). Size:65 limit: 64
+Near lines: 1575 
+Near lines: 1576          doador$nome desconhecido/id=obituario_csbc2803-Desconhecido/obs=os benfeitores que deixaram uma casa onde morou Boy Alvo
+
+1597: inscricao$CSBC-obituario_csbc3003
+
+WARNING: Obituario_CSBC.cli line 1596 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.106). Size:65 limit: 64
+Near lines: 1596 
+Near lines: 1597          doador$Afonso Martins/id=obituario_csbc3003-AMartins
+
+1614: inscricao$CSBC-obituario_csbc3103
+
+WARNING: Obituario_CSBC.cli line 1613 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5 (p.106). Size:65 limit: 64
+Near lines: 1613 
+Near lines: 1614          doador$nome desconhecido/id=obituario_csbc3103-desconhecidoBraga
+
+1631: inscricao$CSBC-obituario_csbc3103_a
+
+WARNING: Obituario_CSBC.cli line 1630 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.106). Size:66 limit: 64
+Near lines: 1630 
+Near lines: 1631          celebrado$Afonso Domingues/id=obituario_csbc3103_a-ADomingues
+
+1649: inscricao$CSBC-obituario_csbc0104
+
+WARNING: Obituario_CSBC.cli line 1648 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.107). Size:66 limit: 64
+Near lines: 1648 
+Near lines: 1649          doador$Domingos Pais/id=obituario_csbc0104-DPais
+
+1662: inscricao$CSBC-obituario_csbc0204
+
+WARNING: Obituario_CSBC.cli line 1661 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.107). Size:66 limit: 64
+Near lines: 1661 
+Near lines: 1662          doadora$Maior Tripeira/id=obituario_csbc0204-MTripeira
+
+1686: inscricao$CSBC-obituario_csbc0304
+
+WARNING: Obituario_CSBC.cli line 1685 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.107). Size:66 limit: 64
+Near lines: 1685 
+Near lines: 1686          doador$Pedro Domingues/id=obituario_csbc0304-PDomingues
+
+1700: inscricao$CSBC-obituario_csbc0404
+
+WARNING: Obituario_CSBC.cli line 1699 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.107). Size:66 limit: 64
+Near lines: 1699 
+Near lines: 1700          doador$nome desconhecido/id=obituario_csbc0404-Desconhecido/obs=benfeitores que deixaram casas novas
+
+1717: inscricao$CSBC-obituario_csbc0504
+
+WARNING: Obituario_CSBC.cli line 1716 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1716 
+Near lines: 1717          doadora$Margarida Anes/id=obituario_csbc0504-MAnes
+
+1734: inscricao$CSBC-obituario_csbc0604
+
+WARNING: Obituario_CSBC.cli line 1733 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1733 
+Near lines: 1734          celebrado$Gonçalo Anes/id=obituario_csbc0604-GAnes
+
+1752: inscricao$CSBC-obituario_csbc0704
+
+WARNING: Obituario_CSBC.cli line 1751 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1751 
+Near lines: 1752          celebrada$Alda Roseta/id=obituario_csbc0704-ARoseta
+
+1766: inscricao$CSBC-obituario_csbc0804
+
+WARNING: Obituario_CSBC.cli line 1765 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1765 
+Near lines: 1766          doador$Pedro Anes/id=obituario_csbc0804-PAnes
+
+1780: inscricao$CSBC-obituario_csbc0904
+
+WARNING: Obituario_CSBC.cli line 1779 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1779 
+Near lines: 1780          doadora$Sancha Salvador/id=obituario_csbc0904-SSalvador
+
+1800: inscricao$CSBC-obituario_csbc1004
+
+WARNING: Obituario_CSBC.cli line 1799 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimvbra, fl.5v (p.108). Size:66 limit: 64
+Near lines: 1799 
+Near lines: 1800          celebrado$Martim Martins/id=obituario_csbc1004-MMartins
+
+1816: inscricao$CSBC-obituario_csbc1104
+1829: inscricao$CSBC-obituario_csbc1104_a
+1855: inscricao$CSBC-obituario_csbc1204
+1871: inscricao$CSBC-obituario_csbc1304
+1883: inscricao$CSBC-obituario_csbc1304_a
+1904: inscricao$CSBC-obituario_csbc1404
+1917: inscricao$CSBC-obituario_csbc1404_a
+1931: inscricao$CSBC-obituario_csbc1504
+1944: inscricao$CSBC-obituario_csbc1504_a
+1960: inscricao$CSBC-obituario_csbc1604
+1978: inscricao$CSBC-obituario_csbc1704
+1999: inscricao$CSBC-obituario_csbc1804
+2013: inscricao$CSBC-obituario_csbc1904
+2035: inscricao$CSBC-obituario_csbc2004
+2047: inscricao$CSBC-obituario_csbc2104
+2062: inscricao$CSBC-obituario_csbc2204
+2081: inscricao$CSBC-obituario_csbc2304
+2102: inscricao$CSBC-obituario_csbc2504
+2118: inscricao$CSBC-obituario_csbc2604
+2141: inscricao$CSBC-obituario_csbc2704
+2154: inscricao$CSBC-obituario_csbc2804
+2171: inscricao$CSBC-obituario_csbc2904
+2187: inscricao$CSBC-obituario_csbc2904_a
+2215: inscricao$CSBC-obituario_csbc3004
+2228: inscricao$CSBC-obituario_csbc3005_a
+2249: inscricao$CSBC-obituario_csbc0105
+2272: inscricao$CSBC-obituario_csbc0205
+2289: inscricao$CSBC-obituario_csbc0305
+2306: inscricao$CSBC-obituario_csbc0405
+2324: inscricao$CSBC-obituario_csbc0505
+2339: inscricao$CSBC-obituario_csbc0605
+2343: inscricao$CSBC-obituario_csbc0605_a
+2362: inscricao$CSBC-obituario_csbc0705
+2379: inscricao$CSBC-obituario_csbc0905
+2395: inscricao$CSBC-obituario_csbc1005
+2413: inscricao$CSBC-obituario_csbc1105
+2433: inscricao$CSBC-obituario_csbc1205
+2455: inscricao$CSBC-obituario_csbc1305
+2472: inscricao$CSBC-obituario_csbc1405
+2495: inscricao$CSBC-obituario_csbc1505
+2512: inscricao$CSBC-obituario_csbc1605
+2525: inscricao$CSBC-obituario_csbc1705
+2541: inscricao$CSBC-obituario_csbc1805
+2558: inscricao$CSBC-obituario_csbc1905
+2576: inscricao$CSBC-obituario_csbc2005
+2591: inscricao$CSBC-obituario_csbc2105
+2610: inscricao$CSBC-obituario_csbc2205
+2629: inscricao$CSBC-obituario_csbc2305
+2646: inscricao$CSBC-obituario_csbc2405
+2663: inscricao$CSBC-obituario_csbc2505
+2685: inscricao$CSBC-obituario_csbc2605
+2701: inscricao$CSBC-obituario_csbc2705
+2717: inscricao$CSBC-obituario_csbc2805
+2732: inscricao$CSBC-obituario_csbc2905
+2751: inscricao$CSBC-obituario_csbc3005
+2768: inscricao$CSBC-obituario_csbc3105
+2790: inscricao$CSBC-obituario_csbc0106
+2812: inscricao$CSBC-obituario_csbc0206
+2824: inscricao$CSBC-obituario_csbc0306
+2838: inscricao$CSBC-obituario_csbc0306_a
+2856: inscricao$CSBC-obituario_csbc0406
+2876: inscricao$CSBC-obituario_csbc0506
+2892: inscricao$CSBC-obituario_csbc0606
+2905: inscricao$CSBC-obituario_csbc0706
+2922: inscricao$CSBC-obituario_csbc0806
+2938: inscricao$CSBC-obituario_csbc0906
+2956: inscricao$CSBC-obituario_csbc1006
+2969: inscricao$CSBC-obituario_csbc1106
+2984: inscricao$CSBC-obituario_csbc1206
+3006: inscricao$CSBC-obituario_csbc1306
+3023: inscricao$CSBC-obituario_csbc1406
+3045: inscricao$CSBC-obituario_csbc1506
+
+WARNING: Obituario_CSBC.cli line 3050 Element value exceeds database field length: sexo=aniversário de João Afonso. Size:26 limit: 1
+Near lines: 3050          donatario$/aniversário de João Afonso/id=ani_obituario_csbc1506
+Near lines: 3051             atr$pagamento_aniversario/30 soldos
+
+3061: inscricao$CSBC-obituario_csbc1606
+3089: inscricao$CSBC-obituario_csbc1706
+3105: inscricao$CSBC-obituario_csbc1806
+3119: inscricao$CSBC-obituario_csbc2006
+3137: inscricao$CSBC-obituario_csbc2106
+3157: inscricao$CSBC-obituario_csbc2206
+3174: inscricao$CSBC-obituario_csbc2306
+3191: inscricao$CSBC-obituario_csbc2406
+3209: inscricao$CSBC-obituario_csbc2506
+3226: inscricao$CSBC-obituario_csbc2606
+3240: inscricao$CSBC-obituario_csbc2706
+3257: inscricao$CSBC-obituario_csbc2806
+3271: inscricao$CSBC-obituario_csbc3006
+3292: inscricao$CSBC-obituario_csbc0107
+
+WARNING: Obituario_CSBC.cli line 3291 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimbra, fl.10 (p.127). Size:65 limit: 64
+Near lines: 3291 
+Near lines: 3292          doador$Antão Garcia/id=obituario_csbc0107-AGarcia
+
+3304: inscricao$CSBC-obituario_csbc0107_a
+
+WARNING: Obituario_CSBC.cli line 3303 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimbra, fl.10 (p.127). Size:65 limit: 64
+Near lines: 3303 
+Near lines: 3304          doador$João Afonso/id=obituario_csbc0107_a-JAfonso
+
+3320: inscricao$CSBC-obituario_csbc0207
+3337: inscricao$CSBC-obituario_csbc0307
+3352: inscricao$CSBC-obituario_csbc0407
+3368: inscricao$CSBC-obituario_csbc0507
+3385: inscricao$CSBC-obituario_csbc0607
+3400: inscricao$CSBC-obituario_csbc0707
+3417: inscricao$CSBC-obituario_csbc0807
+3438: inscricao$CSBC-obituario_csbc0907
+3458: inscricao$CSBC-obituario_csbc1007
+3478: inscricao$CSBC-obituario_csbc1107
+3495: inscricao$CSBC-obituario_csbc1207
+3511: inscricao$CSBC-obituario_csbc1307
+3528: inscricao$CSBC-obituario_csbc1407
+3543: inscricao$CSBC-obituario_csbc1507
+3561: inscricao$CSBC-obituario_csbc1607
+3579: inscricao$CSBC-obituario_csbc1707
+3598: inscricao$CSBC-obituario_csbc1807
+3612: inscricao$CSBC-obituario_csbc1907
+3632: inscricao$CSBC-obituario_csbc2007
+3648: inscricao$CSBC-obituario_csbc2207
+3665: inscricao$CSBC-obituario_csbc2207_a
+3678: inscricao$CSBC-obituario_csbc2307
+3695: inscricao$CSBC-obituario_csbc2407
+3709: inscricao$CSBC-obituario_csbc2507
+3727: inscricao$CSBC-obituario_csbc2607
+3747: inscricao$CSBC-obituario_csbc2707
+3763: inscricao$CSBC-obituario_csbc2907
+3780: inscricao$CSBC-obituario_csbc0108
+3800: inscricao$CSBC-obituario_csbc0108_a
+3817: inscricao$CSBC-obituario_csbc0208
+3837: inscricao$CSBC-obituario_csbc0208_a
+3850: inscricao$CSBC-obituario_csbc0308
+3865: inscricao$CSBC-obituario_csbc0308_a
+3879: inscricao$CSBC-obituario_csbc0408
+3900: inscricao$CSBC-obituario_csbc0508
+3916: inscricao$CSBC-obituario_csbc0608
+3941: inscricao$CSBC-obituario_csbc0708
+3957: inscricao$CSBC-obituario_csbc0808
+3972: inscricao$CSBC-obituario_csbc0908
+3986: inscricao$CSBC-obituario_csbc0908_a
+3994: inscricao$CSBC-obituario_csbc1008
+4008: inscricao$CSBC-obituario_csbc1008_a
+4027: inscricao$CSBC-obituario_csbc1108
+4040: inscricao$CSBC-obituario_csbc1208
+4058: inscricao$CSBC-obituario_csbc1308
+4081: inscricao$CSBC-obituario_csbc1408
+4092: inscricao$CSBC-obituario_csbc1408_a
+4103: inscricao$CSBC-obituario_csbc1408_b
+4119: inscricao$CSBC-obituario_csbc1408_c
+4136: inscricao$CSBC-obituario_csbc1508
+4159: inscricao$CSBC-obituario_csbc1608
+4176: inscricao$CSBC-obituario_csbc1708
+4199: inscricao$CSBC-obituario_csbc1808
+4214: inscricao$CSBC-obituario_csbc1908
+4227: inscricao$CSBC-obituario_csbc2008
+4246: inscricao$CSBC-obituario_csbc2108
+4265: inscricao$CSBC-obituario_csbc2108_a
+4287: inscricao$CSBC-obituario_csbc2208
+4309: inscricao$CSBC-obituario_csbc2308
+4324: inscricao$CSBC-obituario_csbc2308_a
+4339: inscricao$CSBC-obituario_csbc2308_b
+4365: inscricao$CSBC-obituario_csbc2408
+4383: inscricao$CSBC-obituario_csbc2408_a
+4399: inscricao$CSBC-obituario_csbc2508
+4412: inscricao$CSBC-obituario_csbc2608
+4429: inscricao$CSBC-obituario_csbc2708
+4452: inscricao$CSBC-obituario_csbc2808
+4469: inscricao$CSBC-obituario_csbc2908
+4483: inscricao$CSBC-obituario_csbc3008
+4496: inscricao$CSBC-obituario_csbc3108
+4508: inscricao$CSBC-obituario_csbc0109
+4531: inscricao$CSBC-obituario_csbc0109_a
+4545: inscricao$CSBC-obituario_csbc0109_b
+4564: inscricao$CSBC-obituario_csbc0209
+4589: inscricao$CSBC-obituario_csbc0309
+4606: inscricao$CSBC-obituario_csbc0309_a
+4618: inscricao$CSBC-obituario_csbc0409
+4637: inscricao$CSBC-obituario_csbc0409_a
+4655: inscricao$CSBC-obituario_csbc0509
+4669: inscricao$CSBC-obituario_csbc0609
+4684: inscricao$CSBC-obituario_csbc0709
+4705: inscricao$CSBC-obituario_csbc0709_a
+4719: inscricao$CSBC-obituario_csbc0709_b
+4740: inscricao$CSBC-obituario_csbc0809
+4753: inscricao$CSBC-obituario_csbc0809_a
+4775: inscricao$CSBC-obituario_csbc0909
+4793: inscricao$CSBC-obituario_csbc1009
+4809: inscricao$CSBC-obituario_csbc1109
+4824: inscricao$CSBC-obituario_csbc1209
+4839: inscricao$CSBC-obituario_csbc1309
+4856: inscricao$CSBC-obituario_csbc1409
+4871: inscricao$CSBC-obituario_csbc1509
+4885: inscricao$CSBC-obituario_csbc1609
+4899: inscricao$CSBC-obituario_csbc1709
+4913: inscricao$CSBC-obituario_csbc1809
+4933: inscricao$CSBC-obituario_csbc1909
+4949: inscricao$CSBC-obituario_csbc2009
+4968: inscricao$CSBC-obituario_csbc2109
+4983: inscricao$CSBC-obituario_csbc2209
+5004: inscricao$CSBC-obituario_csbc2309
+5019: inscricao$CSBC-obituario_csbc2409
+5040: inscricao$CSBC-obituario_csbc2509
+5060: inscricao$CSBC-obituario_csbc2609
+5078: inscricao$CSBC-obituario_csbc2709
+5097: inscricao$CSBC-obituario_csbc2809
+5116: inscricao$CSBC-obituario_csbc2909
+5134: inscricao$CSBC-obituario_csbc3009
+5151: inscricao$CSBC-obituario_csbc0110
+5166: inscricao$CSBC-obituario_csbc0210
+5185: inscricao$CSBC-obituario_csbc0310
+5203: inscricao$CSBC-obituario_csbc0410
+5216: inscricao$CSBC-obituario_csbc0510
+5230: inscricao$CSBC-obituario_csbc0610
+5248: inscricao$CSBC-obituario_csbc0710
+5267: inscricao$CSBC-obituario_csbc0810
+5283: inscricao$CSBC-obituario_csbc0910
+5303: inscricao$CSBC-obituario_csbc1010
+5324: inscricao$CSBC-obituario_csbc1110
+5345: inscricao$CSBC-obituario_csbc1210
+5360: inscricao$CSBC-obituario_csbc1310
+5385: inscricao$CSBC-obituario_csbc1410
+5404: inscricao$CSBC-obituario_csbc1510
+5429: inscricao$CSBC-obituario_csbc1610
+5442: inscricao$CSBC-obituario_csbc1710
+5456: inscricao$CSBC-obituario_csbc1810
+5471: inscricao$CSBC-obituario_csbc1810_a
+5494: inscricao$CSBC-obituario_csbc1910
+5510: inscricao$CSBC-obituario_csbc2010
+5525: inscricao$CSBC-obituario_csbc2110
+5546: inscricao$CSBC-obituario_csbc2210
+5565: inscricao$CSBC-obituario_csbc2310
+5583: inscricao$CSBC-obituario_csbc2410
+5608: inscricao$CSBC-obituario_csbc2510
+5632: inscricao$CSBC-obituario_csbc2610
+5646: inscricao$CSBC-obituario_csbc2710
+5663: inscricao$CSBC-obituario_csbc2810
+5685: inscricao$CSBC-obituario_csbc2910
+5708: inscricao$CSBC-obituario_csbc3010
+5724: inscricao$CSBC-obituario_csbc3110
+5745: inscricao$CSBC-obituario_csbc0111
+5762: inscricao$CSBC-obituario_csbc0111_a
+5777: inscricao$CSBC-obituario_csbc0111_b
+5798: inscricao$CSBC-obituario_csbc0211
+5818: inscricao$CSBC-obituario_csbc0311
+5839: inscricao$CSBC-obituario_csbc0411
+5857: inscricao$CSBC-obituario_csbc0411_a
+5874: inscricao$CSBC-obituario_csbc0511
+5892: inscricao$CSBC-obituario_csbc0611
+5911: inscricao$CSBC-obituario_csbc0711
+5927: inscricao$CSBC-obituario_csbc0811
+
+WARNING: Obituario_CSBC.cli line 5926 Element value exceeds database field length: fol=obituario da Colegiada de S. Bartolomeu de Coimbra, fl.16 (p.157). Size:65 limit: 64
+Near lines: 5926 
+Near lines: 5927       inscricao$obituario_csbc0911/09/11/9999/aniversario/fol=obituario da Colegiada de S. Bartolomeu, fl.16 (p.156)/loc=Coimbra/sumario=Inscrição ilegível por causa do desgaste da tinta. Com acrescento posterior de pão.
+
+5929: inscricao$CSBC-obituario_csbc0911
+5945: inscricao$CSBC-obituario_csbc1011
+5962: inscricao$CSBC-obituario_csbc1111
+5980: inscricao$CSBC-obituario_csbc1211
+5999: inscricao$CSBC-obituario_csbc1211_a
+6016: inscricao$CSBC-obituario_csbc1311
+6034: inscricao$CSBC-obituario_csbc1411
+6061: inscricao$CSBC-obituario_csbc1511
+6077: inscricao$CSBC-obituario_csbc1611
+6096: inscricao$CSBC-obituario_csbc1711
+6116: inscricao$CSBC-obituario_csbc1811
+6134: inscricao$CSBC-obituario_csbc1911
+6148: inscricao$CSBC-obituario_csbc2011
+6164: inscricao$CSBC-obituario_csbc2111
+6185: inscricao$CSBC-obituario_csbc2211
+6204: inscricao$CSBC-obituario_csbc2311
+6219: inscricao$CSBC-obituario_csbc2411
+6235: inscricao$CSBC-obituario_csbc2511
+6248: inscricao$CSBC-obituario_csbc2611
+6263: inscricao$CSBC-obituario_csbc2711
+6280: inscricao$CSBC-obituario_csbc2811
+6294: inscricao$CSBC-obituario_csbc2911
+6307: inscricao$CSBC-obituario_csbc0112
+6331: inscricao$CSBC-obituario_csbc0212
+6346: inscricao$CSBC-obituario_csbc0312
+6359: inscricao$CSBC-obituario_csbc0412
+6379: inscricao$CSBC-obituario_csbc0512
+6393: inscricao$CSBC-obituario_csbc0612
+6414: inscricao$CSBC-obituario_csbc0712
+6430: inscricao$CSBC-obituario_csbc0712_a
+6450: inscricao$CSBC-obituario_csbc0812
+6464: inscricao$CSBC-obituario_csbc0912
+6484: inscricao$CSBC-obituario_csbc1012
+6499: inscricao$CSBC-obituario_csbc1112
+6518: inscricao$CSBC-obituario_csbc1212
+6537: inscricao$CSBC-obituario_csbc1312
+6550: inscricao$CSBC-obituario_csbc1412
+6568: inscricao$CSBC-obituario_csbc1512
+6585: inscricao$CSBC-obituario_csbc1612
+6601: inscricao$CSBC-obituario_csbc1712
+6619: inscricao$CSBC-obituario_csbc1712_a
+6635: inscricao$CSBC-obituario_csbc1812
+6652: inscricao$CSBC-obituario_csbc1812_a
+6670: inscricao$CSBC-obituario_csbc1912
+6689: inscricao$CSBC-obituario_csbc2112
+6708: inscricao$CSBC-obituario_csbc2212
+6738: inscricao$CSBC-obituario_csbc2312
+6754: inscricao$CSBC-obituario_csbc2312_a
+6767: inscricao$CSBC-obituario_csbc2412
+6782: inscricao$CSBC-obituario_csbc2512
+6798: inscricao$CSBC-obituario_csbc2712
+6813: inscricao$CSBC-obituario_csbc2812
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/Obituario_CSBC.cli
+** Original file- /kleio-home/sources/commersb/sources/Obituario_CSBC.org
+** Previous version- /kleio-home/sources/commersb/sources/Obituario_CSBC.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/Obituario_CSBC.ids
+** - /kleio-home/sources/commersb/sources/Obituario_CSBC.cli-renamed to- /kleio-home/sources/commersb/sources/Obituario_CSBC.old
+0  errors. 
+59  warnings.
+Translation finished.

@@ -1,0 +1,41 @@
+kleio$gacto2.str
+
+    fonte$emprazamentosdocabido/data=1033-1486/tipo=emprazamentos/loc=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82, doc.188
+
+        escritura$empcabido1434/99/99/1434/emprazamento/loc=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82/sumario=Emprazamento de um chao pardieiro no adro da Igreja de São Bartolomeu a Erea Peres
+
+        senhorio$Cabido da Sé de Coimbra/id=cabidose1434
+
+        enfiteutaf$Erea Peres/id=cabidose1434_ereaperes
+        ls$residencia/Coimbra
+
+        bem$chão pardieiro
+        atr$localizacao/Adro de S. Bartolomeu
+        atr$duracao/3 vidas
+        atr$confrontacoes/com o chao de Alfonso Lourenço tanoeiro
+        atr$condicoes/ faça em no dito chao de pardieiro hua boa caza bem feita de pedra e barro e de boas madeiras
+        atr$pagamento da renda principal/dia de S. Miguel de setembro
+        atr$renda principal valor/50 soldos
+        rel$posse/por emprazamento/Erea Peres/cabidose1434_ereaperes
+        rel$posse/pertence/Cabido da Sé de Coimbra/cabidose1434
+
+        escritura$empcabido1442/99/99/1442/emprazamento/loc=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.188/sumario=Emprazamento de umas casas e cortinhal junto a igreja de São Bartolomeu a Martim Esteves e a sua mulher.
+
+        senhorio$Cabido da Sé de Coimbra/id=cabidose1442
+
+        enfiteuta$Martim Esteves/id=cabidose1442_martimesteves
+
+        enfiteutaf$nome desconhecido/id=cabidose1442_mulher
+        rel$parentesco/mulher/Martim Esteves/cabidose1442_martimesteves
+
+        bem$casas e cortinhal
+        atr$localizacao/Adro de S. Bartolomeu
+        atr$descricao/casas térreas
+        atr$condicoes/cazas em boom sobrado vistozo com traves padiaes de boom castanho e solhadas de boom solhado e frontal de castanho com suas ganellas e onde forem as ditas traves e padiais fazer boas paredes de pedra e de cal e as outras paredes de pedra e barro e bem a cafellas as com boa cal e o telhado das ditas cazas bem portado com boa madeira de castanho e asi a comieira e tirantes e cabros do dito telhado de guiza que todo seja bem feito e bem portado em vista de mestreirajes do dia e feitura deste contrato atá dous annos primeiros seguintes e as ditas cazas feitas e acabadas e corregidas atá dio tempo./obs=sic.
+        atr$pagamento da renda principal/dia de S. Miguel de setembro
+        atr$renda principal valor/qualquer moeda que vale duas onças de prata e por pena dois marcos de prata
+        rel$posse/pertence/Cabido da Sé de Coimbra/cabidose1442
+        rel$posse/por emprazamento/Martim Esteves/cabidose1442_martimesteves
+        rel$posse/por emprazamento/nome desconhecido/cabidose1442_mulher
+
+

@@ -1,0 +1,47 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+30-10-2023 19-15
+
+Processing data file sbartolomeupub_CRISTINA GUARDADO3.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$avsbartolomeupub3
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO3.cli line 3 * Warning: Filename should match source Id to avoid errors. File: sbartolomeupub_CRISTINA GUARDADO3 Id: avsbartolomeupub3.
+Near lines: 3 Near lines: 4       escritura$sbartproc1369.1/26/4/1369/procuracao/fol=colsbart, cx. 6, m. 13, n. 5a; guardado 70 e 71a/loc=Coimbra, igreja de S. Bartolomeu/sumario=Joana Rodrigues, viúva de Afonso Martins, pousadeiro, e sua testamenteira, moradora em Coimbra, nomeia seus procuradores João de Elvas e Afonso Martins, clérigos, para darem posse da terça das herdades que o seu marido deixara à igreja S. Bartolomeu, com a condição de elas as usufruir em vida./obs=documento publicado, bom
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO3.cli line 3 Element value exceeds database field length: loc=colsbart, cx. 6, m. 13, n. 5a; guardado 70 e 71a; colsbart, cx. 6, m. 13, n. 5b; guardado 71; colsbart, cx. 6, m. 13, n. 5a; guardado 72; colsbart, cx. 2, m. 6, n. 2b; guardado 73; colsbart, cx. 6, m. 13, n. 5c; guardado 74; colsbart, cx. 2, m. 6, n. 3; guardado 75; colsbart, cx. 2, m. 6, n. 4; guardado 76; colsbart, cx. 2, m. 6, n. 5; guardado 77; colsbart, cx. 2, m. 6, n. 1; guardado 78; colsbart, cx. 2, m. 6, n. 6; guardado 79. Size:433 limit: 64
+Near lines: 3 Near lines: 4       escritura$sbartproc1369.1/26/4/1369/procuracao/fol=colsbart, cx. 6, m. 13, n. 5a; guardado 70 e 71a/loc=Coimbra, igreja de S. Bartolomeu/sumario=Joana Rodrigues, viúva de Afonso Martins, pousadeiro, e sua testamenteira, moradora em Coimbra, nomeia seus procuradores João de Elvas e Afonso Martins, clérigos, para darem posse da terça das herdades que o seu marido deixara à igreja S. Bartolomeu, com a condição de elas as usufruir em vida./obs=documento publicado, bom
+6: escritura$sbartproc1369.1
+48: escritura$sbartpos1369.2
+82: escritura$sbartren1369.3
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO3.cli line 93 Element value exceeds database field length: sexo=sbartren1369.3.vicente. Size:22 limit: 1
+Near lines: 93          renunciante$Vicente Martins/sbartren1369.3.vicente/id=sbartren1369.3-per3Near lines: 94             ls$cargo/Raçoeiro de Santa Justa
+130: escritura$sbartemp1369.4
+181: escritura$sbartpos1369.5
+226: escritura$sbartctes1370.1
+275: escritura$sbartemp1373.1
+328: escritura$sbartemp1374.1
+367: escritura$sbartemp1374.2
+404: escritura$sbartemp1374.3
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO3.cli
+** Original file- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO3.org
+** Previous version- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO3.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO3.ids
+0  errors. 
+3  warnings.
+Translation finished.

@@ -1,0 +1,2252 @@
+kleio$gacto2.str
+   fonte$avsbartolomeupub1/1126-1416/varios/loc=colsbart, cx. 2, m. 5, n. 1; colsbart, cx. 2, m. 5, n. 1, guardado 1; colsbart, cx. 6, m. 12, n. 1, guardado 3; colsbart, cx. 6, m. 14, n. 1, guardado 4; colsbart, cx. 2, m. 5, n. 2, guardado 5; colsbart, cx. 6, m. 14, n. 3, guardado 7; colsbart, cx. 2, m. 5, n. 3, guardado 8; colsbart, cx. 1, m. 1, n. 3, guardado 9; colsbart, cx. 6, m. 13, n. 1, guardado 10; colsbart, cx. 2, m. 5, n. 4, guardado 11; colsbart, cx. 2, m. 5, n. 5, guardado 12; colsbart, cx. 2, m. 5, n. 6, guardado 14; colsbart, cx. 2, m. 5, n. 7, guardado 15; colsbart, cx. 6, m. 14, n. 4, guardado 16; colsbart, cx. 6, m. 14, n. 5, guardado 17; colsbart, cx. 2, m. 5, n. 8a, guardado 18; colsbart, cx. 6, m. 14, n. 6, guardado 19; colsbart, cx. 2, m. 5, n. 9, guardado 20; colsbart, cx. 2, m. 5, n. 10, guardado 21; colsbart, cx. 2, m. 5, n. 11 e Cabido se de Coimbra, 2 incorp., m. 25, n. 1028, guardado 23; colsbart, cx. 6, m. 13, n. 2, guardado 24; colsbart, cx. 2, m. 5, n. 16, guardado 31a; colsbart, cx. 2, m. 5, n. 13, guardado 25; colsbart, cx. 6, m. 14, n. 7, guardado 26; colsbart, cx. 2, m. 5, n. 14, guardado 27; colsbart, cx. 6, m. 14, n. 8, guardado 28; colsbart, cx. 2, m. 5, n. 15, guardado 29; colsbart, cx. 6, m. 14, n. 9, guardado 30; colsbart, cx. 2, m. 5, n. 16, guardado 31; colsbart, cx. 1, m. 1, n. 5, guardado 32; colsbart, cx. 6, m. 14, n. 10, guardado 33; colsbart, cx. 6, m. 14, n. 11, guardado 34; colsbart, cx. 6, m. 14, n. 12, guardado 35; colsbart, cx. 6, m. 13, n. 3, guardado 36; colsbart, cx. 6, m. 14, n. 13, guardado 37; colsbart, cx. 6, m. 13, n. 4; m. 14, n. 14; m. 14, n. 30, guardado 38; colsbart, cx. 2, m. 5, n. 18; guardado 40; colsbart, cx. 2, m. 5, n. 19; guardado 41; colsbart, cx. 2, m. 5, n. 20; guardado 42; colsbart, cx. 2, m. 5, n. 21; guardado 43; colsbart, cx. 2, m. 5, n. 22; guardado 44; colsbart, cx. 6, m. 14, n. 16; guardado 45; colsbart, cx. 2, m. 5, n. 23; guardado 46; colsbart, cx. 2, m. 5, n. 24; guardado 47; colsbart, cx. 6, m. 14, n. 17; guardado 48; colsbart, cx. 6, m. 14, n. 18; guardado 49; colsbart, cx. 2, m. 5, n. 17; guardado 50; colsbart, cx. 1, m. 1, n. 6; guardado 51; colsbart, cx. 2, m. 5, n. 25; guardado 52; colsbart, cx. 2, m. 5, n. 26; guardado 53; colsbart, cx. 2, m. 5, n. 27; guardado 54; colsbart, cx. 2, m. 5, n. 28; guardado 55; colsbart, cx. 2, m. 5, n. 29; guardado 56/obs=escrituras de diferentes tipologias, publicadas na tese de cristina guardado1999
+
+      escritura$sbartcv1126.1/0/4/1126/compraevenda/fol=colsbart, cx. 2, m. 5, n. 1, guardado 1/loc=desconhecido/sumario=Goldrego e seus filhos, João, Julião, Justa e Legundia Pais vendem aos Confrades da igreja de S. Bartolomeu, Pedro Aires, João Vistreliz e Martim Soares, uma casa em Coimbra, perto dessa igreja./obs=documento publicado
+
+         vendedor$Goldrego/id=sbartcv1126.1.goldrego
+
+         vendedor$João Pais/id=sbartcv1126.1-per1
+            rel$parentesco/filho/Goldrego/sbartcv1126.1.goldrego
+
+         vendedor$Julião Pais/id=sbartcv1126.1-per2
+            rel$parentesco/filho/Goldrego/sbartcv1126.1.goldrego
+
+         vendedora$Justa Pais/id=sbartcv1126.1-per4
+         rel$parentesco/filho/Goldrego/sbartcv1126.1.goldrego
+
+         vendedor$Legundia Pais/id=sbartcv1126.1-per3
+            rel$parentesco/filha/Goldrego/sbartcv1126.1.goldrego
+
+         comprador$Pedro Anes/id=sbartcv1126.1Pedro
+            ls$titulo/Presbítero
+            ls$cargo/Confrade de S. Bartolomeu
+
+         comprador$João Aires/id=sbartcv1126.1.joao
+            ls$cargo/Confrade de S. Bartolomeu
+
+         comprador$João Vistreliz/id=sbartcv1126.1.vistreliz
+            ls$cargo/Confrade de S. Bartolomeu
+
+         comprador$Martim Soares/id=sbartcv1126.1.martim
+            ls$cargo/Confrade de S. Bartolomeu
+
+            referido$Paio Urufiz/obs=duvida de leitura/id=sbartcv1126.1.martim-per4
+
+            referido$Pedro Pais/id=sbartcv1126.1.martim-per5
+
+            referido$Martim Pais/id=sbartcv1126.1.martim-per6
+
+         test$Osebio Lepa/id=sbartcv1126.1-per7
+
+         test$Bermudo Pero/id=sbartcv1126.1-per8
+
+         test$Abdala Azeivero/id=sbartcv1126.1-per9
+
+         test$Guterres Jas/id=sbartcv1126.1-per10
+
+         escrivao$Paio/obs=notuit/id=sbartcv1126.1-per11
+            ls$titulo/Presbítero
+
+         test$Gonçalo Pais/id=sbartcv1126.1-per12
+
+         test$Gonçalo Imiaz/id=sbartcv1126.1-per13
+
+         bem$casa
+            atr$localizacao/junto a igreja S. Bartolomeu
+            atr$confrontacoes/oriente,via pública
+            atr$confrontacoes/ocidente, casa de Paio Urufiz e de Pedro Pais
+            atr$confrontacoes/aquilao, corte de Martim Pais
+            atr$confrontacoes/africa, via publica e adro de S. Bartolomeu
+            rel$posse/pertence/Goldrego/sbartcv1126.1.goldrego
+            rel$posse/por compra/Pedro Anes/sbartcv1126.1Pedro
+            rel$posse/por compra/João Aires/sbartcv1126.1.joao
+            rel$posse/por compra/João Vistreliz/sbartcv1126.1.vistreliz
+            rel$posse/por compra/Martim Soares/sbartcv1126.1.martim
+            atr$preco/65 soldos
+
+      escritura$sbartcomp1210.1/0/9/1210/composicao/fol=colsbart, cx. 6, m. 12, n. 1, guardado 3/loc=desconhecido/sumario=Egas Pais Cavaleiro, dito bacoro, renuncia a favor da igreja de s. bartolomeu de Coimbra a uma herdade em Ourém, que fora de Mestre Fernando, Clérigo, por mandado do rei Sancho I./obs=documento publicado
+
+         referido$Egas Pais/id=sbartcomp1210.1.egas
+            ls$alcunha/Bacoro
+            ls$titulo/Cavaleiro
+
+         referido$Sancho/obs=primeiro/id=sbartcomp1210.1-per1
+            ls$cargo/Rei de Portugal
+
+         referido$Fernando/id=sbartcomp1210.1.Fernando
+            ls$titulo/Mestre
+            ls$titulo/Clérigo
+
+         referido$Clérigos de S. Bartolomeu de Coimbra/id=sbartcomp1210.1.sbart
+
+         referido$Frutuoso/id=sbartcomp1210.1-per2
+            ls$cargo/Prior de S. Bartolomeu
+
+         referido$M Domingues/id=sbartcomp1210.1-per3
+            ls$cargo/Clérigo de S. Bartolomeu
+
+         referido$M Peres/id=sbartcomp1210.1-per4
+            ls$titulo/Diácono
+            ls$cargo/Clérigo de S. Bartolomeu
+
+         referido$João Vermudes/id=sbartcomp1210.1-per5
+            ls$titulo/Diácono
+            ls$cargo/Clérigo de S. Bartolomeu
+
+         referido$Paio Anes/id=sbartcomp1210.1-per6
+            rel$parentesco/sobrinho/Egas Pais/sbartcomp1210.1.egas
+
+         test$Bartolomeu/id=sbartcomp1210.1-per7
+            ls$titulo/Cavaleiro
+            ls$titulo/Dom
+
+         test$Lourenço/id=sbartcomp1210.1-per8
+            ls$titulo/Dom
+
+         test$Pedro Lourenco/id=sbartcomp1210.1-per9
+            ls$profissao/Mercador
+
+         test$Julião/id=sbartcomp1210.1-per10
+            ls$titulo/Mestre/obs=laico
+
+         test$Pedro de Santa Cruz/id=sbartcomp1210.1-per11
+
+         bem$herdade
+            atr$localizacao/Ourém
+            rel$posse/pertenceu/Fernando/sbartcomp1210.1.Fernando/obs=teve da mao do senhor rei
+            rel$posse/pertence/Egas Pais/sbartcomp1210.1.egas
+            rel$posse/por avenca/Clérigos de S. Bartolomeu de Coimbra/sbartsent1210.1.sbart/obs=passa para os Clérigos de S. Bartolomeu por ordem do rei
+            atr$condicoes/Egas Pais deve dar anualmente para o refeitório de S. Bartolomeu uma carga de vinho na primeira semana da quaresma ou um aureo e depois da sua morte os Clérigos de S. Bartolomeu devem rezar-lhe um aniversário pro bono.
+
+         bem$herdade
+            rel$posse/pertence/Clérigos de S. Bartolomeu de Coimbra/sbartcomp1210.1.sbart
+            rel$posse/por avença/Egas Pais/sbartcomp1210.1.egas
+            atr$duracao/1 vida
+            atr$condicoes/edifique uma casa e pague anualmente 1 fogaça e 2 capões
+
+         sentenca$avenca/obs=Egas Pais dá a herdade de Ourém aos Clérigos de S. Bartolomeu de Coimbra aos quais deve dar cada ano, na primeira semana da Quaresma, uma carga de vinho para o seu refeitório. por sua vez estes dão-lhe o usufruto de uma herdade junto a de um sobrinho./id=sbartcomp1210.1-obj3
+
+      escritura$sbartcomp1223.1/0/1/1223/composicao/fol=colsbart, cx. 6, m. 14, n. 1, guardado 4/loc=Coimbra/sumario=O Prior e os Clérigos da igreja de S.Pedro de Ourém e o Prior de S. bartolomeu de Coimbra,Pedro Martins, e os Clérigos fazem uma composição amigável relativamente a questão das dízimas da herdade que S. bartolomeu possui em Ourém./obs=documento publicado, cartas partidas por abc e assinaturas autografas.
+
+         referido$Prior e Clérigos de S.Pedro de Ourém/id=sbartcomp1223.1.Ourém
+
+         referido$M Garcia/id=sbartcomp1223.1-per1
+            ls$cargo/Prior de S. Pedro de Ourém
+
+         referido$Prior e Clérigos de S. Bartolomeu de Coimbra/id=sbartcomp1223.1.sbart
+
+         referido$Pedro Martins/id=sbartcomp1223.1-per2
+            ls$cargo/Prior de S. Bartolomeu
+
+         test$M Peres/id=sbartcomp1223.1-per3
+            ls$titulo/Diácono
+
+         test$J Martins/id=sbartcomp1223.1-per4
+            ls$titulo/Subdiácono
+
+         test$Simão/id=sbartcomp1223.1-per5
+            ls$titulo/Diácono
+
+         test$J Migueis/id=sbartcomp1223.1-per6
+            ls$titulo/Subdiácono
+
+         test$M Lug/id=sbartcomp1223.1-per7
+            ls$titulo/Subdiácono
+
+         test$P Anes/id=sbartcomp1223.1-per8
+            ls$titulo/Presbítero
+
+         test$A Pais/id=sbartcomp1223.1-per9
+            ls$titulo/Presbítero
+
+         test$P Peres/id=sbartcomp1223.1-per10
+            ls$titulo/Subdiácono
+
+         test$Martins/obs=primeiro nome ilegivel/id=sbartcomp1223.1-per11
+            ls$titulo/Presbítero
+
+         test$M Martins/id=sbartcomp1223.1-per12
+
+         test$Per Mn/id=sbartcomp1223.1-per13
+
+         test$P/id=sbartcomp1223.1-per14
+            ls$titulo/Presbítero
+
+         test$Jo/id=sbartcomp1223.1-per15
+            ls$cargo/Ostiário
+
+         test$João Vermundes/id=sbartcomp1223.1-per16
+            ls$titulo/Diácono
+
+         test$Miguel/id=sbartcomp1223.1-per17
+            ls$titulo/Diácono
+
+         demanda$nao pagamento do dizimo/obs=contenda entre as igrejas de S. Pedro de Ourém e de S. Bartolomeu de Coimbra sobre as dízimas que a última deveria receber da herdade que possuiam nessa localidade./id=sbartcomp1223.1-obj1
+
+         sentenca$avenca/obs=composição,a igreja de S. Bartolomeu deve receber para sempre as dízimas da produção e as dízimas dos seus rústicos depois destes pagarem uma pensão a igreja de S. Pedro de Ourém./id=sbartcomp1223.1-obj2
+
+      escritura$sbartcv1224.1/0/12/1224/compraevenda/fol=colsbart, cx. 2, m. 5, n. 2, guardado 5/loc=Coimbra/sumario=Miguel Martins vende a Maria Moniz a quarta parte de uma herdade em Alcalamouque (hoje Ribeira de Alcalamouque, fr. Alvorge, c. Ansião)./obs=documento publicado
+
+         referido$nome desconhecido/id=sbartcv1224.1.pai
+
+         vendedor$Miguel Martins/id=sbartcv1224.1.Miguel
+            rel$parentesco/filho/nome desconhecido/sbartcv1224.1.pai
+
+            referido$Mem Gil/id=sbartcv1224.1.mem
+
+         compradora$Maria Moniz/id=sbartcv1224.1.maria
+            rel$parentesco/filha/Mem Gil/sbartcv1224.1.mem
+
+         test$Martim Domingues/id=sbartcv1224.1-per1
+            ls$titulo/Presbítero
+
+         test$Mendo Peres/id=sbartcv1224.1-per2
+            ls$titulo/Subdiácono de Santiago
+
+         test$Domingos Peres/id=sbartcv1224.1-per3
+            ls$profissao/Alfaiate
+
+         test$Domingos Peres/id=sbartcv1224.1-per4
+            ls$alcunha/Nelior
+
+         escrivao$João Martins/obs=notuit/id=sbartcv1224.1-per5
+
+         test$Salvador/id=sbartcv1224.1-per6
+            ls$alcunha/Abobera
+
+         test$Pedro/id=sbartcv1224.1-per7
+            ls$alcunha/Cigarra
+
+         test$Martim/id=sbartcv1224.1-per8
+            ls$alcunha/Beicudo
+
+         test$Gonçalo/id=sbartcv1224.1-per9
+            ls$alcunha/Vaso mau
+
+         test$Raimundo/id=sbartcv1224.1-per10
+
+         bem$quarta parte de herdade
+            atr$localizacao/Alcalamouque
+            rel$posse/pertenceu/Mem Gil/sbartcv1224.1.mem
+            rel$posse/pertenceu/nome desconhecido/sbartcv1224.1.pai
+            rel$posse/pertence/Miguel Martins/sbartcv1224.1.Miguel
+            rel$posse/por compra/Maria Moniz/sbartcv1224.1.maria
+            atr$preco/12 morabitinos
+
+      escritura$sbartsent1266.1/25/7/1266/sentenca/fol=colsbart, cx. 6, m. 14, n. 3, guardado 7/loc=Ourém/sumario=O Prior da igreja de S. Bartolomeu, Domingos Mendes, mostra ao juiz de Ourém, Mendo Migueis, documentos relativos a herdade de Tomareis e queixa-se que o alcaide dessa vila, Fernando Moniz, cobrou coimas indevidas apoderando-se de varios animais dessa herdade. O juiz decide a favor de S. Bartolomeu e o alcaide entrega ao Prior da igreja 18 morabitinos./obs=documento publicado
+
+         demandador$igreja S. Bartolomeu/id=sbartsent1266.1.sbart
+
+            referido$Domingos Mendes/id=sbartsent1266.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Mendo Migueis/id=sbartsent1266.1.sbart-per2
+               ls$cargo/Juiz de Ourém
+
+         reu$Fernando Moniz/id=sbartsent1266.1-per3
+            ls$cargo/Alcaide de Ourém
+
+         tabeliao$João Peres/id=sbartsent1266.1-per4
+            ls$intitulacao/Público Tabelião do Castro de Ourém
+
+            referido$Fernando/id=sbartsent1266.1.Fernando
+               ls$alcunha/de bozeta
+               ls$titulo/Mestre
+
+         bem$herdade
+            atr$localizacao/Tomareis/obs=termo de Ourém
+            rel$posse/pertenceu/Fernando/sbartsent1266.1.Fernando
+            rel$posse/pertence/igreja S. Bartolomeu/sbartsent1266.1.sbart/obs=passa a igreja por mandado do rei
+
+         test$João Fernandes/id=sbartsent1266.1-per5
+            ls$titulo/Clérigo de S. João
+
+         test$Pedro Peres/id=sbartsent1266.1-per6
+            ls$titulo/Clérigo de S. João
+
+         test$Estevão Migueis/id=sbartsent1266.1-per7
+
+         test$Martim/id=sbartsent1266.1-per8
+
+         test$Domingos Sebastiaes/id=sbartsent1266.1-per9
+
+         test$Afonso Peres/id=sbartsent1266.1-per10
+
+         test$Peres/obs=primeiro nome ilegivel/id=sbartsent1266.1-per11
+            ls$alcunha/Arteiro
+
+         test$Pedro Martins/id=sbartsent1266.1-per12
+
+         test$Domingos Anes/id=sbartsent1266.1-per13
+            ls$alcunha/Falagueiro
+            ls$profissao/Sapateiro
+
+         test$Pedro Martins/id=sbartsent1266.1-per14
+            ls$naturalidade/Lousã/obs=de lauzanis
+
+         test$Pedro Peres/id=sbartsent1266.1-per15
+            ls$titulo/Clérigo de S. joao de Ourém
+
+         test$Domingos Anes/id=sbartsent1266.1-per16
+            ls$titulo/Clérigo S. Pedro
+
+         test$Domingos Peres/id=sbartsent1266.1-per17
+            ls$alcunha/Rosado
+
+         referido$Vicente/id=sbartsent1266.1.vicente
+            ls$titulo/Dom
+            ls$titulo/Clérigo
+
+         test$Domingos Peres/id=sbartsent1266.1-per18
+            ls$titulo/Clérigo da Sé Leiria
+            rel$parentesco/neto/Vicente/sbartsent1266.1.vicente
+
+         test$Durando Martins/id=sbartsent1266.1-per19
+
+         test$João/id=sbartsent1266.1-per20
+            ls$alcunha/de Prestar
+
+         demanda$usurpacao de propriedade de S. Bartolomeu/obs=O Prior e Clérigos de S. Bartolomeu de Coimbra queixam-se perante o juiz de Ourém do alcaide de Ourém por este lhes ter tomado indevidamente bens na herdade de Tomareis./id=sbartsent1266.1-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=o juiz dá razão a S. Bartolomeu pelo que o alcaide teve de entregar 18 morabitinos/id=sbartsent1266.1-obj3
+
+      escritura$sbartemp1279.1/7/5/1279/emprazamento/fol=colsbart, cx. 2, m. 5, n. 3, guardado 8/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Cabido da igreja de S. Bartolomeu empraza a Maria Domingues e seu filho, João Anes, uma vinha com oliveiras em Santa Eufémia, termo de Coimbra./obs=documento publicado
+
+         senhorio$Cabido da igreja de S. Bartolomeu/obs=nos capitulum sancti bartholomei/id=sbartemp1279.1.sbart
+
+         enfiteutaf$Maria Domingues/id=sbartemp1279.1.maria
+
+         enfiteuta$João Anes/id=sbartemp1279.1-per1
+            rel$parentesco/filho/Maria Domingues/sbartemp1279.1.maria
+
+         tabeliao$Gil Vicente/id=sbartemp1279.1-per2
+            ls$intitulacao/Público Tabelião de Coimbra
+
+         test$Afonso Peres/id=sbartemp1279.1-per3
+            ls$profissao/Peliteiro
+
+         test$Domingos Peres/id=sbartemp1279.1-per4
+            ls$alcunha/de Arronches
+            ls$profissao/Sapateiro
+
+         test$Diogo Anes/id=sbartemp1279.1-per5
+            ls$profissao/Sapateiro
+
+         test$André Rodrigues/id=sbartemp1279.1-per6
+            ls$titulo/Clérigo
+
+         bem$vinha com olivais
+            atr$localizacao/Santa Eufémia/obs=termo de Coimbra
+            rel$posse/pertence/Cabido da igreja de S. Bartolomeu/sbartemp1279.1.sbart
+            rel$posse/por emprazamento/Maria Domingues/sbartemp1279.1.maria
+            atr$duracao/2 vidas
+            atr$renda principal valor/2 libras/obs=e a dizima
+            atr$pagamento da renda principal/kalendas de julho
+
+      escritura$sbartsent1287.1/22/1/1287/sentenca/fol=colsbart, cx. 1, m. 1, n. 3, guardado 9/loc=beja/sumario=D. Dinis confirma a sentença dada na questão que opunha o Prior e o Cabido da igreja de S. Bartolomeu a Sebastião Feltreiro e sua mulher, Maria de Gois, por causa de duas casas que este ultimo trazia emprazadas e das quais nao pagava a renda devida, condenando-o ao pagamento das custas da delonga do processo./obs=documento publicado
+
+         referido$Dinis/id=sbartsent1287.1-per1
+            ls$titulo/Dom
+            ls$cargo/Rei de Portugal
+
+         demandador$Cabido de S. Bartolomeu/id=sbartsent1287.1.sbart
+
+         reu$Sebastião Feltreiro/id=sbartsent1287.1.sebastiao
+
+         reuf$Maria de Gois/id=sbartsent1287.1-per2
+            rel$parentesco/mulher/Sebastião Feltreiro/sbartsent1287.1.sebastiao
+
+            referido$Paio Domingues/id=sbartsent1287.1-per2-per3
+               ls$cargo/Sobrejuiz do Rei
+
+         escrivao$Martim Esteves/id=sbartsent1287.1-per4
+
+         bem$2 casas
+            atr$localizacao/Coimbra
+            rel$posse/pertence/Cabido de S. Bartolomeu/sbartsent1287.1.sbart
+            rel$posse/por emprazamento/Sebastião Feltreiro/sbartsent1287.1.sebastiao
+            atr$renda principal valor/6 libras/obs=no primeiro ano 5 libras menos quarta
+
+         demanda$nao pagamento de renda/obs=S. Bartolomeu queixava se que os enfiteutas não pagavam a renda/id=sbartsent1287.1-obj2
+
+         defesa$refutacao/obs=os enfiteutas dizem quem não devem pagar mais do que 6 libras menos quarta e logo a seguir dizem que querem entregar as casas que nunca outorgaram o emprazamento/id=sbartsent1287.1-obj3
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=a renda fica fixada em 6 libras menos quarta, mas os enfiteutas são obrigados a manter o contrato durante a sua vida assim como a pagar as custas/id=sbartsent1287.1-obj4
+
+      escritura$sbartsent1289.1/17/8/1289/sentenca/fol=colsbart, cx. 6, m. 13, n. 1, guardado 10/loc=leiria/sumario=Estevão Anes, Cónego da igreja de S. Bartolomeu, de acordo com a autoridade concedida pelo Prior, Pedro Peres, e Cabido dessa igreja proibe que Pedro Mendes de vouga possa entrar nas propriedades que estes tinham em Tomareis./obs=documento publicado
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1289.1.sbart
+
+            referido$Pedro Peres/id=sbartsent1289.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Domingos Mendes/id=sbartsent1289.1.sbart-per2
+               ls$cargo/Prior de S. Bartolomeu/obs=noutro tempo
+
+            referido$Domingos Vicente/id=sbartsent1289.1.domingos
+               ls$cargo/Cónego de S. Bartolomeu
+
+            referido$Estevão Anes/id=sbartsent1289.1.sbart-per3
+               ls$cargo/Cónego de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1289.1.sbart
+
+         reu$Pedro Mendes de Vouga/id=sbartsent1289.1-per4
+
+         bem$herdade
+            atr$localizacao/Tomareis/obs=termo de Coimbra
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartsent1289.1.sbart
+            rel$posse/por emprazamento/Domingos Vicente/sbartsent1289.1.domingos
+
+         tabeliao$Gil Pais/id=sbartsent1289.1-per5
+            ls$intitulacao/Público Tabelião de Leiria
+
+         test$Domingos Anes Tron/id=sbartsent1289.1-per6
+
+         test$Gil Domingues/id=sbartsent1289.1-per7
+
+         test$Gil Domingues/id=sbartsent1289.1-per8
+
+         test$Vasco Domingues/id=sbartsent1289.1-per9
+
+         test$João Migueis/id=sbartsent1289.1-per10
+
+         test$Pedro Peres/id=sbartsent1289.1-per11
+            ls$alcunha/Farrao
+            ls$titulo/Clérigo
+
+         demanda$usurpacao de propriedade de S. Bartolomeu/obs=Estevão Anes apresenta em nome do Prior e Cabido de S. Bartolomeu uma carta a proibir Pedro Mendes de Vouga de entrar e possuir as propriedades de S. Bartolomeu em Tomareis/id=sbartsent1289.1-obj2
+
+         defesa$refutacao/obs=Pedro de Vouga diz que possui a referida herdade que lhe foi transmitida por Domingos Vicente/id=sbartsent1289.1-obj3
+
+      escritura$sbartesc1291.1/6/3/1291/escambo/fol=colsbart, cx. 2, m. 5, n. 4, guardado 11/loc=Coimbra/sumario=O Prior da igreja de S. Bartolomeu, Pedro Peres e o Cabido dão à Prioresa, D. Teresa e ao convento do mosteiro de Santana de Coimbra um herdamento na hortas de Coimbra junto a esse mosteiro, recebendo em troca umas casas na Rua de Coruche (hoje Rua visconde da luz, fr. S. Bartolomeu, c. Coimbra) e 50 soldos por ano dessa herdade./obs=documento publicado
+
+         referido$Aimeric/obs=dá autorização/id=sbartesc1291.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         escambador$Prior e Cabido de S. Bartolomeu/id=sbartesc1291.1.sbart
+
+            referido$Pedro Peres/id=sbartesc1291.1.sbart-per2
+               ls$cargo/Prior de S. Bartolomeu
+
+         escambadora$Prioresa e convento do mosteiro de Celas da ponte/id=sbartesc1291.1.cponte
+
+            referida$Teresa/id=sbartesc1291.1.cponte-per3
+               ls$titulo/Dona
+               ls$cargo/Prioresa do mosteiro de Celas da ponte
+
+         bem$herdade
+            atr$localizacao/hortas de Coimbra
+            atr$confrontacoes/de uma parte com hortas no mosteiro de Celas da ponte que não estão muito longe do referido mosteiro
+            atr$renda principal valor/50 soldos
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartesc1291.1.sbart
+            rel$posse/por escambo/Prioresa e convento do mosteiro de Celas da ponte/sbartesc1291.1.cponte
+
+         bem$casas
+            atr$localizacao/Rua de Coruche
+            rel$posse/pertence/Prioresa e convento do mosteiro de Celas da ponte/sbartesc1291.1.cponte
+            rel$posse/por escambo/Prior e Cabido de S. Bartolomeu/sbartesc1291.1.sbart
+
+      escritura$sbartemp1292.1/19/6/1292/emprazamento/fol=colsbart, cx. 2, m. 5, n. 5, guardado 12/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu,Pedro Peres, e o Cabido emprazam a domingos Peres, pescador, e sua mulher, maria sobrinha, uma casa junto as casas de d. cipriana/obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1292.1.sbart
+
+            referido$Pedro Peres/id=sbartemp1292.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Domingos Peres/id=sbartemp1292.1.domingos
+            ls$profissao/Pescador
+
+         enfiteutaf$Maria Sobrinha/id=sbartemp1292.1-per2
+            rel$parentesco/mulher/Domingos Peres/sbartemp1292.1.domingos
+
+            referida$Cipriana/id=sbartemp1292.1-per2-per3
+               ls$titulo/Dona
+
+            referido$Simão/id=sbartemp1292.1.simao
+               ls$titulo/Dom
+
+         test$Pedro Domingues/id=sbartemp1292.1-per4
+            ls$alcunha/Beicudo
+
+         referido$Domingos Anes/id=sbartemp1292.1.lanceiro
+            ls$alcunha/Lanceiro
+
+         test$Vicente Domingues/id=sbartemp1292.1-per5
+            rel$parentesco/filho/Domingos Anes/sbartemp1292.1.lanceiro
+
+         referido$Domingos Mendes/id=sbartemp1292.1.barbeiro
+            ls$profissao/Barbeiro
+
+         test$Pedro Martins/id=sbartemp1292.1-per6
+            rel$parentesco/cunhado/Domingos Mendes/sbartemp1292.1.barbeiro
+
+         test$Fernando Pais/id=sbartemp1292.1-per7
+
+         escrivao$Miguel Domingues/obs=notavi/id=sbartemp1292.1-per8
+
+         bem$casa
+            atr$confrontacoes/ao pé das casas de D. Cipriana
+            rel$posse/pertenceu/Simão/sbartemp1292.1.simao
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1292.1.sbart
+            rel$posse/por emprazamento/Domingos Peres/sbartemp1292.1.domingos
+            atr$renda principal valor/2 libras e 5 soldos
+            atr$pagamento da renda principal/Páscoa e S. Miguel de Setembro
+
+      escritura$sbartdoa1295.1/4/7/1295/doacao/fol=colsbart, cx. 2, m. 5, n. 6, guardado 14/loc=Coimbra, igreja de S. Bartolomeu/sumario= O Prior da igreja de S. Bartolomeu,Pedro Peres, e o Cabido comprometem-se a fazer desde ja quatro aniversarios por alma de domingos Martins, capinteiro, e sua mulher, clara Anes, que em troca deixam uma casa em Coimbra, na freguesia dessa igreja, com reserva de usufruto mediante o pagamento de uma libra anual/obs=documento publicado
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1295.1.sbart
+
+            referido$Pedro Peres/id=sbartdoa1295.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         doador$Domingos Martins/id=sbartdoa1295.1.domingos
+            ls$profissao/Carpinteiro
+
+         doadora$Clara Anes/id=sbartdoa1295.1-per2
+            rel$parentesco/mulher/Domingos Martins/sbartdoa1295.1.domingos
+
+         tabeliao$Gil vicente/id=sbartdoa1295.1-per3
+            ls$intitulacao/Público Tabelião de Coimbra
+
+         test$Pedro Mendes/id=sbartdoa1295.1-per4
+            ls$profissao/Celeiro
+
+         test$Geraldo Peres/id=sbartdoa1295.1-per5
+            ls$profissao/Alfaiate
+
+         test$domingos Boroeiro/id=sbartdoa1295.1-per6
+            ls$profissao/Alfageme
+
+         test$Domingos/id=sbartdoa1295.1-per7
+            ls$alcunha/Sardinha
+            ls$profissao/Alfageme
+
+         test$Francisco Martins/id=sbartdoa1295.1-per8
+            ls$titulo/Clérigo
+
+         bem$casa
+            atr$localizacao/colacao de S. Bartolomeu/obs=insuburbio colimbrie
+            atr$confrontacoes/oriente,casas da igreja de S. Bartolomeu
+            atr$confrontacoes/ocidente,casas da igreja de S. Bartolomeu
+            atr$confrontacoes/aquilao,azinhaga
+            atr$confrontacoes/africa,via publica
+            rel$posse/pertence/Domingos Martinsi/sbartdoa1295.1.domingos
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1295.1.sbart/obs=aniversarios
+            atr$condicoes/doação com reserva de usufruto para os doadores mediante o pagamento de uma libra por dia de Páscoa
+
+      escritura$sbartdoa1305.1/2/1/1305/doacao/fol=colsbart, cx. 2, m. 5, n. 7, guardado 15/loc=Coimbra, se/sumario=Mestre João, Cónego do mosteiro de Santa Cruz e Lourenço Martins, Sapateiro, testamenteiros de Maior Peres, dita cabeça de porco, mãe do dito Mestre João, doam ao Prior e Cabido de S. Bartolomeu uma leira de vinha em banhos secos (fr. santa clara, c. Coimbra) com a condicao de fazer aniversario por alma dela e de sua irmã e de Lourenço Martins,sua mulher, filha e sucessores manterem o usufruto da terra, mediante o pagamento de 10 soldos anuais/obs=documento publicado
+
+         testadora$Mor Peres/id=sbartdoa1305.1.mor
+            ls$alcunha/Cabeça de Porco
+
+            referida$Susana Peres/id=sbartdoa1305.1.susana
+               rel$parentesco/irma/Mor Peres/sbartdoa1305.1.mor
+
+         testamenteiro$João/id=sbartdoa1305.1-per1
+            ls$titulo/Mestre
+            ls$cargo/Cónego de santa cruz
+            rel$sociabilidade/testamenteiro/Mor Peres/sbartdoa1305.1.mor
+
+         testamenteiro$Lourenço Martins/id=sbartdoa1305.1.lourenco
+            ls$profissao/Sapateiro
+            rel$parentesco/filho/Mor Peres/sbartdoa1305.1.mor
+            rel$sociabilidade/testamenteiro/Mor Peres/sbartdoa1305.1.mor
+
+            referida$Joana/id=sbartdoa1305.1.lourenco-per2
+               rel$parentesco/filha/Lourenço Martins/sbartdoa1305.1.lourenco
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1305.1.sbart
+
+            referido$João/id=sbartdoa1305.1.sbart-per3
+               ls$titulo/Mestre
+               ls$cargo/Prior de S. Bartolomeu
+
+         bem$vinha
+            atr$missas/2 aniversários/obs=por alma de Mor Peres e de sua irma Susana Peres
+            atr$localizacao/Banhos Secos
+            rel$posse/pertenceu/Mor Peres/sbartdoa1305.1.mor
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1305.1.sbart
+            atr$condicoes/fique para Lourenco Martins e seus herdeiros mediante o pagamento anual de 10 soldos
+
+      escritura$sbartsent1306.1/14/12/1306/sentenca/fol=colsbart, cx. 6, m. 14, n. 4, guardado 16/loc=Coimbra/sumario=Os vigários do Bispo de Coimbra, D. Estevão, Pedro Martins, Chantre, e D. Aimeric, Cónego, obrigam por sentenca Gonçalo telheiro a pagar a dizima da telha a igreja de S. Bartolomeu, como esta reclamava/obs=documento publicado
+
+         referido$Estevão/id=sbartsent1306.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Pero Martins/id=sbartsent1306.1-per2
+            ls$cargo/Chantre de Coimbra
+            ls$cargo/Vigário do Bispo de Coimbra
+
+         referido$Aimeric/id=sbartsent1306.1-per3
+            ls$titulo/Dom
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário do Bispo de Coimbra
+
+         demandador$igreja de S. Bartolomeu/obs=os raçoeiros de S. Bartolomeu/id=sbartsent1306.1.sbart
+
+         reu$Gonçalo/id=sbartsent1306.1-per4
+            ls$profissao/Telheiro
+            rel$economica/Fregues/igreja de S. Bartolomeu/sbartsent1306.1.sbart
+
+         escrivao$Estevão Peres/obs=scriptor juratus notuit/id=sbartsent1306.1-per5
+
+         demanda$nao pagamento do dizimo/obs=os raçoeiros de S. Bartolomeu demandavam perante os vigários do Bispo de Coimbra que Gonçalo Telheiro lhes pagasse a dízima/id=sbartsent1306.1-obj1
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=os vigários ordenam que Gonçalo pague 20 soldos pelas dízimas que deve/id=sbartsent1306.1-obj2
+
+      escritura$sbartsent1308.1/8/3/1308/sentenca/fol=colsbart, cx. 6, m. 14, n. 5, guardado 17/loc=Coimbra/sumario=Os vigários do Bispo de Coimbra D. Estevão, Aimeric, Arcediago, Rui, Cónego e mem Peres, obrigam por sentenca que o juizes e mordomos da confraria dos Sapateiros de Coimbra paguem a igreja de S. Bartolomeu a dizima dos rendimentos das alcaçarias que tinham em Coimbra, na freguesia dessa igreja junto ao rio mondego/obs=documento publicado
+
+         referido$Estevão/id=sbartsent1308.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Aimeric/id=sbartsent1308.1-per2
+            ls$titulo/Dom
+            ls$cargo/Arcediago
+            ls$cargo/Vigário do Bispo de Coimbra
+
+         referido$Rui/obs=dúvida de leitura/id=sbartsent1308.1-per3
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário do Bispo de Coimbra
+
+         referido$Mem Peres/id=sbartsent1308.1-per4
+            ls$cargo/Vigário do Bispo de Coimbra
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1308.1.sbart
+
+            referido$Gomes Anes/id=sbartsent1308.1.sbart-per5
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Afonso Anes/id=sbartsent1308.1.sbart-per6
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Afonso Anes/sbartsent1308.1.sbart
+
+         reu$Vicente Domingues/id=sbartsent1308.1-per7
+            ls$cargo/Juiz da confraria dos Sapateiros
+
+         reu$João Domingues/id=sbartsent1308.1-per8
+            ls$cargo/Juiz da confraria dos Sapateiros
+
+         escrivao$Estevão Peres/obs=scriptor juratus notuit/id=sbartsent1308.1-per9
+
+         demanda$nao pagamento do dizimo/obs=o procurador de S. Bartolomeu diz que a confraria dos Sapateiros tem umas alcaçarias em riba do mondego, na freguesia de S. Bartolomeu, de que todos os anos recebiam uma quantia em dinheiro de que o procurador pedia para as igreja receber a dízima/id=sbartsent1308.1-obj1
+
+         defesa$refutacao/obs=os juizes e mordomos da confraria dizem que não devem pagar nada a igreja porque fizeram uma avença com o Mestre João, antigo Prior de S. Bartolomeu. O procurador da igreja diz que mesmo que fosse verdade essa avenca não poderia ser válida porque prejudicava o Bispo de Coimbra que tem a terça pontifical da igreja. Pela tal composição com antigo Prior, os juizes e mordomos da confraria diziam não dever mais do que o pagamento anual de 30 soldos/id=sbartsent1308.1-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=os Arcediago mandam que a renda das alcaçarias seja dizimada e que a composição antiga se existiu deve deixar de vigorar./id=sbartsent1308.1-obj3
+
+      escritura$sbartaf1313.1/22/4/1313/aforamento/fol=colsbart, cx. 2, m. 5, n. 8a, guardado 18/loc=Coimbra/sumario=O Prior da igreja de S. Bartolomeu, Gomes e Anes, e o Cabido concedem hereditariamente a Abril Domingues, a sua mulher Domingas Anes e a seus sucessores uma carta de povoamento e foro de dois casais em pega (hoje povoa de pegas, fr. zambujal, c. condeixa-a-nova)/obs=documento publicado, cartas partidas por abc
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartaf1313.1.sbart
+
+            referido$Gomes Anes/id=sbartaf1313.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Abril Gonçalves/id=sbartaf1313.1.abril
+
+         enfiteutaf$Domingas Anes/id=sbartaf1313.1-per2
+            rel$parentesco/mulher/Abril Gonçalves/sbartaf1313.1.abril
+
+         tabeliao$Miguel Lourenco/id=sbartaf1313.1-per3
+            ls$intitulacao/Público Tabelião de Coimbra
+
+         test$Estevão Anes/id=sbartaf1313.1-per4
+            ls$cargo/Prior de Santa Eufémia de Penela
+
+         test$Pero Martins da Lousa/id=sbartaf1313.1-per5
+
+         test$Afonso Vicente/id=sbartaf1313.1-per6
+
+         test$Pedro Domingues/id=sbartaf1313.1-per7
+            ls$cargo/Capelão
+
+         test$Salvador Martins/id=sbartaf1313.1-per8
+            ls$titulo/Clérigo de S. Bartolomeu
+
+         test$Domingos/id=sbartaf1313.1-per9
+            ls$alcunha/Barcaro
+
+         test$João/id=sbartaf1313.1-per10
+            ls$alcunha/Barrcaro
+
+         bem$2 casais
+            atr$localizacao/Pega
+            atr$pedida de mordomo/20 pães de calo e 2 alqueires de farinha peneirada
+            atr$antemao/2 frangões
+            atr$renda principal valor/quinta parte da produção dos herdamentos que não são reguengos e a nona parte dos que são reguengos
+            atr$renda acessoria/20 ovos e 20 pães de calo em S. Miguel de setembro e 1 carneiro vivo ou 15 soldos por ele e 20 paes por Páscoa
+            atr$corveia/sim
+            atr$colheita/ao Prior e devem receber o prioste quando ele aí for receber as rendas
+            atr$sisa/quinta parte da venda
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartaf1313.1.sbart
+            rel$posse/por aforamento/Abril Gonçalves/sbartaf1313.1.sbart
+            atr$duracao/vitalício e hereditário
+
+      escritura$sbartsent1321.1/2/5/1321/sentenca/fol=colsbart, cx. 6, m. 14, n. 6, guardado 19/loc=braga, claustro da se/sumario=Perante Estevão Vicente, auditor geral do Arcebispo de braga, chegou uma demanda entre o Prior, Gomes Anes, e o Cabido da igreja de S. Bartolomeu e Domingos Anes, eligo, hortelão, por causa das dízimas de uma almuinha situada na paróquia da referida igreja e que esta reclamava que lhe fossem pagas. Tendo sido dada uma sentença em Coimbra pelo vigário do Bispo dessa cidade, D. Aimeric, pela qual se levantava a excomunhão lançada pelo Prior de S. Bartolomeusobre o hortelão e se decidia a favor deste, decidem o Prior de S. Bartolomeu sobre o hortelão e se decidia a favor deste, decidem o Prior e Cabido dessa igreja apelar para o deão e vigãrio geral do Arcebispo de Braga, D. Gonçalo Anes, apos o que Gomes Anes e ameaçado de excomunhão. Decorrendo dos fatos apresentados, Estevão vicente considera legitima a apelação que fora feita para Braga , revoga a sentenca dada em Coimbra e condena Domingos Anes nas custas do processo. Desta decisão o hortelão decide apelar a Santa Sé./obs=documento publicado
+
+         referido$João/id=sbartsent1321.1-per1
+            ls$titulo/Dom
+            ls$cargo/Arcebispo de Braga
+
+         referido$Estevão vicente/id=sbartsent1321.1-per2
+            ls$cargo/Porcionário da Sé de Braga
+            ls$cargo/Ouvidor do Arcebispo de Braga
+
+         referido$Gonçalo Anes/id=sbartsent1321.1-per3
+            ls$cargo/Vigário Geral da Sé de Braga
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1321.1.sbart
+
+            referido$Gomes Anes/id=sbartsent1321.1.sbart-per4
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Domingos Paulo/id=sbartsent1321.1.sbart-per5
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1321.1.sbart
+
+         reu$Domingos Anes/id=sbartsent1321.1.domingos
+            ls$condicao/Laico
+            ls$profissao/Hortelão
+
+            referido$Abril Peres/id=sbartsent1321.1.domingos-per6
+               rel$sociabilidade/procurador/Domingos Anes/sbartsent1321.1.domingos
+
+            referido$Pedro Pais/id=sbartsent1321.1.Pais
+               ls$morto/antes
+               ls$alcunha/Eixao
+
+         test$Tome Peres/id=sbartsent1321.1-per7
+            ls$profissao/Advogado
+
+         test$André Pais/id=sbartsent1321.1-per8
+            ls$profissao/Advogado
+
+         test$Domingos Martins/id=sbartsent1321.1-per9
+            ls$profissao/Advogado
+
+         test$João Lourenço/id=sbartsent1321.1-per10
+            ls$profissao/Tabelião
+
+         test$Pedro Esteves/id=sbartsent1321.1-per11
+            ls$profissao/Tabelião
+
+         test$Francisco Geraldes/id=sbartsent1321.1-per12
+            ls$profissao/Tabelião
+
+         test$Gil Lourenco/id=sbartsent1321.1-per13
+            ls$profissao/Tabelião
+
+         test$Vasco Martins/id=sbartsent1321.1-per14
+            ls$profissao/Tabelião
+
+         bem$almuinha
+            atr$localizacao/além da ponte/obs=freguesia de S. Bartolomeu
+            rel$posse/pertenceu/Pedro Pais/sbartsent1321.1Pedro
+            rel$posse/pertence/Domingos Anes/sbartsent1321.1.domingos
+
+         demanda$nao pagamento do dizimo/obs=exigem as dízimas prediais e nominais da almuinha alegando que esta estava dentro da jurisdição da igreja de S. Bartolomeu que, por sua vez, estava obrigada a aí administrar os sacramentos/id=sbartsent1321.1-obj2
+
+         defesa$refutacao/obs=pagamento da dízima a Sé de Coimbra que dá razão ao hortelão/id=sbartsent1321.1-obj3
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=a sentença de Braga é favorável a igreja de S. Bartolomeu, pelo que o hortelão decide recorrer à Santa Sé./id=sbartsent1321.1-obj4
+
+      escritura$sbartemp1322.1/23/6/1322/emprazamento/fol=colsbart, cx. 2, m. 5, n. 9, guardado 20/loc=Coimbra, igreja de S. Bartolomeu/sumario= O Prior da igreja de S. Bartolomeu, Gomes Anes, e o Cabido emprazam a Domingos Peres e sua mulher Maria Martins, um pardieiro na freguesia dessa igreja , em Coimbra, com obrigação de o refazerem./obs=documento publicado, carta partida por abc
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1322.1.sbart
+
+            referido$Gomes Anes/id=sbartemp1322.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Pedro Colaco/id=sbartemp1322.1.colaco
+               ls$alcunha/Colaco
+
+         enfiteuta$Domingos Peres/id=sbartemp1322.1.domingos
+            rel$profissional/criado/Pedro Colaco/sbartemp1322.1.colaco
+
+         enfiteutaf$Maria Martins/id=sbartemp1322.1-per2
+            rel$parentesco/mulher/Domingos Peres/sbartemp1322.1.domingos
+
+         tabeliao$Miguel lourenco/id=sbartemp1322.1-per3
+            ls$intitulacao/Público Tabelião do rei em Coimbra
+
+         test$João Migueis/id=sbartemp1322.1-per4
+            ls$cargo/Prior de Eiras
+
+         test$Pedro Esteves/id=sbartemp1322.1-per5
+            ls$alcunha/Boneiro
+
+         test$Vicente Esteves/id=sbartemp1322.1-per6
+            ls$naturalidade/Penela
+
+         bem$1 pardieiro
+            atr$duracao/2 vidas
+            atr$renda principal valor/10 soldos
+            atr$pagamento da renda principal/S. Miguel de setembro
+            atr$condicoes/construir uma casa no pardieiro
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1322.1.sbart
+            rel$posse/por emprazamento/Domingos Peres/sbartemp1322.1.domingos
+
+      escritura$sbartemp1322.2/15/11/1322/emprazamento/fol=colsbart, cx. 2, m. 5, n. 10, guardado 21/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Gomes Anes, e o Cabido emprazam a Bartolomeu Domingues e sua mulher Maria Anes, duas jeiras de olival em banhos secos (fr. santa clara. c. Coimbra)/obs=documento publicado, cartas partidas por abc
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1322.2.sbart
+
+            referido$Gomes Anes/id=sbartemp1322.2.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         test$Domingos Peres/id=sbartemp1322.2.domingos
+
+         enfiteuta$Bartolomeu Domingues/id=sbartemp1322.2.bartolomeu
+            rel$parentesco/filho/Domingos Peres/sbartemp1322.2.domingos
+
+         enfiteutaf$Maria Anes/id=sbartemp1322.2-per2
+            rel$parentesco/mulher/Bartolomeu Domingues/sbartemp1322.2.bartolomeu
+
+         test$Lourenço Anes de Santiago/id=sbartemp1322.2-per3
+
+         test$Domingos/id=sbartemp1322.2-per4
+            ls$naturalidade/Lisboa/obs=de Lisboa
+            ls$profissao/Pescador
+
+         tabeliao$salvador Domingues/id=sbartemp1322.2-per5
+            ls$intitulacao/Público Tabelião de Coimbra
+
+         bem$2 jeiras olival
+            atr$localizacao/Banhos Secos/obs=termo de Coimbra
+            atr$renda principal valor/20 alqueires de azeite
+            atr$pagamento da renda principal/Entrudo
+
+      escritura$sbartcomp1324.1/25/11/1324/composicao/fol=colsbart, cx. 2, m. 5, n. 11 e Cabido se de Coimbra, 2 incorp., m. 25, n. 1028, guardado 23/loc=Coimbra, Cabido de se/sumario=O Cabido da Sé de Coimbra e o Prior e Cabido de S. Bartolomeu fazem um acordo sobre a repartição das dízimas das almuinhas de além da ponte./obs=documento publicado, 3 selos pendentes
+
+         referido$Cabido da Se de Coimbra/id=sbartcomp1324.1.secbr
+
+         referido$Prior e Cabido de S. Bartolomeu/id=sbartcomp1324.1.sbart
+
+         escrivao$João Afonso/id=sbartcomp1324.1-per1
+            ls$intitulacao/Escrivão jurado do Cabido da Sé
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         demanda$divisao dos dizimos/obs=a igreja de S. Bartolomeu reivindicava os dizimos das almuinhas do outro lado do rio, as quais eram recolhidas pelo Cabido da Sé por as referidas almuinhas lhes pertencerem/id=sbartcomp1324.1-obj1
+
+         sentenca$avenca/obs=composição amigável que S. Bartolomeu preste os sacramentos aos habitantes dessas almuinhas e que por tal recebam metade das dízimas de todas as almuinhas a excepção da de Seiça e da que traz emprazada da Sé Lourenco Martins e Elvira Goncalves, enquanto ambos forem vivos/id=sbartcomp1324.1-obj2
+
+      escritura$sbartsent1326.1/10/5/1326/sentenca/fol=colsbart, cx. 6, m. 13, n. 2, guardado 24/loc=Coimbra/sumario=o vigario geral do Bispo de Coimbra d. raimundo,Pedro lopes,Prior de podentes (fr. c. penela), determina por sentenca que domingos Domingues,Prior da igreja de pelma (fr. c. alvaiazere), compre uma terra que a sua morte ficara para a igreja de S. Bartolomeu/obs=documento publicado, selo pendente
+
+         referido$Raimundo/id=sbartsent1326.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Pedro lopes/id=sbartsent1326.1-per2
+            ls$cargo/Prior de podentes
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=D. Raimundo
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1326.1.sbart
+
+         reu$Domingos Domingues/id=sbartsent1326.1.domingos
+            ls$cargo/Prior da igreja de pelma
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         bem$lagares e casa
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartsent1326.1.sbart
+            rel$posse/por emprazamento/Domingos Domingues/sbartsent1326.1.domingos
+            atr$renda principal valor/20 libras
+
+         demanda$nao cumprimento do contrato/obs=o Cabido de S. Bartolomeu diz que Domingos Domingues estava obrigado a comprar um herdamento para a igreja/id=sbartsent1326.1-obj2
+
+         defesa$consentimento/obs=pede que lhe dêem um novo prazo para o fazer/id=sbartsent1326.1-obj3
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=dá lhe o prazo de um ano a contar do próximo dia de S. joao Baptista/id=sbartsent1326.1-obj4
+
+      escritura$sbartdoa1326.1/6/7/1326/doacao/fol=colsbart, cx. 2, m. 5, n. 16, guardado 31a/loc=campo de ancos, termo de montemor-o-velho/sumario=Sancha Martins, moradora em Coimbra, doa a igreja de S. Bartolomeu uma terra em ancos (v. n. de ancos, c. soure) com a condição de a usufruir em vida, da qual o Prior, Gomes Anes, e João Bartolomeu e João Afonso, raçoeiros dessa igreja tomam posse./obs=documento publicado, Domingo, contido noutra escritura de 13370831
+
+         doadora$Sancha martis/id=sbartdoa1326.1.sancha
+            ls$alcunha/Bucheira
+            ls$residencia/Coimbra
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1326.1.sbart
+
+            referido$Gomes Anes/id=sbartdoa1326.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$João Bartolomeu/id=sbartdoa1326.1.sbart-per2
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$João Afonso/id=sbartdoa1326.1.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$nome desconhecido/id=sbartdoa1326.1.sbart-per4
+               ls$cargo/Alcaide da Lourinhã
+
+            referido$Martim Domingues/id=sbartdoa1326.1.sbart-per5
+
+         tabeliao$Estevão Martins/id=sbartdoa1326.1-per6
+            ls$intitulacao/Tabelião do Rei em Montemor-o-Velho
+
+         test$Afonso Nicolau/id=sbartdoa1326.1-per7
+
+         test$João Anes/id=sbartdoa1326.1-per8
+
+         test$Afonso Martins/id=sbartdoa1326.1-per9
+
+         bem$terra
+            atr$missas/sua alma, alma do seu pai, mãe e irmão
+            atr$localizacao/Ancos/obs=termo de Montemor-o-Velho
+            atr$confrontacoes/de uma parte com herdade do Alcaide da Lourinhã
+            atr$confrontacoes/da outra parte com herdade de Martim Domingues
+            rel$posse/pertence/Sancha Martins/sbartdoa1326.1.sancha
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1326.1.sbart
+            atr$condicoes/com reserva de usufruto durante a vida da doadora
+
+      escritura$sbartemp1329.1/1/6/1329/emprazamento/fol=colsbart, cx. 2, m. 5, n. 13, guardado 25/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Gomes Anes, e o Cabido emprazam a Afonso Peres Britacampos e sua mulher, Domingas Esteves, um casal em Adémia (fr. trouxemil, c. Coimbra)/obs=documento publicado, partida por abc
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1329.1.sbart
+
+            referido$Gomes Anes/id=sbartemp1329.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Afonso Peres Britacampos/id=sbartemp1329.1.britacampos
+            ls$alcunha/Britacampos
+
+         enfiteutaf$Domingas Esteves/id=sbartemp1329.1-per2
+            rel$parentesco/mulher/Afonso Britacampos/sbartemp1329.1.britacampos
+
+         test$João Domingues/id=sbartemp1329.1-per3
+            ls$profissao/Tabelião
+
+         test$João Domingues/id=sbartemp1329.1-per4
+            ls$alcunha/Azagacho
+
+         test$Martim Anes/id=sbartemp1329.1-per5
+            ls$titulo/Clérigo de Cernache
+
+         test$Domingos Bartolomeu/id=sbartemp1329.1-per6
+            ls$profissao/Pescador
+
+         test$Goral Sardinha/id=sbartemp1329.1-per7
+            ls$profissao/Pescador
+
+         test$João Pais/id=sbartemp1329.1-per8
+            ls$profissao/Almuinheiro
+
+         tabeliao$Martim Gonçalves/id=sbartemp1329.1-per9
+            ls$intitulacao/Público Tabelião do rei em Coimbra
+
+         bem$casal
+            atr$localizacao/Adémia/obs=termo de Coimbra
+            atr$renda principal valor/8 quarteiros de pão meado e meio de trigo mourisco e meio de cevada e um quarteiro de pão meado por dízima
+            atr$pagamento da renda principal/até dia de S. Bartolomeu
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1329.1.sbart
+            rel$posse/por emprazamento/Afonso Peres Britacampos/sbartemp1329.1.britacampos
+
+      escritura$sbartsent1329.1/9/10/1329/sentenca/fol=colsbart, cx. 6, m. 14, n. 7, guardado 26/loc=Coimbra, junto aos moimentos da porta ocidental da se/sumario=O alvazil dos oventais dos judeus e mouros, mem Domingues Vinagre, determina por sentença que João Esteves, Pedro lourenco e João Lourenço, rendeiros da adega do rei em Coimbra, restituam a João Afonso, raçoeiro de S. Bartolomeu, um bacio e 2 cargas de tinta que lhe haviam penhorado./obs=documento publicado, segunda feira, selo pendente
+
+         tabeliao$Miguel Lourenco/id=sbartsent1329.1-per1
+            ls$intitulacao/Público Tabelião do Rei em Coimbra
+
+            referido$Mem Domingues/id=sbartsent1329.1-per1-per2
+               ls$cargo/Alvazil dos Ovençais dos judeus e dos mouros
+
+         demandador$João Afonso/id=sbartsent1329.1-per3
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         reu$João Esteves/id=sbartsent1329.1-per4
+            ls$profissao/Adegueiro/obs=rendeiro da adega do rei
+
+         reu$Pedro Lourenço/id=sbartsent1329.1-per5
+            ls$profissao/Adegueiro/obs=rendeiro da adega do rei
+
+         reu$João Lourenço/id=sbartsent1329.1-per6
+            ls$profissao/Adegueiro/obs=rendeiro da adega do rei
+
+         test$Gonçalo Fagundes/id=sbartsent1329.1-per7
+            ls$profissao/Advogado
+
+         test$Lourenco Vicente/id=sbartsent1329.1-per8
+            ls$profissao/Advogado
+
+         test$Vicente Domingues/id=sbartsent1329.1-per9
+            ls$cargo/Raçoeiro de S. Cristóvão
+
+         test$João Domingues/id=sbartsent1329.1-per10
+            ls$profissao/Tabelião de Coimbra
+
+         demanda$penhora/obs=o demandador queixara-se que os adegueiros ameaçaram de lhe fazer penhora por causa dos direitos numa vinha e que foram a sua casa e lhe penhoraram 1 bacio e 2 cargas de tinta de vinho/id=sbartsent1329.1-obj1
+
+         defesa$refutacao/obs=dizem estar no direito de o fazer e que o almoxarife lhes dava razão e assim que estivesse curado da doenca que impedia de estar presente faria valer o direito do rei/id=sbartsent1329.1-obj2
+
+         sentenca$a favor do demandador/obs=obrigam a restituição dos valores penhorados/id=sbartsent1329.1-obj3
+
+      escritura$sbartemp1331.1/12/5/1331/emprazamento/fol=colsbart, cx. 2, m. 5, n. 14, guardado 27/loc=Coimbra/sumario=O Prior da igreja de S. Bartolomeu, Gomes Anes, e o Cabido emprazam a Salvador Domingues e sua mulher, Maria Duraes, uma casa térrea no terreiro (hoje dividido em adro de baixo e adro de cima, fr. S. Bartolomeu, c. Coimbra) em Coimbra./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1331.1.sbart
+
+            referido$Gomes Anes/id=sbartemp1331.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Salvador Domingues/id=sbartemp1331.1.salvador
+
+         enfiteutaf$Maria Durães/id=sbartemp1331.1.maria
+            rel$parentesco/mulher/Salvador Domingues/sbartemp1331.1.salvador
+
+         test$Miguel Lourenço/id=sbartemp1331.1-per2
+            ls$residencia/Coimbra
+            ls$profissao/Tabelião
+
+         referido$Martim Anes/id=sbartemp1331.1.martim
+            ls$cargo/Almoxarife
+
+         test$João Bernardes/id=sbartemp1331.1-per3
+            rel$profissional/criado/Martim Anes/sbartemp1331.1.martim
+
+         test$Domingos Peres/id=sbartemp1331.1-per4
+            ls$profissao/Juiz
+
+         tabeliao$Bartolomeu Peres/id=sbartemp1331.1-per5
+            ls$intitulacao/Tabelião do rei em Coimbra
+
+         bem$casa terrea
+            atr$localizacao/Terreiro/obs=Coimbra, no lugar onde chamam terreiro
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1331.1.sbart
+            rel$posse/por emprazamento/salvador Domingues/sbartemp1331.1.salvador
+            atr$renda principal valor/30 soldos
+            atr$renda acessoria/1 capão
+            atr$pagamento da renda principal/terças do ano
+            atr$pagamento da renda acessoria/S. Miguel de setembro
+
+      escritura$sbartsent1333.1/20/4/1333/sentenca/fol=colsbart, cx. 6, m. 14, n. 8, guardado 28/loc=Coimbra/sumario=Os vigários do Bispo de Coimbra D. Raimundo, Vasco Anes, Cónego de Viseu e Francisco Afonso, Prior da igreja de Santa Justa de Coimbra, obrigam por sentença a igreja de S. Bartolomeu e Pedro Martins e Domingos Anes, testamenteiro de André Peres, a cumprir o clausulado do testamento deste último./obs=documento publicado
+
+         referido$Raimundo/id=sbartsent1333.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Vasco Anes/id=sbartsent1333.1-per2
+            ls$cargo/Cónego de Viseu
+            ls$cargo/Vigário do Bispo de Coimbra/obs=D. Raimundo
+
+         referido$Francisco afonso/id=sbartsent1333.1-per3
+            ls$cargo/Prior de Santa Justa
+            ls$cargo/Vigário do Bispo de Coimbra/obs=D. Raimundo
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1333.1.sbart
+
+            referido$André Peres/id=sbartsent1333.1.andre
+               ls$titulo/Clérigo
+
+         reu$Pedro Martins/id=sbartsent1333.1Pedro
+            rel$parentesco/pai/André Peres/sbartsent1333.1.andre
+            rel$sociabilidade/testamenteiro/André Peres/sbartsent1333.1.andre
+
+         reu$Domingos Anes/id=sbartsent1333.1.domingos
+            rel$parentesco/irmao/André Peres/sbartsent1333.1.andre
+            rel$sociabilidade/testamenteiro/André Peres/sbartsent1333.1.andre
+
+            referido$Estevão Domingues/sbartsent1333.1.Estevão/id=sbartsent1333.1.domingos-per4
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1333.1.sbart
+
+         bem$casas
+            atr$missas/1 aniversario/obs=que a igreja tenha anualmente 10 soldos
+            rel$posse/pertence/André Peres/sbartsent1333.1.andre
+            rel$posse/por testamento/Prior e igreja de S. Bartolomeu/sbartsent1333.1.sbart
+
+         escrivao$Estevão Peres/id=sbartsent1333.1-per5
+            ls$intitulacao/scriptor juratus notuit
+
+         demanda$execucao de clausulas testamentarias/obs=o procurador do Prior e igreja de S. Bartolomeu pedem aos testamenteiros de Andre Peres que mostrem o testamento/id=sbartsent1333.1-obj2
+
+         defesa$consentimento/obs=mostram e deixam trasladar as cláusulas referentes a igreja de S. Bartolomeu/id=sbartsent1333.1-obj3
+
+      escritura$sbartdoa1335.1/3/5/1335/doacao/fol=colsbart, cx. 2, m. 5, n. 15, guardado 29/loc=Coimbra, mosteiro de santa clara e igreja de S. Bartolomeu/sumario=A abadessa do mosteiro de Santa Clara de Coimbra, D. Isabel de carDona e o convento doam a igreja de S. Bartolomeu as dízimas dos casais da cruz (hoje cruz de moroucos, fr. santa clara, c. Coimbra)./obs=documento publicado
+
+         doadora$mosteiro de Santa Clara/id=sbartdoa1335.1.clara
+
+            referida$Isabel de Cardona/id=sbartdoa1335.1.clara-per1
+               ls$cargo/Abadessa do convento de Santa Clara
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1335.1.sbart
+
+         tabeliao$Miguel Lourenço/id=sbartdoa1335.1-per2
+            ls$intitulacao/Público Tabelião do rei em Coimbra
+
+         test$João Pais/id=sbartdoa1335.1-per3
+            ls$titulo/Frei
+
+         test$Cristóvão/id=sbartdoa1335.1-per4
+            ls$titulo/Frei dos frades menores
+
+         test$Miguel Domingues/id=sbartdoa1335.1-per5
+            ls$profissao/Sapateiro
+
+         test$Pedro Domingues/id=sbartdoa1335.1-per6
+
+         test$Pedro Machao/id=sbartdoa1335.1-per7
+            ls$titulo/Clérigo
+
+         test$André Peres/id=sbartdoa1335.1-per8
+            ls$titulo/Clérigo
+
+         test$Domingos Anes/id=sbartdoa1335.1-per9
+            ls$titulo/Clérigo
+
+         test$Domingos Clemente/id=sbartdoa1335.1-per10
+            ls$titulo/Clérigo
+
+         bem$dizimas dos casais da cruz
+            atr$localizacao/Cruz/obs=cruz de moroucos
+            rel$posse/pertence/mosteiro de santa clara/sbartdoa1335.1.clara
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1335.1.sbart/obs=porque lhes são devidas
+
+      escritura$sbartsent1335.1/13/5/1335/sentenca/fol=colsbart, cx. 6, m. 14, n. 9, guardado 30/loc=Coimbra/sumario=O ouvidor dos preitos na audiência de Coimbra, Vicente Peres, obriga por sentença seis lagareiros da freguesia de S. Bartolomeu a pagar a dízima do azeite e da baganha a igreja da S. Bartolomeu,como estava determinado./obs=documento publicado, dobra com cordao do selo pendente desaparecido
+
+         referido$Vicente Peres/obs=em substituição do vigário geral/id=sbartsent1335.1-per1
+            ls$cargo/Ouvidor dos preitos na audiência de Coimbra
+
+         referido$Arnaldo/id=sbartsent1335.1-per2
+            ls$titulo/Mestre
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=d joao
+
+         referido$João/id=sbartsent1335.1-per3
+            ls$cargo/Bispo de Coimbra
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1335.1.sbart
+
+            referido$Gonçalo Afonso/id=sbartsent1335.1.sbart-per4
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1335.1.sbart
+
+         reu$Vicente Martins/id=sbartsent1335.1-per5
+            ls$profissao/Lagareiro
+
+         reu$João Quintela/id=sbartsent1335.1-per6
+            ls$profissao/Lagareiro
+
+         reu$Vicente Geraldes/id=sbartsent1335.1-per7
+            ls$profissao/Lagareiro
+
+         reu$João da Capa/id=sbartsent1335.1-per8
+            ls$profissao/Lagareiro
+
+         reu$João Esteves/id=sbartsent1335.1-per9
+            ls$profissao/Lagareiro
+
+         reu$nome desconhecido/id=sbartsent1335.1-per10
+            ls$alcunha/segue por sete
+
+         escrivao$Sugeiro Domingues/obs=notuit/id=sbartsent1335.1-per11
+
+         demanda$nao pagamento do dizimo/obs=os lagareiros fazem azeite em lagares na freguesia de S. Bartolomeu de onde tem rendimentos do azeite e da baganhae nao querem dar a dizima predial/id=sbartsent1335.1-obj1
+
+         defesa$consentimento/obs=dizem que não querem preito com S. Bartolomeu e que pagarão como devem/id=sbartsent1335.1-obj2
+
+      escritura$sbartdoa1337.1/31/8/1337/doacao/fol=colsbart, cx. 2, m. 5, n. 16, guardado 31/loc=Coimbra, coro da igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, João Afonso, Cabido e os raçoeiros outorgam a Sancha Domingues uma cova no interior da igreja para ai ser enterrada, dado que esta lhes fizera uma doacao de uma terra em ancos (fr. v.n. de ancos, c. soure) e prometia alguns bens moveis depois da morte./obs=documento publicado, contem doacao transcrita noutra escritura
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1337.1.sbart
+
+            referido$João Afonso/id=sbartdoa1337.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Afonso Anes/id=sbartdoa1337.1.sbart-per2
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Domingos Peres/id=sbartdoa1337.1.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$João Anes/id=sbartdoa1337.1.sbart-per4
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Domingos Domingues/id=sbartdoa1337.1.sbart-per5
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+         doadora$Sancha Martins/id=sbartdoa1337.1.sancha
+            ls$residencia/Coimbra
+            ls$cargo/vizinha de Coimbra
+            rel$economica/fregues/Prior e Cabido de S. Bartolomeu/sbartdoa1337.1.sbart
+
+         tabeliao$Martim Afonso/id=sbartdoa1337.1-per6
+            ls$intitulacao/Público Tabelião do Rei na cidade de Coimbra
+
+         test$Pedro Domingues/id=sbartdoa1337.1-per7
+            ls$cargo/Capelão de S. Bartolomeu
+
+         test$Domingos Peres/id=sbartdoa1337.1-per8
+            ls$cargo/Prioste
+
+         test$Domingos Peres/id=sbartdoa1337.1-per9
+            ls$naturalidade/Rapoula
+            ls$alcunha/Galego
+
+         bem$1 leito de liteira/obs=prometeu dar
+            atr$sepultura/igreja de S. Bartolomeu/obs=outorgam lhe uma cova dentro da igreja
+            rel$posse/pertence/Sancha Martins/sbartdoa1337.1.sancha
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1337.1.sbart
+
+         bem$prata/obs=prometeu dar
+            atr$sepultura/igreja de S. Bartolomeu/obs=outorgam lhe uma cova dentro da igreja
+            rel$posse/pertence/Sancha Martins/sbartdoa1337.1.sancha
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1337.1.sbart
+
+      escritura$sbartsent1338.1/10/11/1338/sentenca/fol=colsbart, cx. 1, m. 1, n. 5, guardado 32/loc=Coimbra/sumario=Perante Afonso IV chegou uma demanda entre a igreja de S. Bartolomeu e Afonso Peres Britacampos e sua mulher, Domingas Esteves, por causa de um casal em Alcalamouque (hoje ribeira de alcalamouque, fr. alvorge, c. ansiao) que Simão Mendes, testamenteiro de Domingos Migueis, havia doado a igreja, e aqueles tinham ocupado, determinando o monarca, face ao acordo amigável entre as partes, qua Afonso Peres e mulher, conservem o casal em suas vidas e que apos a sua morte o legassem a dita igreja para aniversários./obs=documento publicado, dobra com selo pendente
+
+         referido$Afonso/id=sbartsent1338.1.rei
+            ls$cargo/Rei de Portugal
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1338.1.sbart
+
+            referido$João Afonso/id=sbartsent1338.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Gil Peres/id=sbartsent1338.1.sbart-per2
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/Procurador/Prior e Cabido de S. Bartolomeu/sbartsent1338.1.sbart
+
+            referido$Domingos Migueis/id=sbartsent1338.1.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu/obs=que foi
+               ls$morto/antes
+
+            referida$nome desconhecido/id=sbartsent1338.1.irma
+               rel$parentesco/irmã/Domingos Migueis/sbartsent1338.1.domingos
+
+            referida$nome desconhecido/id=sbartsent1338.1.sobrinha
+               rel$parentesco/sobrinha/Domingos Migueis/sbartsent1338.1.domingos
+
+            referido$nome desconhecido/id=sbartsent1338.1.sbart-per4
+               rel$parentesco/marido/nome desconhecido/sbartsent1338.1.sobrinha
+
+            referido$Simão Mendes/id=sbartsent1338.1.simao
+               rel$sociabilidade/testamenteiro/Domingos Migueis/sbartsent1338.1.domingos
+
+         reu$Afonso Peres Britacampos/id=sbartsent1338.1.afonso
+            rel$parentesco/filho/nome desconhecido/sbartsent1338.1.sobrinha
+
+         reuf$Domingas Esteves/id=sbartsent1338.1-per5
+            rel$parentesco/mulher/Afonso Peres Britacampos/sbartsent1338.1.afonso
+            rel$sociabilidade/procurador/Afonso Peres Britacampos/sbartsent1338.1.afonso
+
+            referido$Pedro das Leis/id=sbartsent1338.1-per5-per6
+               ls$titulo/Mestre
+               rel$sociabilidade/vassalo/Afonso/sbartsent1338.1.rei
+
+         escrivao$Afonso Martins do Amaral/id=sbartsent1338.1-per7
+
+         bem$casal
+            atr$missas/1 aniversário/obs=30 soldos cada ano
+            atr$localizacao/Alcalamouque/obs=terra de ladea
+            rel$posse/pertenceu/Domingos Migueis/sbartsent1338.1.sbart-per3
+            rel$posse/pertence/nome desconhecido/sbartsent1338.1.irma
+            rel$posse/pertenceu/nome desconhecido/sbartsent1338.1.sobrinha
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartsent1338.1.sbart
+
+         demanda$execucao de clausulas testamentarias/obs=Domingos Migueis antigo raçoeiro de S. Bartolomeu um casal em Alcalamouque a sua irmã com a condição de que ela pagasse 30 soldos todos os anos à igreja de S. Bartolomeu para pagamento de um aniversário, que ficasse depois para a sua sobrinha e para o seu marido que são os pais de afonso Peres Britacampos e que a morte daqueles o seu testamenteiro dispusesse do casal da melhor forma em serviço da sua alma. O testamenteiro doou o casal a igreja determinando a celebração de mais uma missa. mas afonso Peres britacampos apoderara-se do casal, nao pagando sequer a dizima dele./id=sbartsent1338.1-obj2
+
+         defesa$refutacao/obs=os réus dizem que o casal lhes pertence por herança/id=sbartsent1338.1-obj3
+
+         sentenca$avenca/obs=que Afonso Peres Britacampos e a mulher tenham o casal e paguem seis libras anualmente a igreja e que os Priores e raçoeiros digam 8 missas no primeiro dia do mês por Domingos Migueis e saiam sobre ele com água benta, que digam uma missa pela alma de afonso Peres e de sua mulher e que depois da morte destes o casal fique livremente a igreja/id=sbartsent1338.1-obj4
+
+      escritura$sbartsent1341.1/9/1/1341/sentenca/fol=colsbart, cx. 6, m. 14, n. 10, guardado 33/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, Vicente Peres, determina por sentenca que João Esteves, lagareiro, pague a igreja de S. Bartolomeua dízima do azeite e da baganha, assim como das soldadas dos mancebos que eram de fora da freguesia./obs=documento publicado, dobra com selo pendente
+
+         referido$Jorge/id=sbartsent1341.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Vicente Peres/id=sbartsent1341.1-per2
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=Dom jorge
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1341.1.sbart
+
+            referido$Gonçalo Afonso/id=sbartsent1341.1.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1341.1.sbart
+
+         reu$João Esteves/id=sbartsent1341.1.joao
+            ls$profissao/Lagareiro
+
+         escrivao$Martim Afonso/id=sbartsent1341.1-per4
+            ls$intitulacao/scriptor notuit
+
+         demanda$nao pagamento do dizimo/obs=o Prior e Cabido de S. Bartolomeu dizem que o réu tem uns lagares de azeite na freguesia de S. Bartolomeu e não pagava completamente o dízimo do azeite e da baganha que produzia nem das soldadas dos mancebos que vinham aí trabalha de fora desta freguesia/id=sbartsent1341.1-obj1
+
+         defesa$consentimento/obs=diz que pagara como o procurador da igreja de S. Bartolomeu diz que deve/id=sbartsent1341.1-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/id=sbartsent1341.1-obj3
+
+      escritura$sbartsent1341.2/28/4/1341/sentenca/fol=colsbart, cx. 6, m. 14, n. 11, guardado 34/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, Vicente Peres, obriga por sentenca Vicente Martins e Vicente Geraldes, lagareiros, a darem a igreja de S. Bartolomeu a dízima antes de tirarem os custos, bem como a reter a dízima da soldada dos seus mancebos./obs=documento publicado, dobra com selo pendente
+
+         referido$Jorge/id=sbartsent1341.2-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Vicente Peres/id=sbartsent1341.2-per2
+            ls$cargo/Vigário geral do Bispo de Coimbra
+            ls$assinatura/Vicentius Petri
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1341.2.sbart
+
+            referido$Gonçalo Afonso/id=sbartsent1341.2.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1341.2.sbart
+
+         reu$Vicente Martins/id=sbartsent1341.2-per4
+            ls$profissao/Lagareiro
+
+         reu$Vicente Geraldes/id=sbartsent1341.2-per5
+            ls$profissao/Lagareiro
+
+         escrivao$Vasco Esteves/id=sbartsent1341.2-per6
+            ls$intitulacao/scriptor juratus notuit
+
+         demanda$nao pagamento do dizimo/obs=como os lagareiros citados tinham lagares emprazados na freguesia de S. Bartolomeu e não pagavam as dízimas prediais como deviam nem as dízimas das soldadas dos mancebos/id=sbartsent1341.2-obj1
+
+         defesa$consentimento/id=sbartsent1341.2-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/id=sbartsent1341.2-obj3
+
+      escritura$sbartsent1345.1/6/7/1345/sentenca/fol=colsbart, cx. 6, m. 14, n. 12, guardado 35/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, Martim Peres, na questão da igreja de S. Bartolomeu contra João Esteves, lagareiro, por este se recusar a pagar a dízima, antes de retirada a pensao e na presenca do prioste, obriga-o no presente ano a pagar 40 soldos e depois proceder daquele modo, como os demais fregueses./obs=documento publicado, dobra com selo pendente
+
+         referido$Martim Peres/id=sbartsent1345.1-per1
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=d jorge
+            ls$assinatura/martinus petri
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1345.1.sbart
+
+            referido$João Afonso/id=sbartsent1345.1.sbart-per2
+               ls$cargo/Prior de S. Bartolomeu
+
+         reu$João Esteves/id=sbartsent1345.1-per3
+            ls$profissao/Lagareiro
+            rel$economica/fregues/S. Bartolomeu/sbartsent1345.1.sbart
+
+            referido$nome desconhecido/id=sbartsent1345.1-per3-per4
+               ls$cargo/Prioste de S. Bartolomeu
+
+         escrivao$Domingos Martins/obs=martinus petris notuit/id=sbartsent1345.1-per5
+
+         demanda$nao pagamento do dizimo/obs=os demandadores dizem que o réu tinha lagares emprazados na freguesia e que não dava a dízima do que ganhava nos dictos lagares antes de subtrairem o valor da pensão, nem queria chamar o prioste para dizimar o dito lagar/id=sbartsent1345.1-obj1
+
+         defesa$consentimento/obs=diz que não era costume chamar o prioste mas que pagaria a dízima como lhe pediam/id=sbartsent1345.1-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=o réu é constrangido a pagar 40 soldos de dízima, manda que daí em diante não tirem nada da produção dos lagares sem que chamem o prioste para que dizime./id=sbartsent1345.1-obj3
+
+      escritura$sbartsent1345.2/12/12/1345/sentenca/fol=colsbart, cx. 6, m. 13, n. 3, guardado 36/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, Martim Peres, Cónego da Sé, obriga por sentença, sob pena de interdito, Vicente Anes,Prior de Miranda (c. Miranda do Corvo), a pagar a pensao de uma quinta em Tomareis (fr. olival, c. v. n. de Ourém), que trazia emprazada da igreja de S. Bartolomeu./obs=documento publicado, dobra com selo pendente
+
+         referido$Jorge/id=sbartsent1345.2-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Martim Peres/id=sbartsent1345.2-per2
+            ls$cargo/Vigário geral do Bispo de Coimbra
+            ls$assinatura/martinus petri
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1345.2.sbart
+
+            referido$Gonçalo Afonso/id=sbartsent1345.2.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1345.2.sbart
+
+         reu$Vicente Anes/id=sbartsent1345.2.vicente
+            ls$cargo/Prior de miranda
+
+            referido$João Frances/id=sbartsent1345.2.vicente-per4
+               ls$alcunha/Frances
+               rel$sociabilidade/procurador/Vicente Anes/sbartsent1345.2.vicente
+
+         escrivao$Estevão Fernandes/id=sbartsent1345.2-per5
+            ls$intitulacao/scriptor juratus notuit
+
+         bem$quinta
+            atr$localizacao/Tomareis/obs=termo de Ourém
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartsent1345.2.sbart
+            rel$posse/por emprazamento/Vicente Anes/sbartsent1345.2.vicente
+            atr$renda principal valor/150 libras
+            atr$pagamento da renda principal/S. João Baptista
+
+         demanda$nao pagamento das rendas/obs=não pagava a renda de uma quinta em Tomareis/id=sbartsent1345.2-obj2
+
+         defesa$incapacidade monetaria de pagar/obs=diz que era verdade mas que só não pagava porque não tinha tempo suficiente para vender o fruto e conseguir dinheiro. Pede que alterem a data do pagamento/id=sbartsent1345.2-obj3
+
+         sentenca$avenca/obs=amigável composição pela qual se estende o prazo de pagamento para o dia 1 de agosto/id=sbartsent1345.2-obj4
+
+      escritura$sbartsent1346.1/13/6/1346/sentenca/fol=colsbart, cx. 6, m. 14, n. 13, guardado 37/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra, D. Jorge, Martim Peres, Cónego da Sé, determina, por sentença, que Domingos Domingues, raçoeiro da igreja de S. Bartolomeu e Prior de Souselas (fr. c. Coimbra), pague a essa igreja o foro de uns lagares de azeite e de umas casas localizadas na Rua que vai para a ponte, em Coimbra, e compre uma herdade no valor de 100 libras que havia recebido da igreja, a qual em sua vida e de uma outra pessoa lhe seria emprazada, exigindo, em contrapartida, a igreja de S. Bartolomeu que lhe desse 30 libras que ele já havia gasto com a sua igreja e se comprometesse a rezar-lhe um aniversário após a sua morte./obs=documento publicado, dobra com selo pendente
+
+         referido$Jorge/id=sbartsent1346.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Martim Peres/id=sbartsent1346.1-per2
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=d jorge
+            ls$assinatura/martinus petri
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1346.1.sbart
+
+            referido$Gonçalo afonso/id=sbartsent1346.1.sbart-per3
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1346.1.sbart
+
+         reu$Domingos Domingues/id=sbartsent1346.1.domingos
+            ls$cargo/Raçoeiro de S. Bartolomeu
+            ls$cargo/Prior de Souselas
+
+            referido$Gonçalo Cardosa/id=sbartsent1346.1.cardosa
+               rel$sociabilidade/procurador/Domingos Domingues/sbartsent1346.1.domingos
+
+            referido$Afonso Peres/id=sbartsent1346.1.domingos-per4
+               ls$cargo/Porteiro do Bispo
+
+         bem$lagares e casas
+            atr$localizacao/Rua que vai para a ponte
+            atr$confrontacoes/sob as casas de afonso Peres, porteiro do Bispo
+            atr$renda principal valor/20 libras
+            atr$pagamento da renda principal/S. Miguel de setembro
+
+         demanda$nao pagamento das rendas/obs=acusam o réu de não pagar a renda e de não comprar uma herdade que se comprometera comprar com 100 libras que já recebera para esse efeito. Exigiam que ele pagasse a renda nas terças do ano, Natal, Páscoa e S. João Baptista e que comprasse a herdade/id=sbartsent1346.1-obj2
+
+         defesa$refutacao/obs=que das 100 libras, gastara 30 ao serviço da igreja e confessou tudo o que o tinham acusado/id=sbartsent1346.1-obj3
+
+         sentenca$avenca/obs=composição amigável que tivesse os ditos lagares e que pagasse as terças do ano as ditas 20 libras; e que comprasse a dita herdade aste ao dia de S. Miguel de setembro de 1347 e que o Prior e Cabido de S. Bartolomeu lhe pagariam as 30 libras que faltavam e que Domingos Domingues explorasse essa herdade todos os dias de sua vida, pagando uma renda anual de 20 soldos e 1 capão no dia de S. Miguel de setembro e que o Prior e Cabido de S. Bartolomeu façam um aniversário com missa oficiada pela alma de Domingos Domingues quando este morrer e que destes 20 soldos não tenham parte aqueles que não forem presentes aos ditos aniversários/id=sbartsent1346.1-obj4
+
+      escritura$sbartproc1348.1/6/1/1348/procuracao/fol=colsbart, cx. 6, m. 13, n. 4; m. 14, n. 14; m. 14, n. 30, guardado 38/loc=Coimbra, coro da igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, João Afonso, e o Cabido nomeiam seus procuradores João Esteves, procurador no concelho de Coimbra, e André Esteves, raçoeiro, com poderes para os representar no conflito com os herdeiros e testamenteiros de Afonso Peres Britacampos por causa de um casal em Alcalamouque (hoje ribeira de alcalamouque, fr. alvorge, c. Ansiao)./obs=documento publicado, dobra com selo pendente
+
+         constituinte$Prior e Cabido de S. Bartolomeu/id=sbartproc1348.1.sbart
+
+            referido$João Afonso/id=sbartproc1348.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         procurador$João Esteves/id=sbartproc1348.1.joao
+            ls$cargo/Procurador no Concelho de Coimbra
+            rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartproc1348.1.sbart
+
+         procurador$André Esteves/id=sbartproc1348.1.andre
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Afonso Peres Britacampos/id=sbartproc1348.1.britacampos
+
+            referido$Vasco Goncalves/id=sbartproc1348.1.Vasco
+               rel$parentesco/genro/Afonso Peres Britacampos/sbartproc1348.1.britacampos
+
+            referido$Domingos Migueis/id=sbartproc1348.1.andre-per2
+               ls$alcunha/Bugalho
+               ls$cargo/Raçoeiro de S. Bartolomeu/obs=que foi
+               ls$morto/antes
+
+            referido$Vasco Domingues/obs=por esta procuração não querem revogar Vasco Domingues como seu procurador/id=sbartproc1348.1.andre-per3
+               ls$cargo/Procurador no Concelho
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartproc1348.1.sbart
+
+            referido$Pedro Anes/id=sbartproc1348.1.andre-per4
+               ls$cargo/Procurador no Concelho
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartproc1348.1.sbart
+
+         test$Pedro Domingues/id=sbartproc1348.1-per5
+            ls$cargo/Capelão de S. Bartolomeu
+
+         test$Lourenço Esteves/id=sbartproc1348.1-per6
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         referido$João Marim/id=sbartproc1348.1.marim
+
+         test$Angelo Domingues/id=sbartproc1348.1-per7
+            rel$parentesco/neto/João Marim/sbartproc1348.1.marim
+
+         tabeliao$Martim Afonso/id=sbartproc1348.1-per8
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+      escritura$sbartemp1348.1/2/9/1348/emprazamento/fol=colsbart, cx. 2, m. 5, n. 18; guardado 40/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, João Afonso, e o Cabido emprazam a Domingos Peres, e a sua mulher, Maria Martins, moradores em Coimbra, duas leiras de olival em chainca (fr. s. Miguel, c. penela)/obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1348.1.sbart
+
+            referido$João Afonso/id=sbartemp1348.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Domingos Peres/id=sbartemp1348.1.domingos
+
+         enfiteutaf$Maria Martins/id=sbartemp1348.1-per2
+            rel$parentesco/mulher/Domingos Peres/sbartemp1348.1.domingos
+
+            referido$Francisco Lourenço/id=sbartemp1348.1.francisco
+               ls$morto/antes
+
+            referido$nome desconhecido/id=sbartemp1348.1-per2-per3
+               rel$sociabilidade/herdeiro/Francisco Lourenço/sbartemp1348.1.francisco
+
+         test$Pedro Domingues/id=sbartemp1348.1-per4
+            ls$alcunha/Buinho
+
+         test$Domingos Domingues/id=sbartemp1348.1-per5
+            ls$cargo/Prior de Souselas
+
+         test$Domingos Martins/id=sbartemp1348.1-per6
+
+         test$Domingos Peres/id=sbartemp1348.1-per7
+            ls$alcunha/Rapoula
+
+         escrivao$Rui Lourenço/id=sbartemp1348.1-per8
+            ls$intitulacao/escrivão dado pelo Rei a Afonso Vicente Tabelião
+
+         tabeliao$Afonso Vicente/id=sbartemp1348.1-per9
+            ls$intitulacao/Tabelião do Rei em Coimbra
+
+         bem$2 leiras de olival
+            atr$localizacao/Chainça
+            atr$confrontacoes/herdeiros de Francisco Lourenço
+            atr$confrontacoes/com vinha de Santana
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1348.1.sbart
+            rel$posse/por emprazamento/Domingos Peres/sbartemp1348.1.domingos
+            atr$renda principal valor/40 soldos
+            atr$renda acessoria/1 capão
+            atr$pagamento da renda principal/Natal
+            atr$pagamento da renda acessoria/S. Miguel de setembro
+
+      escritura$sbartemp1348.2/28/12/1348/emprazamento/fol=colsbart, cx. 2, m. 5, n. 19; guardado 41/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam em duas vidas a Isabel Vicente umas casas em Coimbra, na Rua que vai do adro da Torre Nova, na freguesia dessa igreja./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1348.2.sbart
+
+            referido$Sancho Garcia/id=sbartemp1348.2.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Cristóvão Vicente/id=sbartemp1348.2.cristovao
+
+         enfiteutaf$Isabel Vicente/id=sbartemp1348.2.isabel
+            rel$parentesco/filha/Cristóvão Vicente/sbartemp1348.2.isabel
+
+            referido$nome desconhecido/id=sbartemp1348.2.conego
+               ls$cargo/Cónego de S. Bartolomeu
+               ls$morto/antes
+
+            referida$Maria Gonçalves/id=sbartemp1348.2.maria
+               rel$profissional/manceba/nome desconhecido/sbartemp1348.2.Cónego
+
+         test$Lourenço Esteves/id=sbartemp1348.2-per2
+            ls$cargo/Clérigo de S. Bartolomeu
+
+         test$Martim de Braga/id=sbartemp1348.2-per3
+            ls$titulo/Cavaleiro
+            ls$naturalidade/Braga
+
+         test$Pedro Salvadores/id=sbartemp1348.2-per4
+            ls$naturalidade/Antanhol
+            ls$titulo/Cavaleiro
+
+         tabeliao$Vasco Anes/id=sbartemp1348.2-per5
+            ls$intitulacao/Tabelião do Rei em Coimbra
+
+         bem$casas
+            atr$localizacao/Rua que vai do adro para a Torre Nova/obs=freguesia de S. Bartolomeu
+            rel$posse/pertenceu/Maria Gonçalves/sbartemp1348.2.maria/obs=onde soia morar
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1348.2.sbart
+            rel$posse/por emprazamento/Isabel Vicente/sbartemp1348.2.isabel
+            atr$renda principal valor/30 soldos
+
+      escritura$sbartemp1349.1/15/2/1349/emprazamento/fol=colsbart, cx. 2, m. 5, n. 20; guardado 42/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam a Domingos Peres e sua mulher, Marinha Esteves, uma vinha com olival que chamam da Brava e umas casas em Coimbra./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1349.1.sbart
+
+            referido$Sancho Garcia/id=sbartemp1349.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Domingos Peres/id=sbartemp1349.1.domingos
+            ls$residencia/Coimbra
+
+         enfiteutaf$Marinha Esteves/id=sbartemp1349.1-per2
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Domingos Peres/sbartemp1349.1.domingos
+
+            referido$Domingos Rodrigues/id=sbartemp1349.1.rodrigues
+
+         test$Domingos Peres/id=sbartemp1349.1-per3
+            ls$alcunha/Gago
+
+         test$Jorge Esteves/id=sbartemp1349.1-per4
+
+         referido$Afonso Anes/id=sbartemp1349.1.afonso
+
+         test$Álvaro Afonso/id=sbartemp1349.1-per5
+            rel$parentesco/filho/Afonso Anes/sbartemp1349.1.afonso
+
+         tabeliao$Estevão Peres/id=sbartemp1349.1-per6
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+         bem$1 vinha com olival/obs=que chamam da brava
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1349.1.sbart
+            rel$posse/por emprazamento/Domingos Peres/sbartemp1349.1.domingos
+
+         bem$casas
+            atr$localizacao/freguesia de S. Bartolomeu
+            rel$posse/pertenceu/Domingos Rodrigues/sbartemp1349.1.rodrigues/obs=usufruto
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1349.1.sbart
+            rel$posse/por emprazamento/Domingos Peres/sbartemp1349.1.domingos
+            atr$renda principal valor/7 libras
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/S. Miguel de setembro
+
+      escritura$sbartdoa1349.1/1/9/1349/doacao/fol=colsbart, cx. 2, m. 5, n. 21; guardado 43/loc=Coimbra, igreja de S. Bartolomeu/sumario=O testamenteiro de João Anes, raçoeiro da igreja de S. Bartolomeu, João Mateus, Clérigo, doa dos bens deste, a igreja, vinhas com olival em Bordalo (fr. santa clara, c. Coimbra), Arco e Montarroio (fr. santa cruz, c. Coimbra), e um olival em Vila Franca (fr. santo antónio dos olivais, c. Coimbra), com a condição de lhe fazerem aniversários./obs=documento publicado, partida por abc, dobra com um selo pendente e furos de outro desaparecido
+
+         doador$João Anes/id=sbartdoa1349.1.joao
+            ls$cargo/Raçoeiro de S. Bartolomeu/obs=foi durante 35 anos
+            ls$morto/antes
+
+            referido$Jorge/obs=autoriza a doação/id=sbartdoa1349.1.joao-per1
+               ls$titulo/Dom
+               ls$cargo/Bispo de Coimbra
+
+         testamenteiro$João Mateus/id=sbartdoa1349.1.mateus
+            rel$sociabilidade/testamenteiro/João Anes/sbartdoa1349.1.joao
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1349.1.sbart
+
+         bem$vinha com olival
+            atr$localizacao/Bordalo
+            atr$missas/aniversario/obs=com missa oficiada com cruz e água benta sobre a cova onde está sepultado, tantos aniversários quantos possíveis, 20 soldos cada
+            rel$posse/pertence/João Anes/sbartdoa1349.1.joao
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartdoa1349.1.sbart
+
+         bem$vinha olival
+            atr$localizacao/Bordalo
+            atr$missas/aniversario/obs=com missa oficiada com cruz e agua benta sobre a cova onde está sepultado, tantos aniversários quantos possíveis, 20 soldos cada
+            rel$posse/pertence/João Anes/sbartdoa1349.1.joao
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartdoa1349.1.sbart
+
+         bem$vinha com olival
+            atr$localizacao/Montarroio
+            atr$missas/aniversario/obs=com missa oficiada com cruz e água benta sobre a cova onde está sepultado, tantos aniversários quantos possiveis, 20 soldos cada
+            rel$posse/pertence/João Anes/sbartdoa1349.1.joao
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartdoa1349.1.sbart
+
+         bem$vinha olival
+            atr$localizacao/Vila Franca
+            atr$missas/aniversario/obs=com missa oficiada com cruz e água benta sobre a cova onde está sepultado, tantos aniversarios quantos possiveis, 20 soldos cada
+            rel$posse/pertence/João Anes/sbartdoa1349.1.joao
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartdoa1349.1.sbart
+
+      escritura$sbartdoa1349.2/4/11/1349/doacao/fol=colsbart, cx. 2, m. 5, n. 22; guardado 44/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, Fernão Gil, Cónego, confirma a doação feita por Pascoal Domingues, testamenteiro de Domingos Bartolomeu, e sua mulher, Maria Vicente, moradores em rio frio de oleiros, de uma herdade no bolao junto a ponte da Cidreira (fr. Antuzede, c. Coimbra), com a condição de uma missa oficiada e um aniversário por alma do dicto Domingos Bartolomeu./obs=documento publicado, partida por abc, dobra com um selo pendente
+
+         referido$Jorge/id=sbartdoa1349.2-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$Fernão Gil/id=sbartdoa1349.2-per2
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=Dom jorge
+
+         doador$Domingos Bartolomeu/id=sbartdoa1349.2.domingos
+            ls$morto/antes
+
+         testamenteiro$Pascoal Domingues/id=sbartdoa1349.2.pascoal
+            ls$residencia/Rio frio de oleiros
+            rel$sociabilidade/testamenteiro/Domingos Bartolomeu/sbartdoa1349.2.domingos
+
+            referida$Maria Vicente/id=sbartdoa1349.2.pascoal-per3
+               rel$parentesco/mulher/Pascoal Domingues/sbartdoa1349.2.pascoal
+
+            referido$Pedro Domingues/id=sbartdoa1349.2.pascoal-per4
+               ls$cargo/Criado do rei
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1349.2.sbart
+
+            referido$Estevão Peres/id=sbartdoa1349.2.sbart-per5
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartdoa1349.2.sbart
+
+         bem$herdade
+            atr$localizacao/Ponte de Cidreira
+            atr$missas/1 aniversario/obs=1 missa oficiada e 1 aniversário por dia de S. Miguel de setembro e saiam sobre ele com cruz e água benta
+            atr$confrontacoes/Agião e soão, herdade do criado do rei Pedro Domingues
+            atr$confrontacoes/travessia, herdade do mosteiro santa cruz
+            atr$confrontacoes/avrego, herdade de confraria dos palmeiros
+            rel$posse/pertence/Pascoal Domingues/sbartdoa1349.2.pascoal
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1349.2.sbart
+
+      escritura$sbartsent1351.1/7/10/1351/sentenca/fol=colsbart, cx. 6, m. 14, n. 16; guardado 45/loc=Coimbra/sumario=O vigário geral do Bispo de Coimbra D. Jorge, João Anes, reitor da igreja de Santa Maria de Mortágua determina por sentença que o tutor de Gomes, Martinho Peres de alcoba, cumpra o determinado no testamento de João Afonso,Prior da igreja de S. Bartolomeu já falecido, e pague os montantes já em atraso./obs=documento publicado, dobra com um selo pendente
+
+         referido$Jorge/id=sbartsent1351.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$João Anes/id=sbartsent1351.1-per2
+            ls$cargo/Reitor da igreja Santa Maria de Mortagua
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=Dom jorge
+
+         referido$João Afonso/id=sbartsent1351.1.joao
+            ls$morto/antes/obs=testamento de outubro 1348
+            ls$cargo/Prior de S. Bartolomeu/obs=noutro tempo
+            ls$sepultura/Capela
+
+         testamentaria$Capela do Prior João Afonso/id=sbartsent1351.1.capela
+            atr$capelao/sim/obs=50 libras anuais
+            atr$missas/6 aniversarios/obs=6 libras anuais
+            atr$missas/missa diária
+            atr$lampada/1 lâmpada/obs=3 alqueires de azeite
+
+         demandador$Prior e Cabido de S. Bartolomeu/id=sbartsent1351.1.sbart
+
+            referido$Sancho Garcia/id=sbartsent1351.1.sbart-per3
+               ls$cargo/Prior de S. Bartolomeu
+               rel$sociabilidade/testamenteiro/João Afonso/sbartsent1351.1.joao
+
+         reu$Gomes/id=sbartsent1351.1.gomes
+            rel$parentesco/filho/João Afonso/sbartsent1351.1.joao
+
+            referido$Martim Peres/id=sbartsent1351.1.martim
+               ls$alcunha/Alcoba
+               rel$sociabilidade/tutor/Gomes/sbartsent1351.1.gomes
+
+            referido$Vasco Lourenço/id=sbartsent1351.1.Vasco
+               rel$sociabilidade/tutor/Gomes/sbartsent1351.1.gomes
+
+         bem$herdade
+            atr$localizacao/Carregal
+            rel$posse/pertenceu/João Afonso/sbartsent1351.1.joao
+            rel$posse/pertence/Gomes/sbartsent1351.1.gomes
+            rel$posse/por testamento/Capela do Prior João Afonso/sbartsent1351.1.capela
+
+         bem$herdade
+            atr$localizacao/S. Romão
+            rel$posse/pertenceu/João Afonso/sbartsent1351.1.joao
+            rel$posse/pertence/Gomes/sbartsent1351.1.gomes
+            rel$posse/por testamento/Capela do Prior João Afonso/sbartsent1351.1.capela
+
+         escrivao$Estevão Anes/obs=notauit/id=sbartsent1351.1-per4
+            ls$intitulacao/scriptor juratus
+
+         demanda$por causa de bens herdados/obs=o Prior e Cabido de S. Bartolomeu citam os tutores de Gomes, criado do Prior João Afonso de cujo testamento de outubro de 1348 fundava uma capela com uma lâmpada dotada com herdades no Carregal e em S. Romão. Com dois anos de atraso no pagamento da referida capela, o Prior de S. Bartolomeu requerem o pagamento de 12 libras para aniversários, 100 libras para o capelão e 6 alqueires de azeite para a lâmpada e 4 libras para o Prior de S. Bartolomeu/id=sbartsent1351.1-obj3
+
+         sentenca$a favor da igreja de S. Bartolomeu/obs=o vigário ordena o pagamento dos montantes/id=sbartsent1351.1-obj4
+
+      escritura$sbartemp1353.1/15/10/1353/emprazamento/fol=colsbart, cx. 2, m. 5, n. 23; guardado 46/loc=Coimbra, coro da igreja de S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam a Martim Domingues, alfaiate de pano de linho, e sua mulher, Margarida Domingues, moradores em Coimbra, dois pardieiros na Rua de caldeireiros (hoje Rua direita, fr santa cruz, c. Coimbra)./obs=documento publicado, dobra com um selo pendente
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1353.1.sbart
+
+            referido$Sancho Garcia/id=sbartemp1353.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Martim Domingues/id=sbartemp1353.1.martim
+            ls$residencia/Coimbra
+            ls$profissao/Alfaiate de pano de linho
+
+         enfiteutaf$Margarida Domingues/id=sbartemp1353.1-per2
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Martim Domingues/sbartemp1353.1.martim
+
+         tabeliao$Estevão Peres/id=sbartemp1353.1-per3
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+         test$João Afonso/id=sbartemp1353.1-per4
+            ls$titulo/Clérigo
+
+         test$Lourenço Esteves/id=sbartemp1353.1-per5
+            ls$titulo/Clérigo
+
+         test$Leonardo Esteves/id=sbartemp1353.1-per6
+            ls$titulo/Clérigo
+
+         test$João Rodrigues/id=sbartemp1353.1-per7
+            ls$titulo/Clérigo
+
+         bem$2 pardieiros
+            atr$localizacao/Rua de Caldeireiros/obs=sobre a agua de runa, Coimbra
+            atr$confrontacoes/de uma parte com casas da igreja de S. Bartolomeu
+            atr$confrontacoes/da outra com Rua de Caldeireiros
+            atr$confrontacoes/da outra com Rua da Moeda
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1353.1.sbart
+            rel$posse/por emprazamento/Martim Domingues/sbartemp1353.1.martim
+            atr$condicoes/fazer e refazer as casas
+            atr$renda principal valor/13,5 libras
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/Páscoa e dia de S. Miguel de setembro
+
+      escritura$sbartemp1355.1/25/5/1355/emprazamento/fol=colsbart, cx. 2, m. 5, n. 24; guardado 47/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior e Cabido de S. Bartolomeu, Sancho Garcia, emprazam a Vicente Domingues e a sua mulher Domingas Ramos, moradores em Coimbra, na Rua de Palhais junto a S. Domingos, uma casa na dita Rua./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1355.1.sbart
+
+            referido$Sancho Garcia/id=sbartemp1355.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Vicente Domingues/id=sbartemp1355.1.vicente
+            ls$residencia/Rua de Palhais/obs=a par de S. Domingos
+            ls$profissao/Peliteiro
+
+         enfiteutaf$Domingas Ramos/id=sbartemp1355.1-per2
+            ls$residencia/Rua de Palhais/obs=a par de S. Domingos
+            rel$parentesco/mulher/Vicente Domingues/sbartemp1355.1.vicente
+
+            referido$João Santeiro/id=sbartemp1355.1-per2-per3
+               ls$alcunha/Santeiro
+               ls$profissao/Santeiro
+
+         test$João Martins/id=sbartemp1355.1-per4
+            ls$titulo/Clérigo
+
+         test$Domingos Geraldes/id=sbartemp1355.1-per5
+            ls$alcunha/da Marmeleira
+
+         test$Domingos Anes/id=sbartemp1355.1-per6
+            ls$naturalidade/Lousã
+
+         test$João Lourenço/id=sbartemp1355.1-per7
+            ls$naturalidade/Coimbra
+
+         tabeliao$Estevão Peres/id=sbartemp1355.1-per8
+            ls$intitulacao/Tabelião do rei na cidade de Coimbra
+
+         bem$1 casa
+            atr$localizacao/Rua de Palhais
+            atr$confrontacoes/parte de uma parte com casas que foram de João Santeiro
+            atr$confrontacoes/da outra parte com casas da igreja
+            atr$confrontacoes/da outra com Rua publica
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1355.1.sbart
+            rel$posse/por emprazamento/Vicente Domingues/sbartemp1355.1.vicente
+            atr$renda principal valor/3 libras
+            atr$pagamento da renda principal/S. João Baptista
+
+      escritura$sbartsent1356.1/3/9/1356/sentenca/fol=colsbart, cx. 6, m. 14, n. 17; guardado 48/loc=Coimbra/sumario=O vigário do Bispo de Coimbra D. Jorge, Fernão Gil, determina por sentença que o Prior e raçoeiros da igreja de S. Bartolomeu dêem por ano a Abadessa do mosteiro de Lorvão (fr. c. penacova) uma colheita composta por setenta pães, três almudes de vinho e seis pescadas frescas, ou oito secas./obs=documento publicado, mau estado, dobra com tiras de selo pendente desaparecido
+
+         referido$Jorge/id=sbartsent1356.1-per1
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+            ls$morto/antes
+
+         referido$Fernão Gil/id=sbartsent1356.1-per2
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=D. Jorge de boa memoria, Vigário eleito pelo Cabido da se vagante
+
+         demandadora$abadessa e convento do mosteiro de lorvao/id=sbartsent1356.1.lorvao
+
+            referida$Mecia/id=sbartsent1356.1.lorvao-per3
+               ls$titulo/Dona
+               ls$cargo/Abadessa do mosteiro de Lorvão
+
+            referido$Gil Martins/id=sbartsent1356.1.lorvao-per4
+               rel$sociabilidade/procurador/abadessa e convento do mosteiro de Lorvão/sbartsent1356.1.lorvao
+
+         reu$Prior e Cabido de S. Bartolomeu/id=sbartsent1356.1.sbart
+
+            referido$Sancho Garcia/id=sbartsent1356.1.sbart-per5
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Guilherme/id=sbartsent1356.1.sbart-per6
+               ls$titulo/Mestre
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1356.1.sbart
+
+         escrivao$Estevão Anes/id=sbartsent1356.1-per7
+            ls$intitulacao/scriptor juratus notavit
+
+         demanda$sobre a colheita devida por S. Bartolomeu a abadessa do mosteiro de lorvao/obs=a Abadessa do mosteiro de Lorvão apresentou uma petição junto dos Vigarios do Bispo de Coimbra, Fernão Gil e João Anes, reitor de Mortágua, para que o Prior e Cabido de S. Bartolomeu fossem constrangidos a receber a abadessa na sua igreja, quando esta fosse a Coimbra e lhe pagassem anualmente setenta pães, três almudes de vinho e seis pescadas frescas, ou oito secas/id=sbartsent1356.1-obj1
+
+         defesa$consentimento/id=sbartsent1356.1-obj2
+
+         sentenca$a favor do mosteiro de lorvao/id=sbartsent1356.1-obj3
+
+      escritura$sbartsent1357.1/16/1/1357/sentenca/fol=colsbart, cx. 6, m. 14, n. 18; guardado 49/loc=ourense/sumario=O Bispo de Ourense D. João de Cardaillac, conservador deputado de D. Afonso Bispo de Mondonedo, determina por sentença que na questão entre o mosteiro de S. Francisco de Coimbra e a igreja de S. Bartolomeu dessa cidade, por causa de uma citação que o primeiro mandou fazer a segunda, o Prior e raçoeiros da igreja sejam considerados absolvidos./obs=documento publicado, segunda-feira
+
+         escrivao$Rui Goncalves/id=sbartsent1357.1.rui
+            ls$intitulacao/Notário público de Ourense
+
+            referido$Afonso/id=sbartsent1357.1.rui-per1
+               ls$titulo/Dom
+               ls$cargo/Bispo de Mondonedo
+
+            referido$João/id=sbartsent1357.1.rui-per2
+               ls$titulo/Dom
+               ls$cargo/Bispo de Ourense
+               ls$cargo/Conservador deputado do Bispo de mondonedo/obs=D. Afonso
+
+         demandador$frades do mosteiro de S. Francisco/id=sbartsent1357.1.mosteiro
+
+            referido$João de São Gunil/id=sbartsent1357.1.mosteiro-per3
+               ls$titulo/Frei
+               ls$cargo/Frade do mosteiro de S. Francisco
+
+         reu$Prior e Cabido de S. Bartolomeu/id=sbartsent1357.1.sbart
+
+            referido$Vasco Neto/id=sbartsent1357.1.sbart-per4
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1357.1.sbart
+
+         test$Gonçalo Peres/id=sbartsent1357.1-per5
+            ls$alcunha/do Mate
+            ls$titulo/cidadão de Ourense
+
+         test$Gonçalo Peres/id=sbartsent1357.1-per6
+            ls$alcunha/da cruz
+            ls$titulo/cidadão de Ourense
+
+         test$Gonçalo Cordeiro/id=sbartsent1357.1-per7
+            ls$cargo/Notário de Ourense
+
+         test$Vasco/id=sbartsent1357.1-per8
+            rel$profissional/escrivao/Rui Gonçalves/sbartsent1357.1.rui
+
+         demanda$anulacao de uma sentenca/obs=o representante do Prior e Cabido de S. Bartolomeu diz que receberam uma comissão e conservatoria na contenda que opunha esta igreja ao mosteiro de S. Francisco de Coimbra, passada pelo Bispo de Mondonedo e pede que esta não seja considerada válida pelo Bispo de Mondonedo não ter jurisdição para o fazer/id=sbartsent1357.1-obj1
+
+         defesa$refutacao/id=sbartsent1357.1-obj2
+
+         sentenca$a favor da igreja de S. Bartolomeu/id=sbartsent1357.1-obj3
+
+      escritura$sbartemp1357.1/5/5/1357/emprazamento/fol=colsbart, cx. 2, m. 5, n. 17; guardado 50/loc=Coimbra/sumario=O Prior da igreja de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam em duas vidas a Antão Garcia, raçoeiro dessa igreja, um olival em Vila Franca (fr. santo antonio dos olivais)./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1357.1.sbart
+
+            referido$Sancho Garcia/id=sbartemp1357.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Antão Garcia/id=sbartemp1357.1.antao
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         test$Lourenço Esteves/id=sbartemp1357.1-per2
+            ls$titulo/Clérigo
+
+         test$Pedro Mateus/id=sbartemp1357.1-per3
+            ls$titulo/Clérigo
+
+         test$Afonso/id=sbartemp1357.1-per4
+            ls$profissao/Sarador
+
+         test$Afonso/id=sbartemp1357.1-per5
+
+         tabeliao$Afonso Rodrigues/id=sbartemp1357.1-per6
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         bem$1 olival
+            atr$localizacao/Vila Franca
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1357.1.sbart
+            rel$posse/por emprazamento/Antão Garcia/sbartemp1357.1.antao
+            atr$duracao/2 vidas
+            atr$renda principal valor/12 libras
+            atr$pagamento da renda principal/Entrudo
+            atr$renda acessoria/2 capões/obs=para a segunda vida
+
+      escritura$sbartsent1357.2/8/8/1357/sentenca/fol=colsbart, cx. 1, m. 1, n. 6; guardado 51/loc=obidos/obs=documento publicado, transcrevi a publica-forma dada em Coimbra a 13 de agosto de 1357 com a confirmação do Arcebispo de Braga numa escritura a parte, neste ficheiro
+
+         referido$Pedro/id=sbartsent1357.2.rei
+            ls$titulo/Dom
+            ls$cargo/Rei de Portugal
+
+         referido$Gonçalo/id=sbartsent1357.2-per1
+            ls$titulo/Mestre de decretais
+            rel$sociabilidade/vassalo/Pedro/sbartsent1357.2.rei
+
+         referido$Lourenço Esteves/id=sbartsent1357.2-per2
+            rel$sociabilidade/vassalo/Pedro/sbartsent1357.2.rei
+
+         demandador$mosteiro de S. Francisco/id=sbartsent1357.2-per3
+
+            referido$nome desconhecido/id=sbartsent1357.2.guardiao
+               ls$cargo/Guardião do mosteiro de S. Francisco de Coimbra
+
+            referido$Álvaro/id=sbartsent1357.2-per3-per4
+               ls$titulo/Doutor do mosteiro de S.Francisco de Coimbra
+               rel$sociabilidade/procurador/nome desconhecido/sbartsent1357.2.guardiao
+
+            referido$João Esteves/id=sbartsent1357.2-per3-per5
+               ls$titulo/Doutor do mosteiro de S. Francisco do porto
+               ls$titulo/Frei
+               rel$sociabilidade/procurador/nome desconhecido/sbartsent1357.2.guardiao
+
+         reu$Prior e Cabido de S. Bartolomeu/id=sbartsent1357.2.sbart
+
+            referido$Estevão Peres/id=sbartsent1357.2.sbart-per6
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartsent1357.2.sbart
+
+         demanda$por causa do dizimo/obs=o Prior e Cabido de S. Bartolomeu demandavam ao guardião e convento de S. Francisco a dízima das hortas que o mosteiro tinha junto ao dicto mosteiro/id=sbartsent1357.2-obj1
+
+         sentenca$avenca/obs=que o guardião e convento tivesse as suas hortas assim a cercada como a por cercar sem dar dízimo delas a igreja de S. Bartolomeu e o Prior e Cabido de S. Bartolomeu ficavam livres das custas e danos que poderiam ter por sentença. Por esta sentença, o guardião e convento do mosteiro de S. Francisco ficava obrigado a oficiar 100 misas no mosteiro pelas almas dos benfeitores da igreja de S. Bartolomeu e se algum Prior ou raçoeiro de S. Bartolomeu morrer, que o dito guardião e convento de S. Francisco venham fazer lhe honra a igreja e dizer-lhes horas e missas, isto sem qualquer pagamento. Os Priores e Cabido de S. Bartolomeu não ficam obrigados ao mesmo no caso de morrer algum frade de S. Francisco/id=sbartsent1357.2-obj2
+
+      escritura$sbartpf1357.1/13/8/1357/publicaforma/fol=colsbart, cx. 1, m. 1, n. 6; guardado 51/loc=Coimbra, mosteiro de S. Domingos/sumario=D. Guilherme, Arcebispo de Braga confirma e manda publicar uma sentença régia de D. Pedro primeiro numa contenda que opunha o mosteirode S. Francisco ao Prior e Cabido de S. Bartolomeu./obs=documento publicado, pública-forma transcrita a parte
+
+         referido$Guilherme/id=sbartpf1357.1-per1
+            ls$titulo/Dom
+            ls$cargo/Arcebispo de Braga
+
+         referido$guardiao e convento do mosteiro de s francisco de Coimbra/id=sbartpf1357.1.sfco
+
+         referido$Álvaro/id=sbartpf1357.1-per2
+            ls$titulo/Doutor em Teologia
+            ls$titulo/Frade da Ordem dos Frades Menores
+            rel$sociabilidade/procurador/Guardião e convento do mosteiro de S. Francisco/sbartpf1357.1.sfco
+
+         referido$João Esteves/id=sbartpf1357.1-per3
+            ls$titulo/Doutor em Teologia
+            ls$titulo/Frade da Ordem dos Frades Menores
+            rel$sociabilidade/procurador/Guardião e convento do mosteiro de S. Francisco/sbartpf1357.1.sfco
+
+         referido$Prior e Cabido de S. Bartolomeu/id=sbartpf1357.1.sbart
+
+         referido$Sancho Garcia/id=sbartpf1357.1-per4
+            ls$cargo/Prior de S. Bartolomeu
+
+         referido$Estevão Peres/id=sbartpf1357.1-per5
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         referido$Pedro Domingues/id=sbartpf1357.1-per6
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         referido$André Esteves/id=sbartpf1357.1-per7
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         test$Pedro de Margarida/id=sbartpf1357.1-per8
+            ls$cargo/Cónego de Braga
+
+         test$Asturgo Manfipi/id=sbartpf1357.1-per9
+            ls$cargo/Arcediago do Vouga
+
+         test$Gonçalo Anes/id=sbartpf1357.1-per10
+            ls$cargo/Cónego
+
+         test$Martim Anes/id=sbartpf1357.1-per11
+            ls$cargo/Raçoeiro da Sé de Coimbra
+
+         test$Martim Vasques/id=sbartpf1357.1-per12
+            ls$titulo/Senhor de Gois
+            ls$titulo/Cavaleiro
+
+         test$Martim Lourenço/id=sbartpf1357.1-per13
+            ls$alcunha/Malha/obs=dito malha
+            ls$cargo/Prebendeiro da Sé de Coimbra
+
+         escrivao$Gonçalo Peres/id=sbartpf1357.1-per14
+            ls$intitulacao/Escrivão jurado dado pelo Rei a Gonçalo Peres seu Tabelião
+
+         tabeliao$Gonçalo Peres/id=sbartpf1357.1-per15
+            ls$intitulacao/Tabelião geral do Rei em seu senhorio
+
+      escritura$sbartemp1357.2/2/10/1357/emprazamento/fol=colsbart, cx. 2, m. 5, n. 25; guardado 52/loc=Coimbra, coro da igreja de S. Bartolomeu/sumario=O Prior e Cabido de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam a Martim Domingues e sua mulher, Sancha Martins, moradores em Coimbra, dois olivais e uma vinha em frapellas, termo de Coimbra./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1357.2.sbart
+
+            referido$Sancho Garcia/id=sbartemp1357.2.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Martim Domingues/id=sbartemp1357.2.martim
+            ls$residencia/Coimbra
+
+         enfiteutaf$Sancha Martins/id=sbartemp1357.2.sancha
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Martim Domingues/sbartemp1357.2.martim
+
+            referido$Gonçalo Martins/id=sbartemp1357.2.sancha-per2
+               ls$profissao/Tabelião
+
+         test$nome desconhecido/id=sbartemp1357.2-per3
+            ls$cargo/Prior de São Martinho do Bispo
+
+         test$João Martins/id=sbartemp1357.2-per4
+            ls$residencia/Coimbra
+
+         test$João de Elvas/id=sbartemp1357.2-per5
+            ls$naturalidade/Elvas
+
+         tabeliao$Afonso Rodrigues/id=sbartemp1357.2-per6
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         bem$2 olivais
+            atr$localizacao/Frapelas
+            atr$confrontacoes/parte de uma parte com Gonçalo Martins, Tabelião
+            atr$confrontacoes/da outra com João Afonso
+            atr$confrontacoes/da outra com Santa Justa
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1357.2.sbart
+            rel$posse/por emprazamento/Martim Domingues/sbartemp1357.2.martim
+            atr$renda principal valor/8 libras
+            atr$pagamento da renda principal/Natal
+            atr$duracao/2 vidas
+
+         bem$1 vinha
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1357.2.sbart
+            rel$posse/por emprazamento/Martim Domingues/sbartemp1357.2.martim
+
+      escritura$sbartemp1358.1/1/5/1358/emprazamento/fol=colsbart, cx. 2, m. 5, n. 26; guardado 53/loc=Coimbra, coro da igreja de S. Bartolomeu/sumario=O Prior e Cabido de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam a Afonso Domingues, Carameleiro, e sua mulher, Clara Anes, moradores em Coimbra, duas leiras de olivais em Carapito e Calçada (termo de Coimbra)./obs=documento publicado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1358.1.sbart
+
+            referido$Sancho garcia/id=sbartemp1358.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Afonso Domingues/id=sbartemp1358.1.afonso
+            ls$residencia/Coimbra
+            ls$profissao/Carameleiro
+
+         enfiteutaf$Clara Anes/id=sbartemp1358.1-per2
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Afonso Domingues/sbartemp1358.1.afonso
+
+            referida$nome desconhecido/id=sbartemp1358.1.taleiga
+               ls$alcunha/Taleiga
+
+         test$Estevão Vasques/id=sbartemp1358.1-per3
+            ls$profissao/Alfaiate
+
+         test$João Esteves/id=sbartemp1358.1-per4
+            ls$profissao/Alveneiro
+
+         test$Lourenço Esteves/id=sbartemp1358.1-per5
+            ls$titulo/Clérigo
+
+         tabeliao$Martim Gil/id=sbartemp1358.1-per6
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+         bem$1 leira de olival
+            atr$localizacao/Carapito/obs=termo de Coimbra
+            rel$posse/pertenceu/nome desconhecido/sbartemp1358.1.taleiga/obs=usufruto
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1358.1.sbart
+            rel$posse/por emprazamento/Afonso Domingues/sbartemp1358.1.afonso
+            atr$renda principal valor/3,5 alqueires de azeite
+            atr$pagamento da renda principal/Natal
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda acessoria/S. Miguel de setembro
+
+         bem$1 leira de olival
+            atr$localizacao/Calçada/obs=termo de Coimbra
+            rel$posse/pertenceu/nome desconhecido/sbartemp1358.1.taleiga/obs=usufruto
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1358.1.sbart
+            rel$posse/por emprazamento/Afonso Domingues/sbartemp1358.1.afonso
+
+      escritura$sbartdoa1360.1/0/0/1360/doacao/fol=colsbart, cx. 2, m. 5, n. 27; guardado 54/loc=Coimbra, igreja de S. Bartolomeu/sumario=Domingas Anes, viúva de Vicente Esteves, doa ao Prior, Sancho Garcia, e ao Cabido da igreja de S. Bartolomeu uma herdade no quarto da Corredoura (hoje integrado na cidade de Coimbra) para cumprimento de um aniversário estipulado por seu marido./obs=documento publicado
+
+         donatario$Prior e Cabido de S. Bartolomeu/id=sbartdoa1360.1.sbart
+
+            referido$Sancho garcia/id=sbartdoa1360.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Vicente Esteves/id=sbartdoa1360.1.vicente
+               ls$residencia/Coimbra
+               ls$morto/antes
+
+         doadora$Domingas Anes/id=sbartdoa1360.1.Domingas
+            ls$residencia/Coimbra
+            rel$parentesco/viuva/Vicente Esteves/sbartdoa1360.1.vicente
+
+         tabeliao$Sancho Goncalves/id=sbartdoa1360.1-per2
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+            referido$Martim de Braga/id=sbartdoa1360.1.martim
+               ls$naturalidade/Braga
+
+            referido$Afonso Martins/id=sbartdoa1360.1.afonso
+               rel$parentesco/filho/Martim de Braga/sbartdoa1360.1.martim
+
+            referida$Margarida Anes/id=sbartdoa1360.1.margarida
+               rel$parentesco/mulher/Afonso Martins/sbartdoa1360.1.afonso
+
+         test$João Madeirão/id=sbartdoa1360.1-per3
+            ls$residencia/Figueiro
+
+         test$Rui Garcia/id=sbartdoa1360.1-per4
+            ls$cargo/Contador do Rei
+
+         test$Afonso Rodrigues/id=sbartdoa1360.1-per5
+            ls$profissao/Tabelião
+
+         test$Estevão Peres/id=sbartdoa1360.1-per6
+            ls$titulo/Clérigo
+
+         test$Afonso Martins/id=sbartdoa1360.1-per7
+            ls$titulo/Clérigo
+
+         bem$1 herdade
+            atr$missas/aniversario/obs=tantos aniversarios quantos 20 soldos rendesse a herdade
+            atr$localizacao/Corredoira
+            atr$confrontacoes/parte de uma parte com filho de Afonso Martins
+            atr$confrontacoes/da outra com caminho publico
+            atr$confrontacoes/da outra com herdade de Santa Cruz
+            rel$posse/pertenceu/Margarida Anes/sbartdoa1360.1.margarida
+            rel$posse/pertence/Domingas Anes/sbartdoa1360.1.Domingas/obs=comprou da primeira
+            rel$posse/por doacao/Prior e Cabido de S. Bartolomeu/sbartdoa1360.1.sbart
+
+      escritura$sbartemp1361.1/10/0/1361/emprazamento/fol=colsbart, cx. 2, m. 5, n. 28; guardado 55/loc=Coimbra, igreja de S. Bartolomeu/sumario= O Prior de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam a Gonçalo Afonso e a sua mulher, Maria Martins, moradores em Coimbra, umas casas junto a portagem (fr. S. Bartolomeu, c. Coimbra)./obs=documento publicado, mau estado
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1361.1.sbart
+
+            referido$Sancho Garcia/id=sbartemp1361.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Gonçalo Afonso/id=sbartemp1361.1.Gonçalo
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Martins/id=sbartemp1361.1-per2
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Gonçalo Afonso/sbartemp1361.1.Gonçalo
+
+         test$Martim Vasques/id=sbartemp1361.1-per3
+
+         test$Martim Anes/id=sbartemp1361.1-per4
+
+         test$João de Elvas/id=sbartemp1361.1-per5
+            ls$naturalidade/Elvas
+            ls$titulo/Clérigo
+
+         test$João Mateus/id=sbartemp1361.1-per6
+            ls$titulo/Clérigo
+
+         tabeliao$Martim Gil/id=sbartemp1361.1-per7
+            ls$intitulacao/Público Tabelião do rei na cidade de Coimbra
+
+         bem$casas
+            atr$localizacao/Portagem
+            atr$confrontacoes/partem de todas as partes com casas de S. Bartolomeu
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1361.1.sbart
+            rel$posse/por emprazamento/Gonçalo Afonso/sbartemp1361.1.Gonçalo
+            atr$renda principal valor/4,5 libras
+            atr$pagamento da renda principal/Terças, Natal, Páscoa e S. João baptista
+
+      escritura$sbartaf1362.1/21/8/1362/aforamento/fol=colsbart, cx. 2, m. 5, n. 29; guardado 56/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior de S. Bartolomeu, Sancho Garcia, e o Cabido aforam a Domingos Anes, a sua mulher Margarida Anes, moradores em Cegonheira (fr. antanhol, c. Coimbra), e sucessores um casal em Adémia (fr. trouxemil, c. Coimbra) e umas terras no campo do Bolão junto a ponte da Cidreira./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartaf1362.1.sbart
+
+            referido$Sancho Garcia/id=sbartaf1362.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Domingos Anes/id=sbartaf1362.1.domingos
+            ls$residencia/Cegonheira
+
+         enfiteutaf$Margarida Anes/id=sbartaf1362.1.margarida
+            ls$residencia/Cegonheira
+            rel$parentesco/mulher/Domingos Anes/sbartaf1362.1.domingos
+
+            referido$Britacampos/id=sbartaf1362.1.britacampos
+
+            referido$nome desconhecido/id=sbartaf1362.1.alcaide
+               ls$alcunha/Alcaide de Coja
+
+            referido$nome desconhecido/id=sbartaf1362.1.barcouco
+               ls$cargo/Prior de Barcouco
+
+         test$Domingos Peres/id=sbartaf1362.1-per2
+            ls$cargo/Clérigo da Sé
+
+         test$Gonçalo/id=sbartaf1362.1-per3
+            ls$cargo/Escrivão da audiência
+
+         test$Antoninho Esteves/id=sbartaf1362.1-per4
+            ls$cargo/Escrivão da audiência
+
+         test$nome desconhecido/id=sbartaf1362.1-per5
+            ls$cargo/Prior de São Martinho do Bispo
+
+         test$João de Elvas/id=sbartaf1362.1-per6
+            ls$naturalidade/Elvas
+            ls$titulo/Clérigo da Sé
+
+         test$Domingos Salvadores/id=sbartaf1362.1-per7
+            ls$naturalidade/Antanhol/obs=de Antanhol
+
+         tabeliao$Estevão Peres/id=sbartaf1362.1-per8
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         bem$1 casal
+            atr$localizacao/Adémia
+            atr$duracao/vitalício e hereditário
+            rel$posse/pertenceu/Britacampos/sbartaf1362.1.britacampos/obs=usufruto
+            rel$posse/pertenceu/nome desconhecido/sbartaf1362.1.alcaide/obs=usufruto
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartaf1362.1.sbart
+            rel$posse/por aforamento/Domingos Anes/sbartaf1362.1.domingos
+            atr$renda principal valor/1 quarto da produção/obs=a dízima a Deus e que sejam fregueses de S. Bartolomeu
+            atr$renda acessoria/1 carneiro e 2 tigeladas no S. Miguel de setembro 2 capões e 20 ovos e 10 pães e 1 alqueire de trigo/obs=ou 20 soldospor ele
+            atr$pagamento da renda acessoria/Páscoa e S. Miguel de setembro
+            atr$pedida de mordomo/2 frangões, 10 pães, 1 alqueire de trigo
+            atr$eiradega/4 alqueires de pão meado
+            atr$fogaca/2 alqueires de trigo/obs=do monte feito a jueira
+            atr$jantar/quando o Prior ou raçoeiro for as herdades, uma vez no ano
+
+         bem$terras
+            atr$localizacao/ponte de Cidreira
+            rel$posse/pertenceu/nome desconhecido/sbartaf1362.1.barcouso/obs=para aniversarios
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartaf1362.1.sbart
+            rel$posse/por aforamento/Domingos Anes/sbartaf1362.1.domingos
+            atr$renda principal valor/2 quarteiros de pão meado/obs=e a dizima a deus
+            atr$renda acessoria/2 porcos
+            atr$pagamento da renda acessoria/Santa Maria de agostos

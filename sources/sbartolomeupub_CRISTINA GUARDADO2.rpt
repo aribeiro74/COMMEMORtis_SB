@@ -1,0 +1,50 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+13-6-2023 14-17
+
+Processing data file sbartolomeupub_CRISTINA GUARDADO2.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$avsbartolomeupub2
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO2.cli line 3 * Warning: Filename should match source Id to avoid errors. File: sbartolomeupub_CRISTINA GUARDADO2 Id: avsbartolomeupub2.
+Near lines: 3 Near lines: 4       escritura$sbartemp1363.1/25/3/1363/emprazamento/fol=colsbart, cx. 2, m. 5, n. 30; guardado 57/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam em duas vidas a Fernão Gonçalves, carniceiro, umas casas na Madalena (hoje integrada na av. Fernão de Magalhães, fr. santa cruz S. Bartolomeu, c. Coimbra)/obs=documento publicado, bom
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO2.cli line 3 Element value exceeds database field length: loc=colsbart, cx. 2, m. 5, n. 30; guardado 57; colsbart, cx. 6, m. 12, n. 2; guardado 58; colsbart, cx. 2, m. 5, n. 31, guardado 59; colsbart, cx. 2, m. 5, n. 32, guardado 60; colsbart, cx. 6, m. 12, n. 3, guardado 61; colsbart, cx. 2, m. 5, n. 33, guardado 62; colsbart, cx. 1, m. 1, n. 7, guardado 63; colsbart, cx. 2, m. 5, n. 34, guardado 64; colsbart, cx. 2, m. 5, n. 8b, guardado 65; colsbart, cx. 2, m. 5, n. 35, guardado 66; colsbart, cx. 1, m. 3, n. 1, guardado 67; colsbart, cx. 2, m. 5, n. 36, guardado 68; colsbart, cx. 6, m. 12, n. 4, guardado 69. Size:555 limit: 64
+Near lines: 3 Near lines: 4       escritura$sbartemp1363.1/25/3/1363/emprazamento/fol=colsbart, cx. 2, m. 5, n. 30; guardado 57/loc=Coimbra, igreja de S. Bartolomeu/sumario=O Prior de S. Bartolomeu, Sancho Garcia, e o Cabido emprazam em duas vidas a Fernão Gonçalves, carniceiro, umas casas na Madalena (hoje integrada na av. Fernão de Magalhães, fr. santa cruz S. Bartolomeu, c. Coimbra)/obs=documento publicado, bom
+6: escritura$sbartemp1363.1
+
+WARNING: sbartolomeupub_CRISTINA GUARDADO2.cli line 11 Element value exceeds database field length: sexo=sbartemp1363.1.fernao. Size:21 limit: 1
+Near lines: 11          enfiteuta$Fernão Goncalves/sbartemp1363.1.fernao/id=sbartemp1363.1-per2Near lines: 12             ls$profissao/Carniceiro
+48: escritura$sbartpos1363.1
+88: escritura$sbartemp1363.2
+131: escritura$sbartemp1363.3
+176: escritura$sbartav1363.1
+206: escritura$sbartdoa1363.1
+242: escritura$sbartconf1364.1
+256: escritura$sbartemp1365.1
+302: escritura$sbartcon1366.1
+341: escritura$sbartdoa1366.1
+407: escritura$sbart1366.1
+457: escritura$sbartemp1368.1
+500: escritura$sbarsent1368.1
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO2.cli
+** Original file- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO2.org
+** Previous version- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO2.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/sbartolomeupub_CRISTINA GUARDADO2.ids
+0  errors. 
+3  warnings.
+Translation finished.

@@ -1,0 +1,1431 @@
+kleio$gacto2.str/translations=15
+   fonte$avsbartolomeupub4/1126-1416/varios/substitui=avsbartolomeupub/loc=colsbart cx.2, m.6, n.7, guardado 80; cx.2, m.6, n.8a, guardado 81; cx.2, m.6, n.8b, guardado82; cx.2, m.6, n.9, guardado 83; cx.2, m.6, n.10, guardado84; cx.2, m.6, n.11, guardado 85;cx.2, m.6, n.12, guardado86; cx.2, m.6, n.13, guardado 87; cx.2, m.6, n.14, guardado 88; cx.2, m.6, n.15, guardado 89; cx.2, m.6, n.16, guardado 90; cx.2, m.6, n.17, guardado 91; cx.2, m.6, n.18a, guardado 92; cx.2, m.6, n.18b, guardado 93; cx.2, m.6, n.19, guardado 94; cx.2, m.6, n.21, guardado 95; cx.2, m.6, n.22, guardado 96; cx.2, m.6, n.23, guardado 97; cx.2, m.6, 24, cx.2, m.6, n.25, guardado 98; cx.2, m.6, n.26, cx.2, m.6, n.27, guardado 99, cx.2, m.6, n.28, guardado 100; cx.2, m.6, n.29, guardado 101; cx.2, m.6, n.30, guardado 102; cx.2, m.6, n.30, guardado 103, cx.2, m.6, n.31, guardado 104, cx.2, m.6, n.32, guardado 105; cx.2, m.6, n.34, guardado 106, cx.2, m.6, n.35, guardado 107/obs=escrituras diferentes tipologias, publicadas na tese de cristina guardado1999
+
+      escritura$sbartolomeu0510/05/10/1374/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.7, guardado 80, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Álvaro Afonso, clérigo, renuncia a uma vinha e olival em Bordalo (fr.Santa Clara) que trazia emprazadas da igreja de S. Bartolomeu, os quais o prior, Raimundo Beltrães, e os raçoeiros dessa mesma igreja emprazam em três vidas, a João Martins, carpinteiro, e sua mulher, Catarina Afonso.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref1374-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         senhorio$prior e cabido de S. Bartolomeu de Coimbra/id=csbartolomeu1374
+
+         renunciante$Álvaro Afonso/id=csbartolomeu1374-aafonso
+            ls$cargo/clérigo
+            ls$titulo/clérigo
+
+         enfiteuta$João Martins/id=csbartolomeu1374-jmartins
+            ls$profissao/carpinteiro
+
+         enfiteutaf$Catarina Afonso/id=csbartolomeu1374-cafonso
+            rel$parentesco/mulher/João Martins/csbartolomeu1374-jmartins
+
+            referido$Gonçalo de Lafões/id=csbartolomeu.ref1374-glafoes
+               ls$alcunha/Lafões
+               ls$naturalidade/Lafões
+
+            referido$João Domingues/id=csbartolomeu.ref1374-jdomingues
+               ls$alcunha/Gago
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab1374-aanes
+            ls$profissao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         test$Gonçalo Esteves/id=csbartolomeu.test1374-gesteves
+            ls$titulo/clérigo
+
+         test$Alvaro Afonso/id=csbartolomeu.test1374-aafonso
+            ls$titulo/clérigo
+
+         bem$vinha e olival/id=sbartolomeu0510-obj1
+            atr$localizacao/Bordalo
+            atr$confrontacoes/com a vinha de Gonçalo de Lafões
+            atr$confrontacoes/olival de João Domingues Gago
+            rel$posse/pertence/Álvaro Afonso/csbartolomeu1374-aafonso
+            rel$posse/por renuncia/Prior e Cabido de S. Bartolomeu/csbartolomeu1374
+            rel$posse/por emprazamento/Catarina Afonso/csbartolomeu1374-cafonso
+            rel$posse/por emprazamento/João Martins/csbartolomeu1374-jmartins
+            atr$duracao/1 vida
+            atr$renda principal valor/3 libras e meio de dinheiros portugueses
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+      escritura$sbartolomeu1704/17/04/1375/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.8a, guardado 81, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Domingos Fernandes Almoxarifinho e sua mulher, Maria Peres, renunciam a duas casas, na Rua da Fancaria, em Coimbra, que tinham emprazadas da igreja de S. Bartolomeu, a favor, no caso de uma delas, de António Bartolomeu e sua mulher, Marinha Martins.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu1375-priorcabido
+
+         tabeliao$Pedro Anes/id=csbartolomeu.tab1375-panes
+            ls$intitulacao/Público tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         renunciante$Domingos Fernandes/id=csbartolomeu1375-dfernandes
+            ls$alcunha/almoxarifinho
+            ls$profissao/almoxarife/obs=pelo menos terá sido
+            ls$residencia/Coimbra
+
+         renunciantef$Maria Peres/id=csbartolomeu1375-mperes
+            rel$parentesco/mulher/Domingos Fernandes/csbartolomeu1375-dfernandes
+            ls$residencia/Coimbra
+
+         bem$2 casas/id=sbartolomeu1704-obj1
+            atr$localizacao/Rua da Fancaria
+            atr$confrontacoes/por cima da Runa
+            rel$posse/pertence/Domingos Fernandes/csbartolomeu1375-dfernandes
+            rel$posse/pertence/Maria Peres/csbartolomeu1375-mperes
+            rel$posse/por renuncia/Prior e Cabido de S. Bartolomeu/csbartolomeu1375-priorcabido
+            rel$posse/por emprazamento/António Bartolomeu/csbartolomeu1375-abartolomeu
+            rel$posse/por emprazamento/Marinha Martins/csbartolomeu1375-mmartins
+
+         test$Lourenço Gonçalves/id=csbartolomeu.test1375-lgoncalves
+            ls$profissao/telhão
+
+         test$Estevão Anes/id=csbartolomeu.test1375-eanes
+            ls$alcunha/da rua de tintureiros
+            ls$residencia/rua de tintureiros
+
+         test$Lourenço Anes/id=csbartolomeu.test1375-lanes
+            ls$profissao/almocreve
+
+         enfiteuta$António Bartolomeu/id=csbartolomeu1375-abartolomeu
+            ls$residencia/Coimbra
+
+         enfiteutaf$Marinha Martins/id=csbartolomeu1375-mmartins
+            rel$parentesco/mulher/António Bartolomeu/csbartolomeu1374-abartolomeu
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu1804/18/04/1375/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.8b, guardado 82, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam a António Bartolomeu e sua mulher, Marinha Martins, moradores em Coimbra, duas casas sobradadas na Rua da Fancaria, em Coimbra.
+
+         referido$Raimundo Beltrães/id=csbartolomeu18041375-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu18041375-priorcabido
+
+         enfiteuta$António Bartolomeu/id=csbartolomeu18041375-abartolomeu
+            ls$residencia/Coimbra
+
+         enfiteutaf$Marinha Martins/id=csbartolomeu18041375-mmartins
+            rel$parentesco/mulher/António Bartolomeu/csbartolomeu18041375-abartolomeu
+            ls$residencia/Coimbra
+
+            referido$Domingos Fernandes/id=csbartolomeu18041375-dfernandes
+               ls$alcunha/almoxarifinho
+
+            referida$Maria Peres/id=csbartolomeu18041375-mperes
+               rel$parentesco/mulher/Domingos Fernandes/csbartolomeu18041375-dfernandes
+
+         tabeliao$Pedro Anes/id=csbartolomeu.tab18041375-panes
+            ls$sinal/sim
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+
+         bem$2 casas sobradadas/obs=com os seus sótãos/id=sbartolomeu1804-obj1
+            atr$localizacao/Rua da Fancaria
+            atr$confrontacoes/por cima da Runa
+            atr$confrontacoes/junto das casas emprazadas por Domingos Fernandes almoxarifinho e sua mulher Maria Peres
+            atr$confrontacoes/casas de Galhães
+            atr$duracao/1 vida
+            atr$renda principal valor/18 libras
+            atr$pagamento da renda principal/dia de Páscoa e dia de S. Miguel de setembro
+            atr$renda acessoria/4 capões
+            atr$caucao/18 libras de dinheiros portugueses e quatro capões
+            rel$posse/por emprazamento/António Bartolomeu/csbartolomeu18041375-abartolomeu
+            rel$posse/por emprazamento/Marinha Martins/csbartolomeu18041375-mmartins
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu18041375-priorcabido
+
+         test$João de Cantanhede/id=csbartolomeu.test18041375-jcantanhede
+            ls$naturalidade/Cantanhede
+            ls$titulo/clérigo
+            ls$residencia/Coimbra
+
+         test$Domingos Anes/id=csbartolomeu.test18041375-danes
+            ls$alcunha/Cagatio
+            ls$residencia/Coimbra
+
+         test$Gonçalo Esteves/id=csbartolomeu.test18041375-gesteves
+            ls$profissao/homem de serviço
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu0206/02/06/1375/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.9, guardado 83, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=João Domingues, capelão da igreja de S. Bartolomeu, renuncia a umas casas na Rua dos Prazeres (hoje beco dos prazeres) que tinha emprazadas da igreja de S. Bartolomeu, as quais o prior, Raimundo Beltrães, e os raçoeiros dessa mesma igreja emprazam em duas vidas a João Gomes, seu raçoeiro.
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab02061375-aanes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+            referido$Raimundo Beltrães/id=csbartolomeu02061375-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         renunciante$João Domingues/id=csbartolomeu02061375-jdomingues
+            ls$cargo/Capelão de S. Bartolomeu
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu02061375-priorcabido
+
+         bem$casas/id=sbartolomeu0206-obj1
+            atr$localizacao/Rua dos Prazeres
+            atr$confrontacoes/com casa de Rui Martins
+            atr$confrontacoes/com casa de Pedro Anes
+            rel$posse/pertence/João Domingues/csbartolomeu02061375-jdomingues
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu02061375-priorcabido
+            rel$posse/por emprazamento/João Gomes/csbartolomeu02061375-jgomes
+            atr$renda principal valor/6 libras de moeda antiga
+            atr$duracao/1 vida
+
+         referido$Rui Martins/id=csbartolomeu.ref02061375-rmartins
+
+         referido$Pedro Anes/id=csbartolomeu.ref02061375-panes
+
+         enfiteuta$João Gomes/id=csbartolomeu02061375-jgomes
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         test$Fernão Rodrigues/id=csbartolomeu.test02061375-frodrigues
+            ls$profissao/escudeiro
+
+         test$Gonçalo Soto/id=csbartolomeu.test02061375-gsoto
+
+         test$Afonso Peres/id=csbartolomeu.test02061375-aperes
+            ls$profissao/alfaiate
+
+      escritura$sbartolomeu2008/20/08/1375/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.10, guardado 84, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=João Domingues, capelão da igreja de S. Bartolomeu, renuncia a um olival em Banhos Secos que trazia emprazado dessa igreja, o qual o prior, Raimundo Beltrães, e os raçoeiros emprazam em três vidas a Vasco Tareco e sua mulher, Leonor Afonso, moradores na Cruz (hoje Cruz dos Morouços)
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu20081375-priorcabido
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab20081375-aanes
+            ls$intitulacao/tabelião do rei e de Coimbra
+            ls$sinal/sim
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref20081375-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         renunciante$João Domingues/id=csbartolomeu20081375-jdomingues
+            ls$cargo/Capelão de S. Bartolomeu
+
+         bem$olival/id=sbartolomeu2008-obj1
+            atr$localizacao/Banhos Secos
+            atr$confrontacoes/com olival de Maria Formosa
+            atr$confrontacoes/com olival de Vasco tareco
+            atr$confrontacoes/com olival de Estevão Tareco
+            rel$posse/pertence/João Domingues/csbartolomeu20081375-jdomingues
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu20081375-priorcabido
+            rel$posse/por emprazamento/Vasco Tareco/csbartolomeu20081375-vtareco
+            rel$posse/por emprazamento/Leonor Afonso/csbartolomeu20081375-lafonso
+            atr$renda principal valor/12 alqueires de azeite
+            atr$duracao/3 vidas
+            atr$caucao/6 alqueires de azeite
+            atr$renda acessoria/4 capões
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         enfiteuta$Vasco Tareco/id=csbartolomeu20081375-vtareco
+            ls$alcunha/Tareco
+            ls$residencia/Coimbra
+
+         enfiteutaf$Leonor Afonso/id=csbartolomeu20081375-lafonso
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Vasco Tareco/csbartolomeu20081375-vtareco
+
+         test$Gonçalo Esteves/id=csbartolomeu.test20081375-gesteves
+            ls$titulo/clérigo
+
+         test$Diogo Peres/id=csbartolomeu20081375-dperes
+            ls$profissao/alfaiate
+
+      escritura$sbartolomeu1410/14/10/1375/escambo/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.11, guardado 85, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido dão a Francisco Afonso, lavrador, e sua mulher, Margarida Domingues, moradores em Coimbra, uma casa térrea na Rua de S. Gião (hoje Rua das Azeiteira) recebendo em troca duas geiras de terra no Campo do Mondego.
+
+         escambador$prior e cabido de S. Bartolomeu/id=csbartolomeu14101375-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref14101375-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$João Afonso/id=csbartolomeu.tab14101375-jafonso
+            ls$intitulacao/público tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         escambador$Francisco Afonso/id=csbartolomeu14101375-fafonso
+            ls$profissao/lavrador
+            ls$residencia/Coimbra
+
+         escambadora$Margarida Domingues/id=csbartolomeu14101375-mdomingues
+            rel$parentesco/mulher/Francisco Afonso/csbartolomeu14101375-fafonso
+            ls$residencia/Coimbra
+
+            referido$Afonso Anes/id=csbartolomeu14101375-aanes
+               ls$profissao/almoxarife
+
+            referida$Constança Esteves/id=csbartolomeu14101375-cesteves
+               rel$parentesco/viuva/Afonso Anes/csbartolomeu14101375-aanes
+
+            referido$Afonso Martins/id=csbartolomeu14101375-amartins
+               ls$alcunha/Alvete
+
+         bem$casa térrea/obs=as quais chamam de Estrebaria da Rainha/id=sbartolomeu1410-obj1
+            atr$localizacao/Rua de S. Gião
+            atr$confrontacoes/casas da dita igreja
+            atr$confrontacoes/com o cortinhal de Constança Esteves, viuva de Afonso Anes
+            atr$condicoes/que façam da dita casa um lagar de azeite
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu14101375-priorcabido
+            rel$posse/por escambo/Francisco Afonso/csbartolomeu14101375-fafonso
+            rel$posse/por escambo/Margarida Domingues/csbartolomeu14101375-mdomingues
+
+         bem$2 geiras de terra/id=sbartolomeu1410-obj2
+            atr$localizacao/Campo do Mondego
+            atr$confrontacoes/com herdade de S. Bartolomeu
+            atr$confrontacoes/com herdade de Afonso Martins Alvete
+            rel$posse/pertence/Francisco Afonso/csbartolomeu14101375-fafonso
+            rel$posse/pertence/Margarida Domingues/csbartolomeu14101375-mdomingues
+            rel$posse/por escambo/prior e cabido de S. Bartolomeu/csbartolomeu14101375-priorcabido
+
+         test$Gonçalo Martins/id=csbartolomeu.test14101375-gmartins
+            ls$cargo/abade de Ferreira
+
+         test$Paio Gil/id=csbartolomeu.test14101375-pgil
+            ls$titulo/clérigo de Évora
+
+         test$João Gomes/id=csbartolomeu.test14101375-jgomes
+            ls$cargo/Capelão de S. Bartolomeu
+
+         test$Estevão Domingues/id=csbartolomeu.test14101375-edomingues
+            ls$alcunha/Burceirinho
+
+      escritura$sbartolomeu1304/13/04/1376/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.12, guardado 86, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em três vidas a João Peres, homem de serviço, e sua mulher, Margarida Anes, mradores de Coimbra, um olival na Várzea junto à Machada.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu13041376-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref13041376-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab13041376-aanes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         enfiteuta$João Peres/id=csbartolomeu13041376-jperes
+            ls$profissao/homem de serviço
+            ls$residencia/Coimbra
+
+         enfiteutaf$Margarida Anes/id=csbartolomeu13041376-manes
+            rel$parentesco/mulher/João Peres/csbartolomeu13041376-jperes
+            ls$residencia/Coimbra
+
+            referido$Vasco Esteves/id=csbartolomeu.ref-vesteves
+               ls$profissao/mercador
+
+            referido$João Gomes/id=csbartolomeu.ref-jgomes
+
+            referido$Afonso Martins/id=csbartolomeu.ref-amartins
+               ls$alcunha/Moxaquinho
+
+         bem$olival/id=sbartolomeu1304-obj1
+            atr$localizacao/Várzea
+            atr$confrontacoes/junto da Machada
+            atr$confrontacoes/com o olival de João Gomes
+            atr$confrontacoes/com o olival de Vasco Esteves
+            atr$confrontacoes/com olival da sé emprazada a Afonso Martins Moxaquinho
+            atr$renda principal valor/30 soldos
+            atr$duracao/3 vidas
+            atr$renda acessoria/1 capão
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu13041376-priorcabido
+            rel$posse/por emprazamento/Margarida Anes/csbartolomeu13041376-manes
+            rel$posse/por emprazamento/João Peres/csbartolomeu13041376-jperes
+
+         test$Gonçalo Anes dos Paços/id=csbartolomeu.test13041376-ganes
+            ls$residencia/Paços
+
+         test$Afonso Simões/id=csbartolomeu.test13041376-asimoes
+            ls$profissao/homem de serviço
+
+      escritura$sbartolomeu1304_a/13/04/1376/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.13, guardado 87, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em duas vidas a João Gomes, raçoeiro dessa igreja, um olival na Machada.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu13041376_a-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref13041376_a-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab13041376_a-aanes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         enfiteuta$João Gomes/id=csbartolomeu13041376_a-jgomes
+            ls$cargo/Raçoeiro de S. Bartolomeu
+            ls$residencia/Coimbra
+
+         bem$olival/id=sbartolomeu1304_a-obj1
+            atr$localizacao/Machada
+            atr$renda principal valor/30 soldos
+            atr$duracao/2 vidas
+            atr$renda acessoria/1 capão
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu13041376_a-priorcabido
+            rel$posse/por emprazamento/João Gomes/csbartolomeu13041376_a-jgomes
+
+         test$Gonçalo Anes/id=csbartolomeu.test13041376_a-ganes
+
+         test$Afonso Simões/id=csbartolomeu.test13041376_a-asimoes
+            ls$profissao/homem de serviço
+
+         test$Pedro Peres do Paços/id=csbartolomeu.test13041376_a-pperes
+
+      escritura$sbartolomeu2202/22/02/1377/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.14, guardado 88, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Vicente Luís, torneiro, morador em Coimbra, renuncia a uma casa no Quintal do Motateiro (Coimbra) que trazia emprazada da igreja de S. Bartolomeu, a qual o prior, Raimundo Beltrães, e o cabido dessa igreja emprazam a Ascenço Domingues, homem de serviço, e sua mulher, Margarida Anes, moradores em Coimbra.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu22021377-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref22021377-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$João Esteves/id=csbartolomeu.tab22021377-jesteves
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         renunciante$Vicente Luís/id=csbartolomeu22021377-vluis
+            ls$profissao/torneiro
+            ls$residencia/Coimbra
+
+         bem$casa/id=sbartolomeu2202-obj1
+            atr$localizacao/Quintal do Motateiro
+            atr$confrontacoes/com casa do Namorado
+            atr$confrontacoes/com a albergaria de S. Gião
+            atr$descricao/as casas não eram compridas
+            rel$posse/pertence/Vicente Luís/csbartolomeu22021377-vluis
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu22021377-priorcabido
+            rel$posse/por emprazamento/Ascenço Domingues/csbartolomeu22021377-adomingues
+            rel$posse/por emprazamento/Margarida Anes/csbartolomeu22021377-manes
+            atr$renda principal valor/3 libras
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/Natal
+
+         enfiteuta$Ascenço Domingues/id=csbartolomeu22021377-adomingues
+            ls$profissao/homem de serviço
+            ls$residencia/Coimbra
+
+         enfiteutaf$Margarida Anes/id=csbartolomeu22021377-manes
+            rel$parentesco/mulher/Ascenço Domingues/csbartolomeu22021377-adomingues
+            ls$residencia/Coimbra
+
+         test$Vasco Peres/id=csbartolomeu.test22021377-vperes
+            ls$cargo/prioste de S. Bartolomeu
+
+         test$João Gomes/id=csbartolomeu.test22021377-jgomes
+            ls$cargo/capelão de S. Bartolomeu
+
+         test$João Lourenço/id=csbartolomeu.test22021377-jlourenço
+            ls$cargo/homem do priol de S. Pedro de Elvas
+
+         test$Gonçalo Esteves/id=csbartolomeu.test22021377-gesteves
+            ls$cargo/homem do priol de S. Pedro de Elvas
+
+      escritura$sbartolomeu0707/07/07/1377/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.15, guardado 89, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam a Estevão Domingues, alfaiate, e sua mulher, Leonor Vicente, moradores em Coimbra, uma casa no Romal e um olival em Carapito.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu07071377-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref07071377-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Estevão Peres/id=csbartolomeu.tab07071377-eperes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         enfiteuta$Estevão Domingues/id=csbartolomeu07071377-edomingues
+            ls$profissao/alfaiate
+            ls$residencia/Coimbra
+
+         enfiteutaf$Leonor Vicente/id=csbartolomeu07071377-lvicente
+            rel$parentesco/mulher/Estevão Domingues/csbartolomeu07071377-edomingues
+            ls$residencia/Coimbra
+
+            referido$Vasco Afonso/id=csbartolomeu07071377.ref-vafonso
+               ls$profissao/foi tabelião da cidade de Coimbra
+
+         bem$casa/id=sbartolomeu0707-obj1
+            atr$localizacao/Romal
+            atr$renda principal valor/5 libras
+            atr$pagamento da renda principal/dia de S. João Batista
+            rel$posse/pertenceu/Vasco Afonso/csbartolomeu07071377.ref-vafonso
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu07071377-priorcabido
+            rel$posse/por emprazamento/Estevão Domingues/csbartolomeu07071377-edomingues
+            rel$posse/por emprazamento/Leonor Vicente/csbartolomeu07071377-lvicente
+
+         bem$olival/id=sbartolomeu0707-obj2
+            atr$localizacao/Carapito
+            atr$confrontacoes/com olival da dita igreja
+            atr$confrontacoes/com olival de Santa Cruz
+            atr$confrontacoes/com olival de Santiago
+            rel$posse/pertenceu/Vasco Afonso/csbartolomeu07071377.ref-vafonso
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu07071377-priorcabido
+            rel$posse/por emprazamento/Estevão Domingues/csbartolomeu07071377-edomingues
+            rel$posse/por emprazamento/Leonor Vicente/csbartolomeu07071377-lvicente
+
+         test$João Gomes/id=csbartolomeu.test07071377-jgomes
+            ls$cargo/clérigo de S. Bartolomeu
+
+         test$Gonçalo Domingues/id=csbartolomeu.test07071377-gdomingues
+            ls$profissao/alfaiate
+
+      escritura$sbartolomeu2408/24/08/1377/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.16, guardado 90, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e os raçoeiros emprazam em três vidas a Afonso Anes e sua mulher, Maria Lourenço, moradores em Coimbra, um olival e uma almuinha no Quarto da Corredoura (hoje integrado na cidade de Coimbra).
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu24081377-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref24081377-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab24081377-aanes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+            referido$João Martins de Sá/id=csbartolomeu.ref24081377-jmartins
+               ls$alcunha/de Sá/obs=sic.
+
+         enfiteuta$Afonso Anes/id=csbartolomeu24081377-aanes
+            ls$profissao/amo
+            rel$profissional/amo/João Martins de Sa/csbartolomeu.ref24081377-jmartins
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Lourenço/id=csbartolomeu24081377-mlourenco
+            rel$parentesco/mulher/Afonso Anes/csbartolomeu24081377-aanes
+            ls$residencia/Coimbra
+
+         bem$olival/id=sbartolomeu2408-obj1
+            atr$localizacao/Quarto da Corredoura
+            atr$confrontacoes/reguengo do rei
+            atr$renda principal valor/3 e meia libras
+            atr$duracao/3 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+            rel$posse/pertenceu/Vasco Afonso/csbartolomeu07071377.ref-vafonso
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu07071377-priorcabido
+            rel$posse/por emprazamento/Estevão Domingues/csbartolomeu07071377-edomingues
+            rel$posse/por emprazamento/Leonor Vicente/csbartolomeu07071377-lvicente
+
+         referido$Brás Durães/id=csbartolomeu.ref24081377-bduraes
+            ls$naturalidade/Pedrulha
+
+         bem$almuinha/id=sbartolomeu2408-obj2
+            atr$localizacao/Quarto da Corredoura
+            rel$posse/pertenceu/Brás Durães/csbartolomeu.ref24081377-bduraes
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu24081377-priorcabido
+            rel$posse/por emprazamento/Afonso Anes/csbartolomeu24081377-aanes
+            rel$posse/por emprazamento/Maria Lourenço/csbartolomeu24081377-mlourenco
+
+         test$João Domingues/id=csbartolomeu.test24081377-jdomingues
+            ls$titulo/clérigo
+
+         test$Gonçalo Esteves/id=csbartolomeu.test24081377-gesteves
+            ls$titulo/clérigo
+
+      escritura$sbartolomeu2304/23/04/1378/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.17, guardado 91, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam a Estácio Martins, barqueiro, e sua mulher, Antoninha Afonso, moradores em Coimbra, umas casas em Coimbra junto à Portagem, às quais renunciava Francisco Peres, tesoureiro da igreja de Santiago dessa cidade.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu23041378-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref23041378-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Gomes Anes/id=csbartolomeu.tab23041378-ganes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         enfiteuta$Estácio Martins/id=csbartolomeu23041378-emartins
+            ls$profissao/barqueiro
+            ls$residencia/Coimbra
+
+         enfiteutaf$Antoninha Afonso/id=csbartolomeu23041378-aafonso
+            rel$parentesco/mulher/Estácio Martins/csbartolomeu23041378-emartins
+            ls$residencia/Coimbra
+
+         bem$casas/id=sbartolomeu2304-obj1
+            atr$localizacao/freguesia de S. Bartolomeu
+            atr$confrontacoes/com a Portagem
+            atr$confrontacoes/com casas de S. Bartolomeu
+            atr$renda principal valor/5 libras
+            atr$duracao/3 vidas
+            atr$pagamento da renda principal/dia de S. João Batista
+            rel$posse/pertence/Francisco Peres/csbartolomeu.ren23041378-fperes
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu23041378-priorcabido
+            rel$posse/por emprazamento/Antoninha Afonso/csbartolomeu23041378-aafonso
+            rel$posse/por emprazamento/Estácio Martins/csbartolomeu23041378-emartins
+
+         renunciante$Francisco Peres/id=csbartolomeu.ren23041378-fperes
+            ls$cargo/Tesoreiro de Santiago
+            ls$residencia/Coimbra
+
+         test$Aparicío Domingues/id=csbartolomeu.test23041378-adomingues
+            ls$profissao/candeeiro
+            rel$profissional/candeeiro/Pedro/csbartolomeu.ref23041378-dpedro
+
+         referido$Pedro/id=csbartolomeu.ref23041378-dpedro
+            ls$titulo/Dom
+            ls$cargo/rei de Portugal
+
+         test$Vicente/id=csbartolomeu.test23041378-vicente
+            ls$alcunha/Mata bois
+
+         test$Francisco Peres/id=csbartolomeu.test23041378-fperes
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu0303/03/03/1379/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.18a, guardado 92, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Garcia Martins, tabelião de Coimbra, renuncia a uma vinha na Várzea, que trazia emprazada da igreja de S. Bartolomeu, a qual o prior, Raimundo Beltrães, e raçoeiros dessa igreja emprazaram em duas vidas a João Peres Mamom, almuinheiro.
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu03031379-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref03031379-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Lourenço Gonçalves/id=csbartolomeu.tab03031379-lgoncalves
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         renunciante$Garcia Martins/id=csbartolomeu.ren03031379-gmartins
+            ls$profissao/tabelião de Coimbra
+
+         enfiteuta$João Peres/id=csbartolomeu03031379-jperes
+            ls$profissao/almuinheiro
+            ls$alcunha/Mamom
+            ls$residencia/Coimbra
+
+         bem$vinha/id=sbartolomeu0303-obj1
+            atr$localizacao/Várzea
+            atr$confrontacoes/com a vinha de Afonso Domingues de Aveiro
+            atr$confrontacoes/com a vinha de Domingos Santeiro
+            atr$confrontacoes/com a vinha de Jorge Esteves
+            rel$posse/pertence/Garcia Martins/csbartolomeu.ren03031379-gmartins
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu03031379-priorcabido
+            rel$posse/por emprazamento/João Peres/csbartolomeu03031379-jperes
+            atr$renda principal valor/5 libras
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/dia de S. miguel de setembro
+
+         test$Afonso Domingues/id=csbartolomeu.test03031379-adomingues
+            ls$alcunha/da Ponte
+            ls$residencia/Coimbra
+
+         test$João Peres/id=csbartolomeu.test03031379-jperes
+            ls$profissao/almuinheiro
+            ls$alcunha/Mamom
+
+      escritura$sbartolomeu0303_a/03/03/1379/doacao/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.18b, guardado 93, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Mor Afonso, mulher de Lourenço Esteves, almuinheiro, moradora em COimbra, compromete.se a dar vinte soldos anuais à igreja de S. Bartolomeu por um aniversário por alma de Catarina Esteves, mulher de Garcia Martins, tabelião.
+
+         tabeliao$Gonçalo Martins/id=csbartolomeu.tab03031379_a-gmartins
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         doadora$Mor Afonso/id=csbartolomeu03031379_a-mafonso
+            ls$residencia/Coimbra
+
+            referido$Lourenço Esteves/id=csbartolomeu.ref03031379_a-lesteves
+               rel$parentesco/marido/Mor Afonso/csbartolomeu03031379_a-mafonso
+               ls$profissao/almuinheiro
+               ls$residencia/Coimbra
+
+         celebrada$Catarina Esteves/id=csbartolomeu03031379_a-cesteves
+
+            referido$Garcia Martins/id=csbartolomeu03031379_a-gmartins
+               ls$profissao/Tabelião
+               rel$parentesco/marido/Catarina Esteves/csbartolomeu03031379_a-cesteves
+
+         donatario$aniversário de Catarina Esteves/id=csbartolomeu.ani03031379_a
+            atr$pagamento_aniversario/5 soldos a cada ano
+
+         donatario$Prior e cabido de S. Bartolomeu/id=csbartolomeu03031379_a-priorcabido
+
+         bem$vinha/id=sbartolomeu0303_a-obj1
+            atr$renda/20 soldos
+            rel$posse/pertence/Mor Afonso/csbartolomeu03031379_a-mafonso
+            rel$posse/pertence/Lourenço Esteves/csbartolomeu.ref03031379_a-lesteves
+            rel$posse/pertence/aniversário de Catarina Esteves/csbartolomeu.ani03031379_a
+            rel$posse/por doacao/Prior e cabido de S. Bartolomeu/csbartolomeu03031379_a-priorcabido
+
+      escritura$sbartolomeu1404/14/04/1379/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.19, guardado 94, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam a João Esteves e sua mulher, Maria Garcia, moradores em Coimbra, um olival em Marrocos(hoje Pinhal de Marrocos).
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu14041379-priorcabido
+
+            referido$Raimundo Beltrães/id=csbartolomeu.ref14041379-rbeltraes
+               ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Martim Gil/id=csbartolomeu.tab14041379-mgil
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         enfiteuta$João Esteves/id=csbartolomeu14041379-jesteves
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Martins/id=csbartolomeu14041379-mmartins
+            rel$parentesco/mulher/João Esteves/csbartolomeu14041379-jesteves
+            ls$residencia/Coimbra
+
+            referida$Margarida Anes/id=csbartolomeu.ref14041379-manes
+
+            referido$Gonçalo Anes/id=csbartolomeu.ref14041379-ganes
+               rel$parentesco/marido/Margarida Anes/csbartolomeu.ref14041379-manes/obs=que foi
+
+         bem$olival/id=sbartolomeu1404-obj1
+            atr$localizacao/Termo de Marrocos
+            atr$confrontacoes/com olival de Santana
+            atr$confrontacoes/com olival de Vicente Martins
+            atr$confrontacoes/com olival de Domingos
+            rel$posse/pertenceu/Margarida Anes/csbartolomeu.ref14041379-manes/obs=que foi de
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu14041379-priorcabido
+            rel$posse/por emprazamento/João Esteves/csbartolomeu14041379-jesteves
+            rel$posse/por emprazamento/Maria Martins/csbartolomeu14041379-mmartins
+            atr$renda principal valor/20 soldos
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/Natal
+
+         test$João Gil/id=csbartolomeu.test14041379-jgil
+            ls$profissao/alfaiate
+            ls$residencia/Coimbra
+
+         test$Pedro Garcia/id=csbartolomeu.test14041379-pgarcia
+            ls$titulo/clérigo
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu2001/20/01/1381/doacao/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.21, guardado 95, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Catarina Anes, moradora em Coimbra, na Rua da Ponte, doa ao prior e raçoeiros da igreja de S. Bartolomeu uma casa sobradada em Pedernedo, junto ao rio, e um olival em Bordalo, com a condição de aniversários por sua alma, de sua filha e de Gonçalo Martins.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref20011381-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Vasco Martins/id=csbartolomeu.tab20011381-vmartins
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         doadora$Catarina Anes/id=csbartolomeu20011381-canes
+            ls$residencia/Rua da Ponte
+            ls$sepultura/dentro da igreja no altar de Santa Maria Madalena ou em frente ao altar de Santa Maria das Vertudes
+
+         celebrada$Inês Gonçalves/id=csbartolomeu20011381-filha
+            rel$parentesco/filha/Catarina Anes/csbartolomeu20011381-canes
+
+         celebrado$Gonçalo Martins/id=csbartolomeu20011381-gmartins
+
+            referida$Beatriz Rodrigues/id=csbartolomeu.ref20011381-brodrigues
+               rel$profissional/criada/Inês Gonçalves/csbartolomeu20011381-filha
+               ls$profissao/criada
+
+         donatario$prior e cabido de S. Bartolomeu/id=csbartolomeu20011381-priorcabido
+
+         donatario$aniversario de Catarina Anes, sua filha e Gonçalo Martins/id=csbartolomeu.ani20011381
+            atr$cerimonia_aniversario/dois aniversários por ano
+            atr$cerimonia_aniversario/dia de Sant'Ilafonso/obs=sic.
+            atr$cerimonia_aniversario/dia de Santa Maria de Março
+            atr$cerimonia_aniversario/Missa de Requiem
+            atr$cerimonia_aniversario/que seja celbrado sobre a sepultura com cruz e água benta
+            atr$pagamento_aniversario/40 soldos
+
+         bem$casas/id=sbartolomeu2001-obj1
+            atr$descricao/com sótão e sobrado
+            atr$localizacao/Rua de Pedernedo
+            atr$confrontacoes/com casas de João de Alpoim
+            atr$confrontacoes/com Rio Mondego
+            rel$posse/pertence/Catarina Anes/csbartolomeu20011381-canes
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu20011381-priorcabido
+            rel$posse/pertence/aniversario de Catarina Anes, sua filha e Gonçalo Martins/csbartolomeu.ani20011381
+
+         bem$olival/id=sbartolomeu2001-obj2
+            atr$localizacao/Bordalo
+            atr$confrontacoes/com olival d João Anes Gago
+            atr$confrontacoes/com olival da Sé emprazado a Lourenço Martins da Palheira
+            atr$confrontacoes/com olival de Santa Justa emprazado a Pronegodo/obs=sic.
+            atr$confrontacoes/com monte maninho
+            rel$posse/pertence/Catarina Anes/csbartolomeu20011381-canes
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu20011381-priorcabido
+            rel$posse/pertence/aniversario de Catarina Anes, sua filha e Gonçalo Martins/csbartolomeu.ani20011381
+
+         bem$casas/id=sbartolomeu2001-obj3
+            atr$descricao/casas do cuberto/obs=sic.; será a localização?
+            rel$posse/pertence/Catarina Anes/csbartolomeu20011381-canes
+            rel$posse/por emprazamento/Beatriz Rodrigues/csbartolomeu.ref20011381-brodrigues/obs=post-mortem de Catarina Anes
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu20011381-priorcabido/obs=post-mortem de Beatriz Rodrigues
+
+         test$Tomé Marques/id=csbartolomeu.test20011381-tmarques
+            ls$cargo/prior de S. Cristóvão
+
+         test$Francisco Afonso/id=csbartolomeu.test20011381-fafonso
+            ls$profissao/lavrador
+
+         test$Bartolomeu Esteves/id=csbartolomeu.test20011381-besteves
+            ls$alcunha/da Brava
+
+         test$Estevão Martins/id=csbartolomeu.test20011381-emartins
+            ls$profissao/homem do rei
+
+      escritura$sbartolomeu3011/30/11/1382/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.22, guardado 96, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Gomes Martins, antigo raçoeiro da igreja de S. Bartolomeu, renuncia a uma vinha e um olival em Bordalo que tinha emprazados dessa igreja, os quais o prior, Raimundo Beltrães, e o cabido dessa igreja emprazam a Martim Esteves, alvanes, e sua mulher, Maria Francisca, moradores em Coimbra.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref30111382-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Estevão Peres/id=csbartolomeu.tab30111382-eperes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         renunciante$Gomes Martins/id=csbartolomeu30111382-gmartins
+            ls$cargo/antigo raçoeiro de S. Bartolomeu
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu30111382-priorcabido
+
+         enfiteuta$Martim Esteves/id=csbartolomeu30111382-mesteves
+            ls$profissao/alvanel
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Francisca/id=csbartolomeu30111382-mfrancisca
+            rel$parentesco/mulher/Martim Esteves/csbartolomeu30111382-mesteves
+            ls$residencia/Coimbra
+
+            referido$Gil Sachez/id=csbartolomeu.ref30111382-gsanchez
+               ls$profissao/ourives
+
+            referido$João Domingues/id=csbartolomeu.ref30111382-jdomingues
+               ls$alcunha/Gago
+
+         bem$vinha e olival/id=sbartolomeu3011-obj1
+            atr$localizacao/Bordalo
+            atr$confrontacoes/com olival de João Domingues Gago
+            atr$confrontacoes/com olival de Gil Sanchez
+            rel$posse/pertence/Gomes Martins/csbartolomeu30111382-gmartins
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu30111382-priorcabido
+            rel$posse/por emprazamento/Maria Francisca/csbartolomeu30111382-mfrancisca
+            rel$posse/por emprazamento/Martim Esteves/csbartolomeu30111382-mesteves
+            atr$renda principal valor/6 libras
+            atr$renda acessoria/2 capões
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         test$Domingos/id=csbartolomeu.test30111382-domingos
+
+         test$Afonso Martins/id=csbartolomeu.test30111382-amartins
+            ls$profissao/notário
+
+         test$Álvaro Vasques/id=csbartolomeu.test30111382-avasques
+            ls$titulo/clérigo de S. Bartolomeu
+
+      escritura$sbartolomeu2501/25/01/1383/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.23, guardado 97, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Vicente Mateus, Pedro Esteves, Martim Esteves e Inês Domingues, moradores na Pedrulha, e Afonso Esteves, homem do alcaide de Coimbra, renunciam a um casal em Adémia, de que eram herdeiros, o qual o prior da igreja de S. Bartolomeu, Raimundo Beltrães, e os raçoeiros aforam a Afonso Estves e Vasco Afonso, lavradores, moradores em COimbra, e sucessores juntamente com umas terras no campo do Bolão junto à ponte da Cidreira.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref25011383-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Vasco Martins/id=csbartolomeu.tab25011383-vmartins
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         renunciante$Vicente Mateus/id=sbartolomeu25011383-vmateus/obs=herdeiro
+            ls$residencia/Pedrulha
+
+         renunciante$Pedro Esteves/id=sbartolomeu25011383-pesteves/obs=herdeiro
+            ls$residencia/Pedrulha
+
+         renunciante$Martim Esteves/id=sbartolomeu25011383-mesteves/obs=herdeiro
+            ls$residencia/Pedrulha
+
+         renunciante$Inês Domingues/id=sbartolomeu25011383-idomingues/obs=herdeiro
+            ls$residencia/Pedrulha
+
+         renunciante$Afonso Esteves/id=sbartolomeu25011383-aesteves/obs=herdeiro
+            ls$profissao/homem do alcaide de Coimbra
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu25011383-priorcabido
+
+         enfiteuta$Afonso Esteves/id=sbartolomeu25011383-afonsoesteves
+            ls$profissao/lavrador
+            ls$residencia/Coimbra
+
+         enfiteuta$Vasco Afonso/id=sbartolomeu25011383-vafonso
+            ls$profissao/lavrador
+            ls$residencia/Coimbra
+
+            referido$nome desconhecido/id=sbartolomeu.ref25011383-nomedesconhecido
+               ls$cargo/Prior de Barcouso
+
+         bem$terras/id=sbartolomeu2501-obj1
+            atr$localizacao/Campo do Bolão
+            atr$confrontacoes/Ponte da Cidreira
+            rel$posse/pertenceu/Prior de Barcouso/sbartolomeu.ref25011383-nomedesconhecido
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu25011383-priorcabido
+            rel$posse/por doacao/Vasco Afonso/sbartolomeu25011383-vafonso
+            rel$posse/por doacao/Afonso Esteves/sbartolomeu25011383-afonsoesteves
+
+         bem$casal/id=sbartolomeu2501-obj2
+            atr$localizacao/Adémia
+            rel$posse/pertence/Vicente Mateus/sbartolomeu25011383-vmateus
+            rel$posse/pertence/Pedro Esteves/sbartolomeu25011383-pesteves
+            rel$posse/pertence/Martim Esteves/sbartolomeu25011383-mesteves
+            rel$posse/pertence/Inês Domingues/sbartolomeu25011383-idomingues
+            rel$posse/pertence/Afonso Esteves/sbartolomeu25011383-aesteves
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu25011383-priorcabido
+            rel$posse/por emprazamento/Vasco Afonso/sbartolomeu25011383-vafonso
+            rel$posse/por emprazamento/Afonso Esteves/sbartolomeu25011383-afonsoesteves
+            atr$renda principal valor/16 soldos
+            atr$renda acessoria/4 capões
+            atr$duracao/4 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+            atr$condicao/cada ano deve ser entregue ração das colheitas dos bens adquiridos e que pagem a dizima
+
+         test$João Gonçalves/id=sbartolomeu.test25011383-jgonçaves
+            ls$residencia/Coimbra
+            ls$profissao/alfaiate
+
+         test$Pedro/id=sbartolomeu.test25011383-pedro
+
+         test$Pedro Esteves/id=sbartolomeu.test25011383-pesteves
+            ls$residencia/Pedrulha
+
+         test$Vicente Mateus/id=sbartolomeu.test25011383-vmateus
+            ls$residencia/Pedrulha
+
+      escritura$sbartolomeu2810/28/10/1384/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.24, T.T. Col.S. Bartolomeu, cx.2, m.6, n.25, guardado 98, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Álvaro Vasques, bacharel da Sé de Coimbra, renuncia a uma vinha e olival em Santa Eufémia, termo de Coimbra, que tinha emrpazados da igreja de S. Bartolomeu, os quais o prior, Raimundo Beltrães, e o cabido dessa igreja emprazam a João Gonçalves, alfaiate, e sua mulher, Isabel Lourenço, moradores em Coimbra.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref28101384-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Martins/id=csbartolomeu.tab28101384-amartins
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu28101384-priorcabido
+
+         renunciante$Álvaro Vasques/id=csbartolomeu28101384-avasques
+            ls$cargo/Bacharel da Sé de Coimbra
+
+         enfiteuta$João Gonçalves/id=csbartolomeu28101384-jgoncalves
+            ls$profissao/alfaiate
+            ls$residencia/Coimbra
+
+         enfiteutaf$Isabel Lourenço/id=csbartolomeu28101384-ilourenco
+            rel$parentesco/mulher/João Gonçalves/csbartolomeu28101384-jgoncalves
+            ls$residencia/Coimbra
+
+         bem$vinha e olival/id=sbartolomeu2810-obj1
+            atr$localizacao/Santa Eufémia/obs=além do rio
+            atr$confrontacoes/com o olival e vinha do Burro
+            atr$confrontacoes/com o olival da Sé
+            rel$posse/pertence/Álvaro Vasques/csbartolomeu28101384-avasques
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu28101384-priorcabido
+            rel$posse/por emprazamento/João Gonçalves/csbartolomeu28101384-jgoncalves
+            rel$posse/por emprazamento/Isabel Lourenço/csbartolomeu28101384-ilourenco
+            atr$renda principal valor/4 libra
+            atr$renda acessoria/2 capões ou 10 soldos por eles
+            atr$duracao/4 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de Setembro
+
+         test$Vasco Peres/id=csbartolomeu.test28101384-vperes
+            ls$cargo/Prioste de S. Bartolomeu
+
+         referido$nome desconhecido/id=csbartolomeu.ref28101384-mestreavis
+            ls$titulo/Mestre de Avis
+
+         test$Estevão Martins/id=csbartolomeu.test28101384-emartins
+            ls$profissao/homem do Mestre de Avis no almoxarifado da cidade
+            rel$profissional/criado/nome desconhecido/csbartolomeu.ref28101384-mestreavis
+
+      escritura$sbartolomeu0306/03/06/1386/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.26, T.T. Col.S. Bartolomeu, cx.2, m.6, n.27, guardado 99, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em duas vidas a João Gomes, clérigo, raçoeiro da dita igreja, umas casas na Rua dos Prazeres, e uma vinha com olival acima da venda de Martim Anes.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref03061386-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$João Esteves/id=csbartolomeu.tab03061386-jesteves
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu03061386-priorcabido
+
+         enfiteuta$João Gomes/id=csbartolomeu03061386-jgomes
+            ls$cargo/raçoeiro de S. Bartolomeu
+            ls$titulo/clérigo de S. Bartolomeu
+
+            referido$João Martins/id=csbartolomeu.ref03061386-jmartins
+               ls$alcunha/Corujo
+
+            referido$Martim Martins/id=csbartolomeu.ref03061386-mmartins
+               ls$alcunha/Zarrinho
+
+            referido$Vasco Peres/id=csbartolomeu.ref03061386-vperes
+               ls$cargo/prioste de S. Bartolomeu
+
+         bem$casas/id=sbartolomeu0306-obj1
+            atr$descricao/com chãos
+            atr$confrontacoes/com casas de Martim Martins Zarrinho
+            atr$confrontacoes/com casas de Vasco Peres
+            rel$posse/pertenceu/João Martins/csbartolomeu.ref03061386-jmartins
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu03061386-priorcabido
+            rel$posse/por emprazamento/João Gomes/csbartolomeu03061386-jgomes
+            atr$renda principal valor/7 libras
+            atr$renda acessoria/2 capões ou 10 soldos por eles
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/dia de S. João Batista
+            rel$posse/pertence/aniversário de João Gomes/csbartolomeu.ani03061386
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu03061386-donpriorcabido/obs=post-mortem
+
+         donatario$prior e cabido de S. Bartolomeu/id=csbartolomeu03061386-donpriorcabido
+
+         donatario$aniversário de João Gomes/id=csbartolomeu.ani03061386
+            atr$cerimonia_aniversario/anual
+
+         bem$vinha e olival/id=sbartolomeu0306-obj2
+            atr$localizacao/acima da venda de Martim Anes
+            atr$confrontacoes/com olival de Afonso Peres Valente
+            atr$confrontacoes/com olival de Domingos Esteves Gordo
+            atr$confrontacoes/com vinha de Santiago
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu03061386-priorcabido
+            rel$posse/por emprazamento/João Gomes/csbartolomeu03061386-jgomes
+            atr$renda principal valor/8 libras
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         test$Vasco Peres/id=csbartolomeu.test03061386-vperes
+            ls$cargo/prioste de S. Bartolomeu
+
+         test$Vasco Afonso/id=csbartolomeu.test03061386-vafonso
+            ls$profissao/barqueiro
+
+         test$Afonso Martins/id=csbartolomeu.test03061386-amartins
+            ls$titulo/fidalgo
+
+      escritura$sbartolomeu2210/22/10/1386/renuncia/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.28, guardado 100, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Lourenço Martins Desbarbado, morador em Coimbra, renuncia a um cortinhal junto à Ribeira, em Coimbra, que tinha emprazado da igreja de S. Bartolomeu, o qual o prior, Raimundo Beltrães, e o cabido dessa igreja emprazam a André Vicente, barqueiro, e sua mulher, Maria Vicente, moradores dessa cidade.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref22101386-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Domingues/id=csbartolomeu.tab22101386-adomingues
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu22101386-priorcabido
+
+         renunciante$Lourenço Martins/id=csbartolomeu22101386-lmartins
+            ls$alcunha/Desbarbado
+            ls$residencia/Coimbra
+
+         bem$cortinhal/id=sbartolomeu2210-obj1
+            atr$localizacao/Ribeira
+            atr$confrontacoes/com casas da Sé
+            atr$confrontacoes/com cortinhal da Sé
+            atr$motivo/era homem velho e pobre
+            rel$posse/pertence/Lourenço Martins/csbartolomeu22101386-lmartins
+            rel$posse/por renuncia/prior e cabido de S. Bartolomeu/csbartolomeu22101386-priorcabido
+            rel$posse/por emprazamento/André Vicente/csbartolomeu22101386-avicente
+            rel$posse/por emprazamento/Maria Vicente/csbartolomeu22101386-mvicente
+            atr$condicoes/que refaçam o dito cortinhal de paredes e portas
+            atr$renda principal valor/25 soldos
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         enfiteuta$André Vicente/id=csbartolomeu22101386-avicente
+            ls$profissao/barqueiro
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Vicente/id=csbartolomeu22101386-mvicente
+            rel$parentesco/mulher/André Vicente/csbartolomeu22101386-avicente
+            ls$residencia/Coimbra
+
+         test$Vasco Peres/id=csbartolomeu.test22101386-vperes
+            ls$cargo/prioste de S. Bartolomeu
+
+         test$Gonçalo Esteves/id=csbartolomeu.test22101386-gesteves
+            ls$cargo/tesoureiro de S. Bartolomeu
+
+      escritura$sbartolomeu_3011/30/11/1386/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.29, guardado 101, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartoloue, Raimundo Beltrães, e o cabido emprazam a João Estves e sua mulher, Maria Martins, moradores em Coimbra, duas leiras de um olival em Alcará.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref3011-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Lourenço Gonçalves/id=csbartolomeu.tab30111386-lgoncalves
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu30111386-priorcabido
+
+         enfiteuta$João Esteves/id=csbartolomeu30111386-jesteves
+            rel$profissional/criado/João Anes/csbartolomeu.ref30111386-janes
+            ls$profissao/criado
+            ls$residencia/Coimbra
+
+            referido$João Anes/id=csbartolomeu.ref30111386-janes
+               ls$profissao/Escrivão do almoxarifado
+
+         enfiteutaf$Maria Martins/id=csbartolomeu.30111386-mmartins
+            rel$parentesco/mulher/João Esteves/csbartolomeu30111386-jesteves
+            ls$residencia/Coimbra
+
+            referida$Margarida Anes/id=csbartolomeu.ref30111386-manes
+
+            referido$Gonçalo Anes/id=csbartolomeu.ref30111386-ganes
+               rel$parentesco/marido/Margarida Anes/csbartolomeu.ref30111386-manes
+               ls$alcunha/da Água da Runa
+
+         bem$2 leiras de olivais/id=sbartolomeu_3011-obj1
+            atr$localizacao/Alcará
+            rel$posse/pertenceu/Margarida Anes/csbartolomeu.ref30111386-manes
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu30111386-priorcabido
+            rel$posse/por emprazamento/Maria Martins/csbartolomeu.30111386-mmartins
+            rel$posse/por emprazamento/João Esteves/csbartolomeu30111386-jesteves
+            atr$confrontacoes/com olival de Domingos Alvo
+            atr$confrontacoes/com olival de Santana
+            atr$confrontacoes/com olival emprazado a Vicente Martins
+            atr$renda principal valor/40 soldos
+            atr$duracao/2 vidas
+            atr$pagamento da renda principal/Natal
+
+         test$João Afonso/id=csbartolomeu.test30111386-jafonso
+            ls$profissao/tabelião
+
+         test$Gomes Martins/id=csbartolomeu.test30111386-gmartins
+            ls$residencia/Coimbra
+
+         test$Vasco Peres/id=csbartolomeu.test30111386-vperes
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu2105/21/05/1388/compraevenda/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.30, guardado 102, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Pedro Sanches, cónego de Santa Cruz, arrenda por nove anos a Gonçalo Martins, vigário de Murtede, umas casas junto à igreja de S. Bartolomeu que tinha emprazadas dessa igreja.
+
+         tabeliao$Afonso Anes/id=csbartolomeu.tab21051388-aanes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu21051388-priorcabido
+
+         vendedor$Pedro Sanches/id=csbartolomeu21051388-psanches
+            ls$cargo/Cónego do mosteiro de Santa Cruz
+
+         comprador$Gonçalo Martins/id=csbartolomeu21051388-gmartins
+            ls$cargo/vigário de Murtede
+
+            referido$João Gil/id=csbartolomeu.ref21051388-jgil
+
+            referida$nome desconhecido/id=csbartolomeu.ref21051388-mae
+               rel$parentesco/mãe/Gonçalo Martins/csbartolomeu21051388-gmartins
+
+         bem$casas/id=sbartolomeu2105-obj1
+            atr$localizacao/freguesia de S. Bartolomeu
+            atr$confrontacoes/com casas de João Gil
+            atr$confrontacoes/com casas onde mora a mãe de Gonçalo martins
+            atr$condicoes/arrendamento por 9 anos
+            atr$renda principal valor/6 libras
+            atr$duracao/9 anos
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu21051388-priorcabido
+            rel$posse/por emprazamento/Pedro Sanches/csbartolomeu21051388-psanches
+            rel$posse/por compra/Gonçalo Martins/csbartolomeu21051388-gmartins
+
+         test$Vasco Vicente/id=csbartolomeu.test21051388-vvicente
+
+         test$João de Beja/id=csbartolomeu.test21051388-jbeja
+            ls$naturalidade/Beja
+            ls$profissao/tesoureiro
+
+      escritura$sbartolomeu1201/12/01/1389/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.31, guardado 103, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario= O prior de S. Bartolomeu, Raimundo Beltrães, e os raçoeiros emprazam em três vidas a João de Alpoim e sua mulher, Maria Domingues, moradores de Coimbra, um lagar de azeite e dois pardeeiros nessa cidade./obs=o emprazamento está a acontecer na capela de S. Gião
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref12011389-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Gomes Anes/id=csbartolomeu.tab12011389-ganes
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+            referido$João Gomes/id=csbartolomeu.ref12011389-jgomes
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Álvaro Peres/id=csbartolomeu.ref12011389-aperes
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$João de Elvas/id=csbartolomeu.ref12011389-jelvas
+               ls$naturalidade/Elvas
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Gonçalo Peres/id=csbartolomeu.ref12011389-gperes
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu12011389-priorcabido
+
+         enfiteuta$João de Alpoim/id=csbartolomeu12011389-jalpoim
+            ls$naturalidade/Alpoim
+            ls$alcunha/Alpoim
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Domingues/id=csbartolomeu12011389-mdomingues
+            rel$parentesco/mulher/João de Alpoim/csbartolomeu12011389-jalpoim
+            ls$residencia/Coimbra
+
+            referido$Domingos Antoninho/id=csbartolomeu.ref12011389-dantoninho
+               rel$parentesco/pai/Maria Domingues/csbartolomeu12011389-mdomingues
+               ls$profissao/lojista do dito lagar
+
+            referido$Francisco Lourenço/id=csbartolomeu.ref12011389-flourenco
+               ls$profissao/barqueiro
+
+         donatario$aniversario de joão Alpoim e Maria Domingues/id=csbartolomeu.ani12011389
+            atr$cerimonia_aniversario/dois aniversários
+            atr$cerimonia_aniversario/depois do primeiro ano um aniversário anualmente por ambos
+
+         bem$lagar de azeite/id=sbartolomeu1201-obj1
+            rel$posse/pertenceu/Domingos Antoninho/csbartolomeu.ref12011389-dantoninho/obs=um dos lagares foi de Domingos Antoninho
+            rel$posse/pertenceu/Francisco Lourenço/csbartolomeu.ref12011389-flourenco/obs=um dos lagares foi de Francisco Lourenço
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu12011389-priorcabido
+            rel$posse/por emprazamento/Maria Domingues/csbartolomeu12011389-mdomingues
+            rel$posse/por emprazamento/João de Alpoim/csbartolomeu12011389-jalpoim
+            atr$condicoes/que o seja feito e composto por todos os aparelhos necessários
+            atr$renda principal valor/8 libras
+            atr$duracao/3 vidas
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         bem$2 pardieiros/id=sbartolomeu1201-obj2
+            atr$confrontacoes/junto do lagar de Francisco Lourenço emprazado
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu12011389-priorcabido
+            rel$posse/por emprazamento/Maria Domingues/csbartolomeu12011389-mdomingues
+            rel$posse/por emprazamento/João de Alpoim/csbartolomeu12011389-jalpoim
+
+         donatario$prior e cabido de S. Bartolomeu/id=csbartolomeu.don12011389-priorcabido
+
+         bem$benfeitorias dos lagares/id=sbartolomeu1201-obj3
+            rel$posse/pertence/aniversario de joão Alpoim e Maria Domingues/csbartolomeu.ani12011389
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu.don12011389-priorcabido
+            rel$posse/pertence/Maria Domingues/csbartolomeu12011389-mdomingues
+            rel$posse/pertence/João de Alpoim/csbartolomeu12011389-jalpoim
+
+         test$Domingos Migueis/id=csbartolomeu.ref12011389-dmigueis
+            ls$profissao/carpinteiro
+            ls$residencia/Coimbra
+
+         test$Martim Peres/id=csbartolomeu.ref12011389-mperes
+            ls$cargo/Abade de Santa Cristina
+            ls$residencia/Coimbra
+
+         test$Martim Migueis/id=csbartolomeu.ref12011389-mmigueis
+            ls$profissao/almocreve
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu0902/09/02/1389/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.32, guardado 104, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario= O prior de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em três vidas a Gil Martins, seleiro, e sua mulher, Maria Anes, moradores em Coimbra, um pardieiro na Rua da Figueira Velha com a condição de o refazerem./obs=o emprazamento está a acontecer na capela de S. Gião
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref09021389-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Afonso Domingues/id=csbartolomeu.tab09021389-adomingues
+            ls$intitulacao/tabelião do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu09021389-priorcabido
+
+         enfiteuta$Gil Martins/id=csbartolomeu09021389-gmartins
+            ls$profissao/seleiro
+            ls$residencia/Coimbra
+
+         enfiteutaf$Maria Anes/id=csbartolomeu09021389-manes
+            rel$parentesco/mulher/Gil Martins/csbartolomeu09021389-gmartins
+            ls$residencia/Coimbra
+
+            referido$Afonso Lucas/id=csbartolomeu.ref09021389-alucas
+               ls$profissao/alfaiate
+
+            referida$Marinha Anes/id=csbartolomeu.ref09021389-manes
+               rel$parentesco/mulher/Afonso Lucas/csbartolomeu.ref09021389-alucas
+
+         bem$1 pardieiro/id=sbartolomeu0902-obj1
+            rel$posse/pertenceu/Afonso Lucas/csbartolomeu.ref09021389-alucas
+            rel$posse/pertenceu/Marinha Anes/csbartolomeu.ref09021389-manes
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu09021389-priorcabido
+            rel$posse/por emprazamento/Maria Anes/csbartolomeu09021389-manes
+            rel$posse/por emprazamento/Gil Martins/csbartolomeu09021389-gmartins
+            atr$localizacao/Rua da Figueira Velha
+            atr$condicoes/que façam do dito pardieiro uma casa térrea ou sobradada
+            atr$renda principal valor/3 libras
+            atr$duracao/3 vidas
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         bem$benfeitorias no pardieiro/id=sbartolomeu0902-obj2
+            rel$posse/pertence/aniversario de Gil Martins e Maria Anes/csbartolomeu.ani09021389
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu.don09021389-priorcabido
+            rel$posse/pertence/Maria Anes/csbartolomeu09021389-manes
+            rel$posse/pertence/Gil Martins/csbartolomeu09021389-gmartins
+
+         donatario$aniversario de Gil Martins ou Maria Anes/id=csbartolomeu.ani09021389
+            atr$cerimonia_aniversario/deve ser celebrado ao primeiro que falecer para todo o sempre
+
+         donatario$prior e cabido de S. Bartolomeu/id=csbartolomeu.don09021389-priorcabido
+
+         test$Martim Migueis/id=csbartolomeu.ref09021389-mmigueis
+            ls$profissao/almocreve
+            ls$residencia/Coimbra
+
+         test$Martim Leonardes/id=csbartolomeu.ref09021389-mleonardes
+            ls$profissao/almocreve
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu2803/28/01/1389/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.33, guardado 105, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario= O prior de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em três vidas a Vasco Domingues, alfaiate, e sua mulher, Domingas Lourenço, moradores em Coimbra, um pardieiro na Rua de Coruche com a condição de o refazerem.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref28031389-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$João Afonso/id=csbartolomeu.tab28031389-jafonso
+            ls$intitulacao/tabelião geral do rei
+            ls$alcunha/Coimbra
+            ls$naturalidade/Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu28031389-priorcabido
+
+         enfiteuta$Vasco Domingues/id=csbartolomeu28031389-vdomingues
+            ls$profissao/alfaiate
+            ls$residencia/Coimbra
+
+         enfiteutaf$Domingas Lourenço/id=csbartolomeu28031389-dlourenco
+            rel$parentesco/mulher/Vasco Domingues/csbartolomeu28031389-vdomingues
+            ls$residencia/Coimbra
+
+            referido$Estevão Peres/id=csbartolomeu.ref28031389-eperes
+               ls$profissao/tosador
+
+            referida$Maria Domingues/id=csbartolomeu.ref28031389-mdomingues
+               rel$parentesco/viuva/João Escudeiro/csbartolomeu.ref28031389-jescudeiro
+
+            referido$João Escudeiro/id=csbartolomeu.ref28031389-jescudeiro
+               ls$alcunha/Escudeiro
+               ls$profissao/Escudeiro
+
+         bem$pardieiro/id=sbartolomeu2803-obj1
+            atr$localizacao/Rua de Coruche
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu28031389-priorcabido
+            rel$posse/por emprazamento/Vasco Domingues/csbartolomeu28031389-vdomingues
+            rel$posse/por emprazamento/Domingas Lourenço/csbartolomeu28031389-dlourenco
+            atr$descricao/em outros tempos foi casa sobradada
+            atr$confrontacoes/com outro pardieiro de Santa Cruz emprazado a Estevão Peres
+            atr$confrontacoes/com outro pardieiro do rei emprazado a Maria Domingues
+            atr$condicoes/que façam de casa sobradada com boa madeira e telhada bem tapada com paredes e tavoados
+            atr$renda principal valor/6 libras/obs=a moeda que corria em tempos do rei D. Afonso e D. Pedro
+            atr$duracao/3 vidas
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/dia de S. Miguel de setembro
+
+         donatario$aniversario de Vasco Domingues e Domingas Lourenço/id=csbartolomeu.ani28031389
+            atr$cerimonia_aniversario/dois aniversários
+
+         donatario$prior e cabido de S. Bartolomeu/id=csbartolomeu.don28031389-priorcabido
+
+         bem$benfeitorias do pardieiro/id=sbartolomeu2803-obj2
+            rel$posse/pertence/Vasco Domingues/csbartolomeu28031389-vdomingues
+            rel$posse/pertence/Domingas Lourenço/csbartolomeu28031389-dlourenco
+            rel$posse/pertence/aniversario de Vasco Domingues e Domingas Lourenço/csbartolomeu.ani28031389
+            rel$posse/por doacao/prior e cabido de S. Bartolomeu/csbartolomeu.don28031389-priorcabido
+
+         test$Martim Migueis/id=csbartolomeu.ref28031389-mmigueis
+            ls$profissao/almocreve
+            ls$residencia/Coimbra
+
+         test$João Anes/id=csbartolomeu.ref28031389-janes
+            ls$alcunha/Escurão
+            ls$profissao/alfaiate
+            ls$residencia/Coimbra
+
+         test$Domingos da Horta/id=csbartolomeu.ref28031389-dhorta
+            ls$alcunha/da Horta
+            ls$profissao/Homem braceiro
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu0810/08/10/1389/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.34, guardado 106, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario= O prior de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em duas vidas a Gonçalo Peres, prior de Ceira e raçoeiro dessa igreja, um olival nas várzeas além do rio, em Coimbra.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref08101389-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$Álvaro Martins/id=csbartolomeu.tab08101389-amartins
+            ls$intitulacao/tabelião geral do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu08101389-priorcabido
+
+         enfiteuta$Gonçalo Peres/id=csbartolomeu08101389-gperes
+            ls$cargo/Prior de Ceira
+            ls$cargo/Raçoeiro de Ceira
+            ls$residencia/Ceira
+
+            referido$João Afonso/id=csbartolomeu.ref08101389-jafonso
+               ls$profissao/estalagadeiro/obs=sic.
+
+            referido$Burro/id=csbartolomeu.ref08101389-burro
+
+            referido$Gonçalo Melro/id=csbartolomeu.ref08101389-gmelro
+
+            referido$Martim Peres/id=csbartolomeu.ref08101389-mperes
+               ls$cargo/prior de Ceiro/obs=que foi
+
+         bem$olival/id=sbartolomeu0810-obj1
+            atr$renda principal valor/6 libras
+            atr$duracao/2 vidas
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/Natal
+            atr$localizacao/Várzeas além do rio
+            atr$confrontacoes/com olival de João Afonso
+            atr$confrontacoes/com olival de burro
+            atr$confrontacoes/com olival de S. Jorge
+            atr$confrontacoes/com herdade de Gonçalo Melro e com olival de Ceira emprazad a Martim Peres
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu08101389-priorcabido
+            rel$posse/por emprazamento/Gonçalo Peres/csbartolomeu08101389-gperes
+
+         test$Gonçalo Esteves/id=csbartolomeu.test08101389-gesteves
+            ls$titulo/Clérigo
+            ls$residencia/Coimbra
+
+         test$Vasco Peres/id=csbartolomeu.test08101389-vperes
+            ls$cargo/prioste de S. Bartolomeu
+            ls$residencia/Coimbra
+
+         test$Gonçalo Anes/id=csbartolomeu.test08101389-ganes
+            ls$cargo/Raçoeiro de S. Pedro
+            ls$residencia/Coimbra
+
+      escritura$sbartolomeu2510/25/10/1389/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.35, guardado 107, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario= O prior de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em duas vidas a Estevão Martins, morador em Coimbra, uma casa na dita cidade, na Rua de Pedernedo e metade de trinta e três geiras de terras de pão no Campo do Mondego.
+
+         referido$Raimundo Beltrães/id=csbartolomeu.ref25101389-rbeltraes
+            ls$cargo/prior de S. Bartolomeu
+
+         tabeliao$João Afonso/id=csbartolomeu.tab25101389-jafonso
+            ls$intitulacao/tabelião geral do rei e da cidade de Coimbra
+            ls$sinal/sim
+
+         senhorio$prior e cabido de S. Bartolomeu/id=csbartolomeu25101389-priorcabido
+
+            referido$João Gomes/id=csbartolomeu.ref25101389-jgomes
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Antão Garcia/id=csbartolomeu.ref25101389-agarcia
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Gonçalo Peres/id=csbartolomeu.ref25101389-gperes
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+            referido$Gonçalo Martins/id=csbartolomeu.ref25101389-gmartins
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+         enfiteuta$Estevão Martins/id=csbartolomeu25101389-emartins
+            ls$residencia/Coimbra
+
+            referido$Domingos Anes/id=csbartolomeu.ref25101389-danes
+               ls$alcunha/Cagatio/obs=sic.
+
+         bem$casa/id=sbartolomeu2510-obj1
+            atr$localizacao/Rua de Pedernedo
+            atr$renda principal valor/40 soldos
+            atr$duracao/2 vidas
+            atr$renda acessoria/2 capões e 2 moios de pão e 10 ovos
+            atr$pagamento da renda principal/dia de S. Miguel de Setembro
+            atr$confrontacoes/com casas emprazadas de Antão Garcia
+            atr$confrontacoes/casas de Domingos Anes
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu25101389-priorcabido
+            rel$posse/por emprazamento/Estevão Martins/csbartolomeu25101389-emartins
+
+         referido$Gonçalo Migueis/id=csbartolomeu.ref25101389-gmigueis
+            ls$profissao/lavrador
+
+         referido$Vasco Tareco da Cruz/id=csbartolomeu.ref25101389-vtareco
+            ls$alcunha/da Cruz
+
+         bem$33 geiras de terra de herdade de pão/id=sbartolomeu2510-obj2
+            atr$localizacao/Campo do Mondego
+            rel$posse/pertenceu/Gonçalo Migueis/csbartolomeu.ref25101389-gmigueis
+            rel$posse/pertenceu/Vasco Tareco da Cruz/csbartolomeu.ref25101389-vtareco
+            rel$posse/pertence/prior e cabido de S. Bartolomeu/csbartolomeu25101389-priorcabido
+            rel$posse/por emprazamento/Estevão Martins/csbartolomeu25101389-emartins
+
+         test$Gonçalo Domingues/id=csbartolomeu.ref25101389-gdomingues
+            ls$titulo/Clérigo
+            ls$cargo/Capelão
+            ls$residencia/Coimbra
+
+         test$Estevão Domingues/id=csbartolomeu.ref25101389-edomingues
+            ls$cargo/Tesoureiro de S. Bartolomeu
+            ls$residencia/Coimbra
+
+         test$João Anes/id=csbartolomeu.ref25101389-janes
+            ls$profissao/criado do mosteiro de S. Francisco
+            ls$residencia/Coimbra
+
+         test$Pedro Afonso/id=csbartolomeu.ref25101389-pafonso
+            rel$parentesco/filho/Afonso Anes/csbartolomeu.ref25101389-aanes
+            ls$residencia/Coimbra
+
+         referido$Afonso Anes/id=csbartolomeu.ref25101389-aanes
+            ls$profissao/albardeeiro
+            ls$residencia/Coimbra

@@ -1,0 +1,339 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 16-20
+
+Processing data file sbartolomeu_5.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 21
+Obs: 
+** Processing source fonte$avsbartolomeupub5
+
+WARNING: sbartolomeu_5.cli line 3 * Warning: Filename should match source Id to avoid errors. File: sbartolomeu_5 Id: avsbartolomeupub5.
+Near lines: 3 
+Near lines: 4       escritura$sbartolomeu1711/17/11/1389/composicao/fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.19, guardado 108, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Luís de Amoreira, cónego da Sé, em substituição de Lourenço Pais, vigário geral do Bispo de Coimbra D. Martinho, determina por sentença, sob pena de excomunhão, que João Lourenço pague os dois ou três anos de rendas que devia à igreja de S. Bartolomeu relativos a uma terra junto a Ançã que dela trazia emprazada e que a restitua à igreja, determinando ainda que as custas do processo sejam por conta do réu. Desta sentença João Lourenço apela para a igreja de Braga.
+
+
+WARNING: sbartolomeu_5.cli line 3 Element value exceeds database field length: loc=colsbart cx.6, m.14, n.19, guardado 108; cx.1, m.3, n.2, guardado 109; cx.2, m.6, n.36, guardado 110; cx.3, m.7, n.1, guardado 111; cx.3, m.7, n.2, guardado 112; cx.3, m.7, n.3, guardado 113; cx.3, m.7, n.4, guardado 114; cx.3, m.7, n.5, guardado 115; cx.3, m.7, n.6, guardado116; cx.3, m.7, n.8, guardado 117; cx.3, m.7, n.7, guardado 118; cx.3, m.7, n.10, guardado 119; cx.3, m.7, n.11, guardado 120; cx.6, m.14, n.20, guardado 121; cx.3, m.7, n.13, guardado 122; cx.3, m.7, n.14, guardado 123; cx.3, m.7, n.12, guardado 124; cx.6, m.14, n.21, guardado 125; cx.1, m.3, n.3, guardado 126; cx.3, m.7, n.15, guardado 127; cx.2, m.6, n.20, guardado 128; cx.3, m.7, n.17, guardado 129; cx.3, m.7, n.19, guardado 130; cx.3, m.7, n.18a, guardado 131; cx.3, m.7, n.18b, guardado 132; cx.3, m.7, n.18c, guardado 133; cx.3, m.7, n.9, guardado 134; cx.3, m.7, n.16, guardado 135; cx.3, m.7, n.20, guardado 136; cx.6, m.14, n.22, guardado 137; cx.3, m.7, n.21, guardado 138; cx.3, m.7, n.22, guardado 139; cx.3, m.7, n.23, guardado 140; cx.3, m.7, n.24a, guardado 141; cx.3, m.7, n.24b, guardado 142; cx.6, m.14, n.23, guardado 143; guardado 143a;cx.3, m.7, n.34a, guardado 144; cx.3, m.7, n.34b, guardado 145.. Size:1200 limit: 64
+Near lines: 3 
+Near lines: 4       escritura$sbartolomeu1711/17/11/1389/composicao/fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.19, guardado 108, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=Luís de Amoreira, cónego da Sé, em substituição de Lourenço Pais, vigário geral do Bispo de Coimbra D. Martinho, determina por sentença, sob pena de excomunhão, que João Lourenço pague os dois ou três anos de rendas que devia à igreja de S. Bartolomeu relativos a uma terra junto a Ançã que dela trazia emprazada e que a restitua à igreja, determinando ainda que as custas do processo sejam por conta do réu. Desta sentença João Lourenço apela para a igreja de Braga.
+
+6: escritura$sbartolomeu1711
+
+WARNING: sbartolomeu_5.cli line 5 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.19, guardado 108, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 5 
+Near lines: 6          demandador$Luis de Amoreira/id=sbartolomeu1711-lamoreira
+
+
+WARNING: sbartolomeu_5.cli line 25 Element value exceeds database field length: name=falta de pagaemnto de dois ou três anos de rendas a S. Bartolomeu. Size:65 limit: 64
+Near lines: 25 
+Near lines: 26          sentenca$avenca/obs=deverá pagar vinte e quatro alqueires de trigo e pagar os custos da sentença de excomunhão./id=sbartolomeu1711-obj2
+
+30: escritura$sbartolomeu2202b
+
+WARNING: sbartolomeu_5.cli line 29 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.1, m.3, n.2, guardado 109, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 29 
+Near lines: 30          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeub.2202-priorcabido
+
+88: escritura$sbartolomeu2002
+
+WARNING: sbartolomeu_5.cli line 87 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.36, guardado 110, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 87 
+Near lines: 88          escambador$prior e cabido de S. Bartolomeu/id=sbartolomeu2002-priorcabido
+
+163: escritura$sbartolomeu0503
+
+WARNING: sbartolomeu_5.cli line 162 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.1, guardado 111, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 162 
+Near lines: 163          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0503-priorcabido
+
+218: escritura$sbartolomeu0804
+
+WARNING: sbartolomeu_5.cli line 217 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.2, guardado 112, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 217 
+Near lines: 218          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0804-priorcabido
+
+262: escritura$sbartolomeu2605
+
+WARNING: sbartolomeu_5.cli line 261 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.3, guardado 113, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 261 
+Near lines: 262          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu2605-priorcabido
+
+304: escritura$sbartolomeu0412
+
+WARNING: sbartolomeu_5.cli line 303 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.4, guardado 114, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 303 
+Near lines: 304          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0412-priorcabido
+
+367: escritura$sbartolomeu2102
+
+WARNING: sbartolomeu_5.cli line 366 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.5, guardado 115, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 366 
+Near lines: 367          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu2102-priorcabido
+
+410: escritura$sbartolomeu2111
+
+WARNING: sbartolomeu_5.cli line 409 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.6, guardado 116, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 409 
+Near lines: 410          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu2111-priorcabido
+
+474: escritura$sbartolomeu0802
+
+WARNING: sbartolomeu_5.cli line 473 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.8, guardado 117, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 473 
+Near lines: 474          referido$prior e cabido de S.Bartolomeu/id=sbartolomeu0802-priorcabido
+
+504: escritura$sbartolomeu_0503
+
+WARNING: sbartolomeu_5.cli line 503 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.7, guardado 118, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 503 
+Near lines: 504          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu.sen0503-priorcabido
+
+577: escritura$sbartolomeu1001
+
+WARNING: sbartolomeu_5.cli line 576 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.10, guardado 119, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 576 
+Near lines: 577          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu1001-priorcabido
+
+630: escritura$sbartolomeu3009
+
+WARNING: sbartolomeu_5.cli line 629 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.11, guardado 120, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 629 
+Near lines: 630          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu3009-priorcabido
+
+680: escritura$sbartolomeu1901
+
+WARNING: sbartolomeu_5.cli line 679 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.20, guardado 121, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 679 
+Near lines: 680          referido$Afonso Lopes/id=sbartolomeu.ref.1901-alopes
+
+701: escritura$sbartolomeu1004
+
+WARNING: sbartolomeu_5.cli line 700 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.13, guardado 122, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 700 
+Near lines: 701          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu1004-priorcabido
+
+744: escritura$sbartolomeu0505
+
+WARNING: sbartolomeu_5.cli line 743 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.14, guardado 123, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 743 
+Near lines: 744          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu0505-priorcabido
+
+811: escritura$sbartolomeu3011b
+
+WARNING: sbartolomeu_5.cli line 810 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.12, guardado 124, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 810 
+Near lines: 811          senhorio$prior e cabido de S.Bartolomeu/id=sbartolomeu.3011b-priorcabido
+
+875: escritura$sbartolomeu0112
+
+WARNING: sbartolomeu_5.cli line 874 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.21, guardado 125, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 874 
+Near lines: 875          referido$Afonso Martins/id=sbartolomeu0112-amartins
+
+900: escritura$sbartolomeu14021406
+
+WARNING: sbartolomeu_5.cli line 899 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.1, m.3, n.3, guardado 126, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 899 
+Near lines: 900          referido$João Garcia/id=sbartolomeu.ref.14021406-jgarcia
+
+
+WARNING: sbartolomeu_5.cli line 942 Element value exceeds database field length: name=que se destribua pão desde dia de S. João e que dure até janeiro, e que o mesmo aconteca com o pão. Size:98 limit: 64
+Near lines: 942 
+Near lines: 943          sentenca$para que os raçoeiros recebessem a sua ração deviam estar presentes em pelo menos, nas horas do dia/id=sbartolomeu14021406-obj2
+
+
+WARNING: sbartolomeu_5.cli line 944 Element value exceeds database field length: name=para que os raçoeiros recebessem a sua ração deviam estar presentes em pelo menos, nas horas do dia. Size:99 limit: 64
+Near lines: 944 
+Near lines: 945          sentenca$que o prior de S. Bartolomeu mostre o livro do tombo e do foro e das rendas/id=sbartolomeu14021406-obj3
+
+
+WARNING: sbartolomeu_5.cli line 946 Element value exceeds database field length: name=que o prior de S. Bartolomeu mostre o livro do tombo e do foro e das rendas. Size:75 limit: 64
+Near lines: 946 
+Near lines: 947          sentenca$que o prior e raçoeiros distribuam os capões até 8 dias do dia de S. Miguel de setembro/id=sbartolomeu14021406-obj4
+
+
+WARNING: sbartolomeu_5.cli line 948 Element value exceeds database field length: name=que o prior e raçoeiros distribuam os capões até 8 dias do dia de S. Miguel de setembro. Size:87 limit: 64
+Near lines: 948 
+Near lines: 949          referido$Prior e cabido de S. Bartolomeu/id=sbartolomeu14021406-priorcabido
+
+
+WARNING: sbartolomeu_5.cli line 1158 Element value exceeds database field length: name=capa forrada de pano de linhoalmatega vermelha forrada com linho amarelo. Size:72 limit: 64
+Near lines: 1158          bem$capa forrada de pano de linhoalmatega vermelha forrada com linho amarelo/id=sbartolomeu14021406-obj67
+Near lines: 1159             rel$posse/pertence/prior e cabido de S. Bartolomeu/sbartolomeu14021406-priorcabido
+
+
+WARNING: sbartolomeu_5.cli line 1285 Element value exceeds database field length: name=que o prior e raçoeiros tenham um animal que os leve a fazer visitações às herdades para que se façam as colheitas. Size:114 limit: 64
+Near lines: 1285 
+Near lines: 1286          sentenca$que se cante uma missa diária por um capelão na capela de Martim de Aveiro em S. Bartolomeu/id=sbartolomeu14021406-obj110
+
+
+WARNING: sbartolomeu_5.cli line 1287 Element value exceeds database field length: name=que se cante uma missa diária por um capelão na capela de Martim de Aveiro em S. Bartolomeu. Size:91 limit: 64
+Near lines: 1287 
+Near lines: 1288          sentenca$que se escolha um tesoureiro para S. Bartolomeu/id=sbartolomeu14021406-obj111
+
+
+WARNING: sbartolomeu_5.cli line 1293 Element value exceeds database field length: name=que o prior de S. Bartolomeu disponibilize todos os livros aos raçoeiros da instituição.. Size:88 limit: 64
+Near lines: 1293 
+Near lines: 1294          sentenca$que o prior e raçoeiros que tenham emprazamentos à igreja de S. Bartolomeu pagem as rendas em libras de moeda antiga que devem ao prioste de S. Bartolomeu/id=sbartolomeu14021406-obj114
+
+
+WARNING: sbartolomeu_5.cli line 1295 Element value exceeds database field length: name=que o prior e raçoeiros que tenham emprazamentos à igreja de S. Bartolomeu pagem as rendas em libras de moeda antiga que devem ao prioste de S. Bartolomeu. Size:154 limit: 64
+Near lines: 1295 
+Near lines: 1296          sentenca$que cantem as missas pagas nas respetivas capelas/id=sbartolomeu14021406-obj115
+
+
+WARNING: sbartolomeu_5.cli line 1299 Element value exceeds database field length: name=que se cante as missas devidas na capela de Afonso Fernande de Arouce. Size:69 limit: 64
+Near lines: 1299 
+Near lines: 1300          sentenca$as posições e herdades que emprazam os raçoeiros de S. Bartolomeu sejam pagas ao cabido da Sé de Coimbra/id=sbartolomeu14021406-obj117
+
+
+WARNING: sbartolomeu_5.cli line 1301 Element value exceeds database field length: name=as posições e herdades que emprazam os raçoeiros de S. Bartolomeu sejam pagas ao cabido da Sé de Coimbra. Size:104 limit: 64
+Near lines: 1301 
+Near lines: 1302          sentenca$que o prior de S. Bartolomeu pague as distribuições das missas que não foram cantadas por alma de Afonso Fernandes de Arouce/id=sbartolomeu14021406-obj118
+
+
+WARNING: sbartolomeu_5.cli line 1303 Element value exceeds database field length: name=que o prior de S. Bartolomeu pague as distribuições das missas que não foram cantadas por alma de Afonso Fernandes de Arouce. Size:124 limit: 64
+Near lines: 1303 
+Near lines: 1304          sentenca$que sejam cantadas as missas de outras capelas de S. Bartolomeu por oração de Santa Maria/id=sbartolomeu14021406-obj119
+
+
+WARNING: sbartolomeu_5.cli line 1305 Element value exceeds database field length: name=que sejam cantadas as missas de outras capelas de S. Bartolomeu por oração de Santa Maria. Size:89 limit: 64
+Near lines: 1305 
+Near lines: 1306          sentenca$que iluminem as cinco lâmpadas/id=sbartolomeu14021406-obj120
+
+
+WARNING: sbartolomeu_5.cli line 1309 Element value exceeds database field length: name=que qualquer decisão de gestão de S. Bartolomeu seja discutida em consenso com o prior e raçoeiros. Size:98 limit: 64
+Near lines: 1309 
+Near lines: 1310       escritura$sbartolomeu1012/10/12/1408/emprazamento/fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.15, guardado 127, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado)/loc=Coimbra/sumario=O prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o cabido emprazam em três vidas a João de Santana, pescador, e sua mulher, Inês Afonso, moradores em Coimbra, um olival em Copeira.
+
+1312: escritura$sbartolomeu1012
+
+WARNING: sbartolomeu_5.cli line 1311 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.15, guardado 127, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1311 
+Near lines: 1312          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu1012-priorcabido
+
+1373: escritura$sbartolomeu0809
+
+WARNING: sbartolomeu_5.cli line 1372 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.2, m.6, n.20, guardado 128, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1372 
+Near lines: 1373          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0809-priorcabido
+
+1428: escritura$sbartolomeu2703
+
+WARNING: sbartolomeu_5.cli line 1427 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.17, guardado 129, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1427 
+Near lines: 1428          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu2703-priorcabido
+
+1484: escritura$sbartolomeu0512
+
+WARNING: sbartolomeu_5.cli line 1483 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.19, guardado 130, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1483 
+Near lines: 1484          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0512-priorcabido
+
+1521: escritura$sbartolomeu_1012
+
+WARNING: sbartolomeu_5.cli line 1520 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.18a, guardado 131, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 1520 
+Near lines: 1521          tabeliao$Fernão Martins/id=sbartolomeu.tab.eliao1012-fmartins
+
+1566: escritura$sbartolomeu1012_a
+
+WARNING: sbartolomeu_5.cli line 1565 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.18b, guardado 132, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 1565 
+Near lines: 1566          tabeliao$Fernão Martins/id=sbartolomeu.tab.1012_a-fmartins
+
+1636: escritura$sbartolomeu2201
+
+WARNING: sbartolomeu_5.cli line 1635 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.18c, guardado 133, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 1635 
+Near lines: 1636          referido$André Vicente/id=sbartolomeu2201-avicente
+
+1675: escritura$sbartolomeu0203
+
+WARNING: sbartolomeu_5.cli line 1674 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.9, guardado 134, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:223 limit: 64
+Near lines: 1674 
+Near lines: 1675          donatario$prior e cabido de S. Bartolomeu/id=sbartolomeu0203-priorcabido
+
+1736: escritura$sbartolomeu0203_a
+
+WARNING: sbartolomeu_5.cli line 1735 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.16, guardado 135, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1735 
+Near lines: 1736          senhorio$prior e cabido de S. Bartolomeu/id=sbartolomeu0203_a-priorcabido
+
+1800: escritura$sbartolomeu1906
+
+WARNING: sbartolomeu_5.cli line 1799 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.20, guardado 136, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1799 
+Near lines: 1800          tabeliao$Fernão Martins/id=sbartolomeu.tab.1906-fmartins
+
+1902: escritura$sbartolomeu2309
+
+WARNING: sbartolomeu_5.cli line 1901 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.22, guardado 137, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 1901 
+Near lines: 1902          referido$Afonso Lopes/id=sbartolomeu.ref.2309-alopes
+
+1923: escritura$sbartolomeu0712
+
+WARNING: sbartolomeu_5.cli line 1922 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.21, guardado 138, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1922 
+Near lines: 1923          tabeliao$Pedro Afonso/id=sbartolomeu.tab.0712-pafonso
+
+1981: escritura$sbartolomeu0812
+
+WARNING: sbartolomeu_5.cli line 1980 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.22, guardado 139, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 1980 
+Near lines: 1981          tabeliao$Fernão Martins/id=sbartolomeu.tab.0812-fmartins
+
+2055: escritura$sbartolomeu2502
+
+WARNING: sbartolomeu_5.cli line 2054 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.23, guardado 140, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:224 limit: 64
+Near lines: 2054 
+Near lines: 2055          tabeliao$Afonso Anes/id=sbartolomeu.tab.2502-aanes
+
+2115: escritura$sbartolomeu0407
+
+WARNING: sbartolomeu_5.cli line 2114 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.24a, guardado 141, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 2114 
+Near lines: 2115          tabeliao$Fernão Martins/id=sbartolomeu.tab.0407-fmartins
+
+2169: escritura$sbartolomeu0707b
+
+WARNING: sbartolomeu_5.cli line 2168 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.24b, guardado 142, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 2168 
+Near lines: 2169          tabeliao$Fernão Martins/id=sbartolomeu.tabb.0707b-fmartins
+
+2210: escritura$sbartolomeu0607
+
+WARNING: sbartolomeu_5.cli line 2209 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.6, m.14, n.23, guardado 143 e 143a, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:232 limit: 64
+Near lines: 2209 
+Near lines: 2210          referido$Gil/id=sbartolomeu.ref.0607-dgil
+
+2243: escritura$sbartolomeu2105b
+
+WARNING: sbartolomeu_5.cli line 2242 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.34a, guardado 144, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 2242 
+Near lines: 2243          referido$Nicolau Ramos/id=sbartolomeu.refb.2105b-nramos
+
+2349: escritura$sbartolomeu2105_a
+
+WARNING: sbartolomeu_5.cli line 2348 Element value exceeds database field length: fol=T.T. Col.S. Bartolomeu, cx.3, m.7, n.34b, guardado 145, (publicado Cristina Guardado, A Colegiada de S. Bartolomeu de Coimbra em tempos medievais, Faculdade de Letras da Universidade de Coimbra, 1999, dissertação de mestrado). Size:225 limit: 64
+Near lines: 2348 Near lines: 2349 
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/sbartolomeu_5.cli
+** Original file- /kleio-home/sources/commersb/sources/sbartolomeu_5.org
+** Previous version- /kleio-home/sources/commersb/sources/sbartolomeu_5.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/sbartolomeu_5.ids
+** - /kleio-home/sources/commersb/sources/sbartolomeu_5.cli-renamed to- /kleio-home/sources/commersb/sources/sbartolomeu_5.old
+0  errors. 
+55  warnings.
+Translation finished.

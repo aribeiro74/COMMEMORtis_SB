@@ -1,0 +1,436 @@
+kleio$gacto2.str
+   fonte$avsbartolomeupub3/1369-1416/varios/1369-1416/loc=colsbart, cx. 6, m. 13, n. 5a; guardado 70 e 71a; colsbart, cx. 6, m. 13, n. 5b; guardado 71; colsbart, cx. 6, m. 13, n. 5a; guardado 72; colsbart, cx. 2, m. 6, n. 2b; guardado 73; colsbart, cx. 6, m. 13, n. 5c; guardado 74; colsbart, cx. 2, m. 6, n. 3; guardado 75; colsbart, cx. 2, m. 6, n. 4; guardado 76; colsbart, cx. 2, m. 6, n. 5; guardado 77; colsbart, cx. 2, m. 6, n. 1; guardado 78; colsbart, cx. 2, m. 6, n. 6; guardado 79/obs=escrituras de diferentes tipologias, publicadas na tese de cristina guardado1999
+
+      escritura$sbartproc1369.1/26/4/1369/procuracao/fol=colsbart, cx. 6, m. 13, n. 5a; guardado 70 e 71a/loc=Coimbra, igreja de S. Bartolomeu/sumario=Joana Rodrigues, viúva de Afonso Martins, pousadeiro, e sua testamenteira, moradora em Coimbra, nomeia seus procuradores João de Elvas e Afonso Martins, clérigos, para darem posse da terça das herdades que o seu marido deixara à igreja S. Bartolomeu, com a condição de elas as usufruir em vida./obs=documento publicado, bom
+
+         constituintef$Joana Rodrigues/id=sbartproc1369.1.joana
+            ls$residencia/Coimbra
+
+         testador$Afonso Martins/id=sbartproc1369.1.afonso
+            ls$residencia/Coimbra
+            ls$profissao/pousadeiro
+            rel$parentesco/marido/joana Rodrigues/sbartproc1369.1.joana
+            ls$morto/antes
+
+         procurador$João de Elvas/id=sbartproc1369.1.elvas
+            ls$alcunha/Elvas
+            ls$naturalidade/Elvas
+            ls$titulo/Clérigo
+            ls$residencia/Coimbra
+            rel$sociabilidade/procurador/Joana Rodrigues/sbartproc1369.1.joana
+
+         procurador$Afonso Martins/id=sbartproc1369.1.martins
+            ls$titulo/Clérigo
+            ls$residencia/Coimbra
+            rel$sociabilidade/procurador/Joana Rodrigues/sbartproc1369.1.joana
+
+         testamentario$Prior e Cabido de S. Bartolomeu/id=sbartproc1369.1.sbart
+
+         test$Vasco Peres/id=sbartproc1369.1-per1
+            ls$residencia/Coimbra
+            ls$profissao/Tosador
+
+         test$Estevão Soveral/id=sbartproc1369.1-per2
+            ls$residencia/Coimbra
+
+         test$João Anes/id=sbartproc1369.1-per3
+            ls$residencia/Lamarosa
+
+         tabeliao$Martim Gil/id=sbartproc1369.1-per4
+            ls$intitulacao/tabelião do rei na cidade de Coimbra
+
+         bem$herdades/obs=terça parte
+            rel$posse/pertenceu/Afonso Martins/sbartproc1369.1.afonso
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartproc1369.1.sbart
+
+      escritura$sbartpos1369.2/26/4/1369/posse/fol=colsbart, cx. 6, m. 13, n. 5b; guardado 71/loc=Coimbra, gemil/sumario=O Prior e Cabido de S. Bartolomeu, representados por André Anes, raçoeiro, tomam posse de um olival em Gemil (fr. santa clara, c. Coimbra) que pertencia a terça de Afonso Martins, do qual a sua mulher usufruira em vida./obs=documento publicado, bom
+
+         testador$Afonso Martins/id=sbartpos1369.2.afonso
+            ls$residencia/Coimbra
+            ls$profissao/Pousadeiro
+            ls$morto/antes
+
+         tabeliao$Martim Gil/id=sbartpos1369.2-per1
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+            referida$Joana Martins/id=sbartpos1369.2.joana
+               ls$residencia/Coimbra
+               rel$parentesco/mulher/Afonso Martins/sbartpos1369.2.afonso
+
+         procurador$João de Elvas/id=sbartpos1369.2.joao
+            ls$titulo/Clérigo
+            rel$sociabilidade/procurador/Joana Martins/sbartpos1369.2.joana
+
+         testamentario$Prior e Cabido da igreja S. Bartolomeu/id=sbartpos1369.2.sbart
+
+            referido$Andre Anes/id=sbartpos1369.2.sbart-per2
+               ls$cargo/Raçoeiro de S. Bartolomeu
+
+         test$Francisco Afonso/id=sbartpos1369.2-per3
+            ls$profissao/Lavrador
+
+         test$João Peres/id=sbartpos1369.2-per4
+            ls$titulo/Clérigo
+
+         bem$olival
+            atr$localizacao/Gemil
+            rel$posse/pertenceu/Afonso Martins/sbartpos1369.2.afo
+            rel$posse/por testamento/S. Bartolomeu/sbartpos1369.2.sbart/obs=com condição de usufruto em vida de Joana Rodrigues
+
+      escritura$sbartren1369.3/19/6/1369/renuncia/fol=colsbart, cx. 6, m. 13, n. 5a; guardado 72/loc=Coimbra, igreja S. Bartolomeu/sumario=Vicente Martins, raçoeiro da igreja Santa Justa de Coimbra, renuncia a umas casas no adro de Santa Justa, que trazia emprazadas da igreja de S. Bartolomeu, as quais Geraldo de Alpoim, raçoeiro e procurador do Prior e Cabido dessa igreja, empraza a Maria Migueis, tecedeira, moradora em Coimbra./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartren1369.3.sbart
+
+            referido$Raimundo Beltrães/obs=ausente/id=sbartren1369.3.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Geraldo de Alpoim/id=sbartren1369.3.sbart-per2
+               ls$naturalidade/Alpoim
+               ls$alcunha/Alpoim
+               ls$cargo/Raçoeiro S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartren1369.3.sbart
+
+         renunciante$Vicente Martins/sbartren1369.3.vicente/id=sbartren1369.3-per3
+            ls$cargo/Raçoeiro de Santa Justa
+
+         enfiteutaf$Maria Migueis/id=sbartren1369.3.maria
+            ls$residencia/Coimbra
+            ls$profissao/Tecedeira
+
+            referido$Afonso Esteves/id=sbartren1369.3.maria-per4
+               ls$cargo/Prior de S. Bartolomeu/obs=que foi
+
+         test$João Afonso/id=sbartren1369.3-per5
+            ls$cargo/Raçoeiro de Santa Justa
+
+         test$Estácio Anes/id=sbartren1369.3-per6
+            ls$titulo/Escudeiro
+
+         test$Fernão Domingues/id=sbartren1369.3-per7
+            ls$titulo/Escudeiro
+
+         tabeliao$Estevão Anes/id=sbartren1369.3-per8
+            ls$intitulacao/Tabeliao do rei na cidade de Coimbra
+            ls$sinal/Sim
+
+         bem$casa e sotao
+            atr$localizacao/Adro de Santa Justa
+            atr$confrontacoes/parte com forno da igreja santa justa
+            atr$confrontacoes/parte com casas da Sé
+            rel$posse/pertence/Vicente Martins/sbartren1369.3.vicente
+            rel$posse/por renuncia/Prior e Cabido de S. Bartolomeu/sbartren1369.3.sbart
+            rel$posse/por emprazamento/Maria Migueis/sbartren1369.3.maria
+            atr$renda principal valor/40 soldos
+            atr$pagamento da renda principal/Páscoa
+            atr$duracao/1 vida
+            atr$caucao/25 libras de prata
+
+      escritura$sbartemp1369.4/19/6/1369/emprazamento/fol=colsbart, cx. 2, m. 6, n. 2b; guardado 73/loc=Coimbra, igreja S. Bartolomeu/sumario=Geraldo Alpoim, raçoeiro da igreja de S. Bartolomeu no lugar do Prior dessa igreja, Raimundo Beltrães, e o Cabido emprazam a Estácio Anes, homem do rei, uma casa derrubada na azinhaga que vai do adro da igreja, em Coimbra./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1369.4.sbart
+
+            referido$Raimundo Beltrães/obs=ausente/id=sbartemp1369.4.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+            referido$Geraldo de Alpoim/id=sbartemp1369.4.sbart-per2
+               ls$naturalidade/Alpoim
+               ls$alcunha/Alpoim
+               ls$cargo/Raçoeiro de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartemp1369.4.sbart
+
+         enfiteuta$Estácio Anes/id=sbartemp1369.4.estacio
+            ls$residencia/Coimbra
+            ls$cargo/Homem do Rei
+
+            referido$Domingos António da Ponte/obs=confrontacoes/id=sbartemp1369.4.estacio-per3
+               ls$alcunha/da Ponte
+               ls$residencia/Coimbra
+
+            referido$Estevão Anes/obs=confrontacoes/id=sbartemp1369.4.estacio-per4
+               ls$residencia/Coimbra
+
+            referida$Isabel Vicente/obs=confrontacoes/id=sbartemp1369.4.estacio-per5
+               ls$residencia/Coimbra
+
+         test$Francisco Rodrigues/id=sbartemp1369.4-per6
+            ls$cargo/Prior de Belcouce/obs=sic
+            ls$residencia/Coimbra
+
+         test$Gonçalo Esteves de Assafarge/id=sbartemp1369.4-per7
+            ls$alcunha/de Assafarge
+            ls$naturalidade/Assafarge
+            ls$residencia/Coimbra
+
+         tabeliao$Estevão Anes/id=sbartemp1369.4-per8
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+            ls$sinal/Sim
+
+         bem$casa derrubada
+            atr$localizacao/Coimbra
+            atr$localizacao/azinhaga que vai do adro de S. Bartolomeu para as casa de Domingos António da Ponte
+            atr$confrontacoes/partem com casas do Concelho
+            atr$confrontacoes/partem com casas de Isabel Vicente
+            atr$confrontacoes/partem com casas de Estevão Anes
+            atr$renda principal valor/12 soldos
+            atr$pagamento da renda principal/S. Miguel de setembro
+            atr$duracao/1 vida
+            atr$caucao/25 libras
+
+      escritura$sbartpos1369.5/21/6/1369/posse/fol=colsbart, cx. 6, m. 13, n. 5c; guardado 74/loc=lamarosa/sumario=Joana Rodrigues da posse a igreja de S. Bartolomeu da terça de seu quinhão, ou seja um terço da quinta de lamarosa (fr. do c. Coimbra) e dos seus 8 casais, os quais ela usufruira em vida./obs=documento publicado, bom
+
+         referido$Afonso Martins/id=sbartpos1369.5.afonso
+            ls$alcunha/Pousadeiro
+            ls$residencia/Coimbra
+            ls$morto/antes
+
+         doadora$Joana Rodrigues/id=sbartpos1369.5.joana
+            ls$residencia/Coimbra
+            rel$parentesco/viúva/Afonso Martins/sbartpos1369.5.afonso
+            rel$sociabilidade/testamenteira/Afonso Martins/sbartpos1369.5.afonso
+
+         donataria$Prior e Cabido de S. Bartolomeu/id=sbartpos1369.5.sbart
+
+            referido$João de Elvas/id=sbartpos1369.5.sbart-per1
+               ls$alcunha/de Elvas
+               ls$naturalidade/Elvas
+               ls$cargo/Capelão de S. Bartolomeu
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartpos1369.5.sbart
+
+         test$Lourenço Domingues/id=sbartpos1369.5-per2
+            ls$residencia/Lamarosa
+
+         test$Afonso Domingues de Vila Nova/id=sbartpos1369.5-per3
+            ls$alcunha/de Vila Nova
+
+         test$Afonso/id=sbartpos1369.5-per4
+            ls$residencia/S. Martinho de Árvore
+
+         referido$Martim Domingues/id=sbartpos1369.5.martim
+
+         test$Afonso Martins/id=sbartpos1369.5-per5
+            rel$parentesco/filho/Martim Domingues/sbartpos1369.5.martim
+
+         tabeliao$Martim Gil/id=sbartpos1369.5-per6
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+            ls$sinal/Sim
+
+         bem$quinta/obs=trata se da terça parte de uma quinta constituída por paço com quinta com 16 casais
+            atr$localizacao/Lamarosa
+            rel$posse/pertenceu/Afonso Martins/sbartpos1369.5.afonso
+            rel$posse/pertence/Joana Rodrigues/sbartpos1369.5.joana/obs=ela havia metade e que da outra metade havia de haver a igreja de S. Bartolomeu a terça
+            rel$posse/por testamento/Prior e Cabido de S. Bartolomeu/sbartpos1369.5.sbart
+            atr$condicoes/com reserva de usufruto durante a vida da doadora
+
+      escritura$sbartctes1370.1/7/10/1370/clausulatestamentaria/fol=colsbart, cx. 2, m. 6, n. 3; guardado 75/loc=Coimbra/sumario=O vigário geral do bispo de Coimbra D. Vasco, João Rodrigues, manda que seja feita a publica forma de uma cláusula do testamento de Maria Peres, oleira, a qual deixava uma casa a igreja de S. Bartolomeu com a obrigação de aniversários./obs=documento publicado, bom
+
+         referido$Vasco/id=sbartctes1370.1.vasco
+            ls$titulo/Dom
+            ls$cargo/Bispo de Coimbra
+
+         referido$João Rodrigues/id=sbartctes1370.1.joao
+            ls$titulo/Bacharel em decretos
+            ls$cargo/Cónego da Sé de Coimbra
+            ls$cargo/Vigário geral do Bispo de Coimbra/obs=dom vasco
+            ls$assinatura/johannes riderici
+
+         testamentario$Prior e Cabido de S. Bartolomeu/id=sbartctes1370.1.sbart
+
+            referido$Rui Lourenço/id=sbartctes1370.1.rui
+               ls$cargo/Vigário igreja S. Julião de Buarcos
+               rel$sociabilidade/procurador/Prior e Cabido de S. Bartolomeu/sbartctes1370.1.sbart
+
+         testadora$Maria Peres/id=sbartctes1370.1.maria
+            ls$residencia/adro de S. Bartolomeu
+            ls$profissao/Oleira
+            ls$morta/antes
+
+         testamenteiro$Domingos Esteves/id=sbartctes1370.1.domingos
+            ls$residencia/Coimbra
+            ls$profissao/Almocreve
+
+         tabeliao$Martim Gil/obs=tabeliao do testamento/id=sbartctes1370.1-per1
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         testamentaria$Catarina Carnes/id=sbartctes1370.1.carnes
+            rel$profissional/criada/Maria Peres/sbartctes1370.1.maria
+
+         testamentaria$Constança/id=sbartctes1370.1.constanca
+            rel$profissional/criada/Maria Peres/sbartctes1370.1.maria
+
+         escrivao$Lourenço Anes/id=sbartctes1370.1-per2
+            ls$intitulacao/Escrivão da audiência do Bispo
+            ls$assinatura/laurencius johannis notuit
+
+         bem$casa
+            atr$localizacao/Cabo Cavaleiro
+            rel$posse/pertenceu/Maria Peres/sbartctes1370.1.maria
+            rel$posse/clausula testamentaria/Catarina Carnes/sbartctes1370.1.carnes
+            rel$posse/clausula testamentaria/Constança/sbartctes1370.1.constanca
+            rel$posse/clausula testamentaria/Prior e Cabido de S. Bartolomeu/sbartctes1370.1.sbart/obs=depois da morte de constanca e catalina que o Prior e Cabido de S. Bartolomeu rezem quantas missas for possivel pelas libras que a casa render
+            atr$confrontacoes/que a Constança ensine a Catarina a tecer e que paguem anualmente 40 soldos a igreja de S. Bartolomeu por aniversários da testadora
+            atr$missas/2 aniversarios/obs=dia da morte, dia de Santa Maria de agosto
+
+      escritura$sbartemp1373.1/1/5/1373/emprazamento/fol=colsbart, cx. 2, m. 6, n. 4; guardado 76/loc=Coimbra, igreja S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o Cabido emprazam a Fernão Anes, alfaiate, e sua mulher, Margarida Ascenco, umas casas em Coimbra junto dessa igreja./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1373.1.sbart
+
+            referido$Raimundo Beltrães/id=sbartemp1373.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Fernão Anes/id=sbartemp1373.1.fernao
+            ls$alcunha/de Condeixa
+            ls$naturalidade/Condeixa
+            ls$residencia/Coimbra
+            ls$profissao/Alfaiate
+
+         enfiteutaf$Margarida Ascenco/id=sbartemp1373.1-per2
+            ls$residencia/Coimbra
+            rel$parentesco/mulher/Fernão Anes/sbartemp1373.1.fernao
+
+            referido$João Gil/obs=confrontacoes/id=sbartemp1373.1-per2-per3
+               ls$residencia/Coimbra
+               ls$profissao/Alfaiate
+
+         tabeliao$Vasco Afonso/id=sbartemp1373.1-per4
+
+         test$Estácio Anes/id=sbartemp1373.1-per5
+            ls$profissao/Alfaiate
+
+         referido$João/id=sbartemp1373.1.infante
+            ls$titulo/Dom
+            ls$titulo/Infante
+
+         test$João de Pinho/id=sbartemp1373.1-per6
+            ls$cargo/Almoxarife
+            rel$profissional/Almoxarife/João/sbartemp1373.1.infante
+
+         test$Martim Gil/id=sbartemp1373.1-per7
+            ls$profissao/Sapateiro
+
+         test$Vicente Lois/id=sbartemp1373.1-per8
+            ls$profissao/Torneiro
+
+         bem$casas
+            atr$localizacao/ao pé da igreja de S. Bartolomeu
+            atr$confrontacoes/partem com casas de S. Bartolomeu que traz João Gil
+            atr$confrontacoes/partem com casa de Vasco Afonso, Tabelião
+            atr$confrontacoes/partem com rua publica
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1373.1.sbart
+            rel$posse/por emprazamento/Fernão Anes/sbartemp1373.1.fernao
+            atr$duracao/2 vidas
+            atr$renda principal valor/8 libras
+            atr$renda acessoria/2 capões
+            atr$pagamento da renda principal/S. Miguel de setembro
+            atr$pagamento da renda acessoria/Natal
+
+      escritura$sbartemp1374.1/25/1/1374/emprazamento/fol=colsbart, cx. 2, m. 6, n. 5; guardado 77/loc=Coimbra, igreja S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o Cabido emprazam a Bartolomeu Martins, almocreve, e sua mulher, Domingas Anes, uma casa na rua de S. Gião (hoje rua das azeiteiras, f. S. Bartolomeu, c. Coimbra)./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1374.1.sbart
+
+            referido$Raimundo Beltrães/id=sbartemp1374.1.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Bartolomeu Martins/id=sbartemp1374.1.bartolomeu
+            ls$profissao/Almocreve
+
+         enfiteutaf$Domingas Anes/id=sbartemp1374.1-per2
+            ls$alcunha/Brava
+            rel$parentesco/mulher/Bartolomeu Martins/sbartemp1374.1.bartolomeu
+
+            referido$Martim Esteves/obs=confrontacoes/id=sbartemp1374.1-per2-per3
+               ls$profissao/Sapateiro
+
+         test$João Aparício de Beira/id=sbartemp1374.1-per4
+            ls$alcunha/de Beira/obs=sic
+            ls$naturalidade/Beira
+
+         test$João Anes/id=sbartemp1374.1-per5
+            ls$profissao/Homem de serviço
+
+         tabeliao$Bartolomeu Martins/id=sbartemp1374.1-per6
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         bem$casa/obs=que chamam do meos
+            atr$localizacao/rua de S. Gião
+            atr$confrontacoes/parte com casas que foram de Martim Esteves sapateiro
+            atr$confrontacoes/parte com casas de Santiago
+            atr$confrontacoes/parte com rua publica
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1374.1.sbart
+            rel$posse/por emprazamento/Bartolomeu Martins/sbartemp1374.1.bartolomeu
+            atr$duracao/2 vidas
+            atr$renda principal valor/50 soldos
+            atr$pagamento da renda principal/S. Miguel de setembro
+            atr$caucao/25 libras
+
+      escritura$sbartemp1374.2/27/1/1374/emprazamento/fol=colsbart, cx. 2, m. 6, n. 1; guardado 78/loc=Coimbra, igreja S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o Cabido emprazam em 3 vidas a Gonçalo Vasques dos Paços e sua mulher, Catarina Afonso, uma herdade em Gestal./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1374.2.sbart
+
+            referido$Raimundo Beltrães/id=sbartemp1374.2.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Gonçalo Vasques dos Paços/id=sbartemp1374.2.pacos
+
+         enfiteutaf$Catalina Afonso/id=sbartemp1374.2-per2
+            rel$parentesco/mulher/Gonçalo Vasques dos Paços/sbartemp1374.2.pacos
+
+         tabeliao$Afonso Anes/id=sbartemp1374.2-per3
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+
+         test$Diogo Martins/id=sbartemp1374.2-per4
+            ls$profissao/Cordoeiro
+
+         test$Álvaro Afonso/id=sbartemp1374.2-per5
+            ls$titulo/Clérigo
+
+         test$João Domingues/id=sbartemp1374.2-per6
+            ls$titulo/Clérigo
+
+         bem$herdade
+            atr$localizacao/Gestal
+            atr$confrontacoes/parte com herdade de S. Pedro
+            atr$confrontacoes/parte com ruas publicas
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1374.2.sbart
+            rel$posse/por emprazamento/Gonçalo Vasques dos Paços/sbartemp1374.2.pacos
+            atr$benfeitorias/chantar em vinha a regueira que vem de cima para o fundo contra a herdade de S. Paulo e a outra herdade que vai de si contra Afonso Domingues que chantem em olival ou em vinha
+            atr$duracao/2 vidas
+            atr$renda principal valor/500 libras/obs=baixando a moeda noutro valor paguem 10 libras de moeda antiga e a pessoa que depois veer pague 12 libras de moeda antiga
+            atr$renda acessoria valor/2 capões/obs=e por esto os ditos Prior e racoeiros de S. Bartolomeu lhe facam um aniversário
+            atr$pagamento da renda principal/S. Miguel de setembro
+            atr$pagamento da renda acessoria/S. Miguel de setembro
+
+      escritura$sbartemp1374.3/29/5/1374/emprazamento/fol=colsbart, cx. 2, m. 6, n. 6; guardado 79/loc=Coimbra, igreja S. Bartolomeu/sumario=O Prior da igreja de S. Bartolomeu, Raimundo Beltrães, e o Cabido emprazam em 2 vidas a Domingos Anes, raçoeiro dessa igreja, um olival em Carapito (termo de Coimbra)./obs=documento publicado, bom
+
+         senhorio$Prior e Cabido de S. Bartolomeu/id=sbartemp1374.3.sbart
+
+            referido$Raimundo Beltrães/id=sbartemp1374.3.sbart-per1
+               ls$cargo/Prior de S. Bartolomeu
+
+         enfiteuta$Domingos Anes/id=sbartemp1374.3.domingos
+            ls$cargo/Raçoeiro de S. Bartolomeu
+
+         test$João Peres/id=sbartemp1374.3-per2
+            ls$cargo/Prior de Tentúgal
+
+         test$João Esteves/id=sbartemp1374.3-per3
+            ls$cargo/Vigário de Zambujal
+
+         test$João Lourenço/id=sbartemp1374.3-per4
+            ls$titulo/Clérigo da igreja de S. Bartolomeu
+
+         tabeliao$Estevão Peres/id=sbartemp1374.3-per5
+            ls$intitulacao/Tabelião do Rei na cidade de Coimbra
+            ls$sinal/Sim
+
+         bem$1 olival
+            atr$localizacao/Carapito/obs=termo de Coimbra
+            atr$confrontacoes/parte com olival de Gafaria
+            atr$confrontacoes/parte com olival do Mosteiro do Freixo
+            atr$confrontacoes/parte com olival da igreja S. Bartolomeu
+            rel$posse/pertence/Prior e Cabido de S. Bartolomeu/sbartemp1374.3.sbart
+            rel$posse/por emprazamento/Domingos Anes/sbartemp1374.3.domingos
+            atr$duracao/2 vidas
+            atr$renda principal valor/30 soldos
+            atr$renda principal valor/S. Miguel de setembro
+            atr$renda acessoria valor/1 capão/obs=so para a pessoa que lhe suceder
+            atr$pagamento da renda acessoria/S. Miguel de setembro

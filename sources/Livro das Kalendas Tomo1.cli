@@ -1,0 +1,142 @@
+kleio$gacto2.str
+fonte$Kalendas_laecc1/data=1191-1300/tipo=obitoseaniversarios/loc=publicado em Pierre David e Torquato de Sousa Soares, Liber anniversariorum ecclesiae cathedralis Colimbriensis : livro das kalendas,Tomo I, Coimbra: Faculdade de Letras da Universidade de Coimbra, 1947-1948.
+
+inscricao$kalendas_laecc1101/11/01/9999/tipo=aniversario/fol=Livro das Kalendas, fl.11 (p.36)/loc=Coimbra/sumario=Aniversário a celebrar por alma de Mestre Gonçalo, médico do rei D. Dinis, por doação de duas libras à Igreja de Santiago e de propriedades em Coselhas à Sé de Coimbra.
+
+doador$Gonçalo/id=kalendas_laecc1101-mgoncalo
+    ls$titulo/Mestre
+    ls$alcunha/Lever
+    ls$cargo/Médico
+    rel$profissional/médico/Dinis/kalendas_laecc1101-DDinis
+
+referido$Dinis/id=kalendas_laecc1101-DDinis
+    ls$titulo/Dom
+    ls$cargo/Rei de Portugal
+
+donatario$Sé de Coimbra/id=sc_laecc1101
+
+donatario$aniversário de Mestre Gonçalo/id=ani_laecc1101
+    atr$cerimonia_aniversario/duas capelas perpétuas na Sé
+    atr$cerimonia_aniversario/mensalmente
+    atr$cerimonia_aniversario/orações específicas/obs=Missa da Cruz
+    atr$pagamento_aniversario/4 libras/obs=a dividir pelos presentes e enfermos e crianças
+    atr$pagamento_aniversario/50 soldos
+
+donatario$Igreja de Santiago/id=is_laecc1101
+
+bem$2 libras
+    rel$posse/pertence/Gonçalo/kalendas_laecc1101-mgoncalo
+    rel$posse/por doacao/Igreja de Santiago/is_laecc1101
+
+bem$propriedades
+    atr$localizacao/Coselhas
+    rel$posse/pertence/Gonçalo/kalendas_laecc1101-mgoncalo
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc1101
+    rel$posse/pertence/aniversário de Mestre Gonçalo/ani_laecc1101
+
+inscricao$kalendas_laecc1502/15/02/1222/tipo=obito/fol=Livro das Kalendas, fl.13 v. (p.49)/loc=Coimbra/sumario=óbito de D. Godinha que doa por sua alma um olival no Termo de Vila Mendica que se encontra emprazado ao seu neto, D. André.
+
+doadora$Godinha/id=kalendas_laecc1502-DGodinha
+    ls$titulo/Dona
+
+referido$André/id=kalenda_laecc1502-DAndré
+    ls$titulo/Dom
+    rel$parentesco/neto/Godinha/kalendas_laecc1502-DGodinha
+
+donatario$Sé de Coimbra/id=sc_laecc1502
+
+donatario$aniversário de Dona Godinha/id=ani_laecc1502
+
+bem$olival
+    atr$localizacao/Termo de Vila Mendiga
+    rel$posse/por emprazamento/André/kalenda_laecc1502-DAndré
+    rel$posse/pertence/aniversário de Dona Godinha/ani_laecc1502
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc1502
+
+
+inscricao$kalendas_laecc0302/03/02/9999/tipo=obito/fol=Livro das Kalendas, fl.21 v. (p.83)/loc=Coimbra/sumario=Aniversário por alma de Mestre Gonçalo por doação de propriedades em Coselhas à Sé de Coimbra.
+    doador$Gonçalo/id=kalendas_laecc0302-mgoncalo
+    ls$titulo/Mestre
+    ls$alcunha/Lever
+
+donatario$Sé de Coimbra/id=sc_laecc0302
+
+donatario$aniversário de Mestre Gonçalo/id=ani_laecc0302
+    atr$cerimonia_aniversario/orações específicas/obs=Missa da Cruz
+    atr$pagamento_aniversario/4 libras/obs=a dividir pelos presentes e enfermos e crianças
+    atr$pagamento_aniversario/12 soldos/obs=a dividir pelos presentes e enfermos e crianças
+
+bem$propriedades
+    atr$localizacao/Coselhas
+    rel$posse/pertence/Gonçalo/kalendas_laecc0302-mgoncalo
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc0302
+    rel$posse/pertence/aniversário de Mestre Gonçalo/ani_laecc0302
+
+        
+    inscricao$kalendas_laecc1003/10/03/9999/tipo=aniversario/fol=Livro das Kalendas, fl.32 (p.117)/loc=Coimbra/sumario=Aniversário por alma dos pais do Mestre Martim por doação de umas casas junto das latrinas do Cabido da Sé de Coimbra.
+    doador$Martim/id=kalendas_laecc1003-MMartim
+        ls$titulo/Mestre
+    
+    referido$Pedro Pais/id=kalendas_laecc1003-PPais
+        rel$parentesco/pai/Martim/kalendas_laecc1003-MMartim
+        ls$sepultura/Mosteiro de Santa Cruz
+    
+    referida$Maior/id=kalendas_laecc1003-DMaior
+        ls$titulo/Dona
+        rel$parentesco/mãe/Martim/kalendas_laecc1003-MMartim
+        ls$sepultura/Mosteiro de Santa Cruz
+    
+    donatario$Sé de Coimbra/id=sc_laecc1003
+    
+    donatario$aniversário de pais de Martim/id=ani_laecc1003
+        atr$pagamento_aniversario/30 soldos/obs=a distribuir no dia da comemoração
+    
+    bem$casas
+        atr$renda/30 soldos
+        atr$localizacao/junto das latrinas do Cabido
+        rel$posse/pertence/aniversário de pais de Martim/ani_laecc1003
+        rel$posse/pertence/Martim/kalendas_laecc1003-MMartim
+        rel$posse/por docao/Sé de Coimbra/sc_laecc1003
+
+
+    inscricao$kalendas_laecc1204/12/04/1275/tipo=aniversario/fol=Livro das Kalendas, fl.57 (p.192)/loc=Coimbra/sumario=Aniversário por alma de Domingos Mendes, prior de S. Bartolomeu de Coimbra, por doação de uma casa na freguesia de S. Bartolomeu.
+
+    doador$Domingos Mendes/id=kalendas_laecc1204-dmendes
+    ls$cargo/Prior de S. Bartolomeu
+    ls$loc_sepultura/S. Pedro de Condão de Vasconia/obs=sic.
+    
+    donatario$Sé de Coimbra/id=sc_laecc1204
+
+    donatario$Aniversário de Domingos Mendes/id=ani_laecc1204
+
+    referido$Afonso Domingues/id=kalendas_laecc.ref-adomingues
+    rel$profissional/criado/Domingos Mendes/kalendas_laecc1204-dmendes
+    ls$profissao/criado
+
+    bem$casa
+    atr$descricao/que foi de Tomás Martins
+    atr$localizacao/Freguesia de S. Bartolomeu
+    atr$condicao/que fique para Afonso Domingues até à sua morte
+    atr$condicao/após a sua morte, fica ao cuidado do cabido da Sé
+    rel$posse/pertence/Domingos Mendes/kalendas_laecc1204-dmendes
+    rel$posse/por testamento/Afonso Domingues/kalendas_laecc.ref-adomingues
+    rel$posse/por doacao/Sé de Coimbra/sc_laecc1204
+
+    inscricao$kalendas_laecc1905/19/05/1262/tipo=obito/fol=Livro das Kalendas, fl.62 (p.206)/loc=Coimbra/sumario=Óbito de Hermesenda Anes de Quintaval que deixou uma vinha em Monte Bordalo. 
+    celebrada$Hermesenda Anes de Quintaval/id=kalendas_laecc1905-HQuintaval
+        ls$sepultura/na nave junto do claustro superior
+    
+    donatario$Sé de Coimbra/id=sc_laecc1905
+    
+    donatario$aniversário de Hermesenda Quintaval/id=ani_laecc1905
+        atr$pagamento_aniversario/1 morabitino/obs=a distribuir neste dia
+
+    referido$Pedro Rodrigues/id=kalendas_laecc1905-PRodrigues/obs=metade da vinha está emprazado em seu nome até à sua morte. 
+
+    
+    bem$vinha
+        atr$localizacao/Termo de Monte Bordalo
+        rel$posse/pertence/Hermesenda Anes de Quintaval/kalendas_laecc1905-HQuintaval
+        rel$posse/por emprazamento/Pedro Rodrigues/kalendas_laecc1905-PRodrigues
+        rel$posse/pertence/aniversário de Hermesenda Quintaval/ani_laecc1905
+        rel$posse/por doacao/Sé de Coimbra/sc_laecc1905

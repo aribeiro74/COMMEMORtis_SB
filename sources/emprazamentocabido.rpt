@@ -1,0 +1,50 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 16-21
+
+Processing data file emprazamentocabido.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 1
+Obs: 
+** Processing source fonte$emprazamentosdocabido
+
+WARNING: emprazamentocabido.cli line 3 * Warning: Filename should match source Id to avoid errors. File: emprazamentocabido Id: emprazamentosdocabido.
+Near lines: 3 
+Near lines: 4       escritura$empcabido1434/99/99/1434/emprazamento/fol=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82/loc=Coimbra/sumario=Emprazamento de um chao pardieiro no adro da Igreja de São Bartolomeu a Erea Peres
+
+
+WARNING: emprazamentocabido.cli line 3 Element value exceeds database field length: loc=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82, doc.188. Size:104 limit: 64
+Near lines: 3 
+Near lines: 4       escritura$empcabido1434/99/99/1434/emprazamento/fol=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82/loc=Coimbra/sumario=Emprazamento de um chao pardieiro no adro da Igreja de São Bartolomeu a Erea Peres
+
+6: escritura$empcabido1434
+
+WARNING: emprazamentocabido.cli line 5 Element value exceeds database field length: fol=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.82. Size:95 limit: 64
+Near lines: 5 
+Near lines: 6          senhorio$Cabido da Sé de Coimbra/id=cabidose1434
+
+23: escritura$empcabido1442
+
+WARNING: emprazamentocabido.cli line 22 Element value exceeds database field length: fol=Arquivo da Universidade de Coimbra, Treslados dos Emprasamentos, Lv. 3º, nº de ordem 27, doc.188. Size:96 limit: 64
+Near lines: 22 
+Near lines: 23          senhorio$Cabido da Sé de Coimbra/id=cabidose1442
+
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/emprazamentocabido.cli
+** Original file- /kleio-home/sources/commersb/sources/emprazamentocabido.org
+** Previous version- /kleio-home/sources/commersb/sources/emprazamentocabido.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/emprazamentocabido.ids
+** - /kleio-home/sources/commersb/sources/emprazamentocabido.cli-renamed to- /kleio-home/sources/commersb/sources/emprazamentocabido.old
+0  errors. 
+4  warnings.
+Translation finished.

@@ -1,0 +1,76 @@
+kleio$gacto2.str/translations=1
+   fonte$CabidoSCoimbra_csc/data=1183-1819/tipo=varios/loc=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(publicado João José Alves Dias, Fragmenta Historica História, Paleografia e Diplomática. N. 10 (2022) )
+
+      escritura$cabidosecoimbra1258/00/02/1258/compraevenda/fol=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(Transcrito por Saúl Gomes, Fragmenta Historica)/loc=Coimbra/sumario=Venda que fizeram Fernando Fernandes Cogominho e sua mulher, Joana Dias, com Maior Dias, soror de Santa Cruz, e com Teresa Dias, monja de Celas da Ponte, a D. Boa, mãe das vendedoras, dos quinhões que haviam herdado, por morte do pai, Vicente Dias, nuns lagares de azeite situados no subúrbio de Coimbra, na paróquia de S. Bartolomeu desta cidade.
+
+         vendedor$Fernando Fernandes Cogominho/id=cabidosecoimbra1258-FFCogominho
+            ls$alcunha/Cogominho
+
+         vendedora$Joana Dias/id=cabidosecoimbra1258-JDias
+            rel$parentesco/mulher/Fernando Fernandes Cogominho/cabidosecoimbra1258-FFCogominho
+
+         vendedora$Maior Dias/id=cabidosecoimbra1258-MDias
+            rel$parentesco/irmã/Joana Dias/cabidosecoimbra1258-JDias
+            ls$cargo/soror do mosteiro de Santa Cruz
+
+         vendedor$Teresa Dias/id=cabidosecoimbra1258-TDias
+            rel$parentesco/irmã/Joana Dias/cabidosecoimbra1258-JDias
+            ls$cargo/monja de Celas da Ponte
+
+         compradora$Boa/id=cabidosecoimbra1258-DBoa
+            ls$titulo/Dona
+            rel$parentesco/mãe/Joana Dias/cabidosecoimbra1258-JDias
+            rel$parentesco/mãe/Maior Dias/cabidosecoimbra1258-MDias
+            rel$parentesco/mãe/Teresa Dias/cabidosecoimbra1258-TDias
+
+            referido$Vicente Dias/id=cabidosecoimbra1258-VDias/obs=à morte do pai foi realizada a venda dos lagares
+               rel$parentesco/pai/Joana Dias/cabidosecoimbra1258-JDias
+               rel$parentesco/pai/Maior Dias/cabidosecoimbra1258-MDias
+               rel$parentesco/pai/Teresa Dias/cabidosecoimbra1258-TDias
+               rel$parentesco/marido/Boa/cabidosecoimbra1258-DBoa
+
+         escrivao$Estêvão Peres/id=cabidosecoimbra1258-EPeres/obs=publici tabellionis Colimbrie
+            ls$profissão/Público tabelião de Coimbra
+
+         test$Rodrigo de Spino/id=cabidosecoimbra1258-per1
+
+         test$Martim Peres/id=cabidosecoimbra1258-MPeres
+            ls$cargo/Prior de Tentúgal
+
+         test$João de Scom/id=cabidosecoimbra1258-JScom/obs=sic.. Dúvida de leitura
+
+         test$Pedro Anes/id=cabidosecoimbra1258-PAnes
+            ls$profissão/Porteiro do Rei
+
+         test$Eimerinos/id=cabidosecoimbra1258-DEimerinos
+            ls$titulo/Dom
+
+         test$Martim Sanches/id=cabidosecoimbra1258-MSanches
+
+         test$Pedro Calos/id=cabidosecoimbra1258-per2
+
+         test$Durando Peres/id=cabidosecoimbra1258-DPeres
+            ls$cargo/homem de Santa Cruz
+
+         test$João Anes/id=cabidosecoimbra1258-JAnes
+
+         referido$João de Uluária/id=cabidosecoimbra1258-JUluaria
+            rel$parentesco/pai/João Anes/cabidosecoimbra1258-JAnes
+
+         test$Martins Mendes/id=cabidosecoimbra1258-MMendes
+
+         referido$Mendo Soares/id=cabidosecoimbra1258-MSoares
+            rel$parentesco/pai/Martins Mendes/cabidosecoimbra1258-MMendes
+
+         referido$Martim de Aveiro/id=cabidosecoimbra1258-MAveiro
+            ls$alcunha/de Aveiro
+            ls$naturalidade/Aveiro
+
+         bem$lagares de azeite/id=cabidosecoimbra1258-obj1
+            atr$localizacao/Paróquia de S. Bartolomeu
+            atr$confrontacoes/ocidente da Aziaga
+            atr$confrontacoes/aquilao da Aziaga
+            atr$confrontacoes/africa do terreno que foi de Martim de Aveiro
+            rel$posse/pertenceu/Vicente Dias/cabidosecoimbra1258-VDias
+            rel$posse/pertence/Boa/cabidosecoimbra1258-DBoa
+            atr$preco/4 morabitinos/obs=XX (?)] IIII morabitinos. Dúvida de leitura

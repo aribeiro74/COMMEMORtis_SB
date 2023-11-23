@@ -1,0 +1,40 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 16-10
+
+Processing data file Livro das Kalendas Tomo1.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$Kalendas_laecc1
+
+WARNING: Livro das Kalendas Tomo1.cli line 3 * Warning: Filename should match source Id to avoid errors. File: Livro das Kalendas Tomo1 Id: Kalendas_laecc1.
+Near lines: 3 Near lines: 4 inscricao$kalendas_laecc1101/11/01/9999/tipo=aniversario/fol=Livro das Kalendas, fl.11 (p.36)/loc=Coimbra/sumario=Aniversário a celebrar por alma de Mestre Gonçalo, médico do rei D. Dinis, por doação de duas libras à Igreja de Santiago e de propriedades em Coselhas à Sé de Coimbra.
+
+WARNING: Livro das Kalendas Tomo1.cli line 3 Element value exceeds database field length: loc=publicado em Pierre David e Torquato de Sousa Soares, Liber anniversariorum ecclesiae cathedralis Colimbriensis : livro das kalendas,Tomo I, Coimbra: Faculdade de Letras da Universidade de Coimbra, 1947-1948.. Size:208 limit: 64
+Near lines: 3 Near lines: 4 inscricao$kalendas_laecc1101/11/01/9999/tipo=aniversario/fol=Livro das Kalendas, fl.11 (p.36)/loc=Coimbra/sumario=Aniversário a celebrar por alma de Mestre Gonçalo, médico do rei D. Dinis, por doação de duas libras à Igreja de Santiago e de propriedades em Coselhas à Sé de Coimbra.
+6: inscricao$kalendas_laecc1101
+39: inscricao$kalendas_laecc1502
+58: inscricao$kalendas_laecc0302
+77: inscricao$kalendas_laecc1003
+104: inscricao$kalendas_laecc1204
+126: inscricao$kalendas_laecc1905
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo1.cli
+** Original file- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo1.org
+** Previous version- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo1.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/Livro das Kalendas Tomo1.ids
+0  errors. 
+2  warnings.
+Translation finished.

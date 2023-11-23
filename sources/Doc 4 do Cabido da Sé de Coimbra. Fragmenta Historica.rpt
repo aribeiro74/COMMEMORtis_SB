@@ -1,0 +1,38 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+17-7-2023 16-20
+
+Processing data file Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$CabidoSCoimbra_csc
+
+WARNING: Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.cli line 3 * Warning: Filename should match source Id to avoid errors. File: Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica Id: CabidoSCoimbra_csc.
+Near lines: 3 Near lines: 4 escritura$cabidosecoimbra1258/00/02/1258/tipo=compraevenda/fol=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(Transcrito por Saúl Gomes, Fragmenta Historica)/loc=Coimbra/sumario=Venda que fizeram Fernando Fernandes Cogominho e sua mulher, Joana Dias, com Maior Dias, soror de Santa Cruz, e com Teresa Dias, monja de Celas da Ponte, a D. Boa, mãe das vendedoras, dos quinhões que haviam herdado, por morte do pai, Vicente Dias, nuns lagares de azeite situados no subúrbio de Coimbra, na paróquia de S. Bartolomeu desta cidade.
+
+WARNING: Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.cli line 3 Element value exceeds database field length: loc=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(publicado João José Alves Dias, Fragmenta Historica História, Paleografia e Diplomática. N. 10 (2022) ). Size:178 limit: 64
+Near lines: 3 Near lines: 4 escritura$cabidosecoimbra1258/00/02/1258/tipo=compraevenda/fol=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(Transcrito por Saúl Gomes, Fragmenta Historica)/loc=Coimbra/sumario=Venda que fizeram Fernando Fernandes Cogominho e sua mulher, Joana Dias, com Maior Dias, soror de Santa Cruz, e com Teresa Dias, monja de Celas da Ponte, a D. Boa, mãe das vendedoras, dos quinhões que haviam herdado, por morte do pai, Vicente Dias, nuns lagares de azeite situados no subúrbio de Coimbra, na paróquia de S. Bartolomeu desta cidade.
+6: escritura$cabidosecoimbra1258
+
+WARNING: Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.cli line 5 Element value exceeds database field length: fol=Torre do Tombo, Cabido da Sé de Coimbra, 1ª incorporação, maço 16, doc. 4.(Transcrito por Saúl Gomes, Fragmenta Historica). Size:122 limit: 64
+Near lines: 5 Near lines: 6         vendedor$Fernando Fernandes Cogominho/id=cabidosecoimbra1258-FFCogominho
+*** End of File
+
+
+** Processed file- /kleio-home/sources/commersb/sources/Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.cli
+** Original file- /kleio-home/sources/commersb/sources/Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.org
+** Previous version- /kleio-home/sources/commersb/sources/Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.old
+** Temp file with ids- /kleio-home/sources/commersb/sources/Doc 4 do Cabido da Sé de Coimbra. Fragmenta Historica.ids
+0  errors. 
+3  warnings.
+Translation finished.

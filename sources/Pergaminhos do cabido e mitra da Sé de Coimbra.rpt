@@ -1,0 +1,44 @@
+KleioTranslator - server version 10.15 - build 443 (MHK: 2046/mariadb) (2022-01-20 14:25:22, MHK: 02/02/2022 19:03 )
+30-3-2023 9-15
+
+Processing data file Pergaminhos do cabido e mitra da Sé de Coimbra.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: 
+Translation count not set or invalid, counting as zero: 
+** Processing source fonte$pergaminhos_cmsecoimbra
+
+WARNING: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 3 * Warning: Filename should match source Id to avoid errors. File: Pergaminhos do cabido e mitra da Sé de Coimbra Id: pergaminhos_cmsecoimbra.
+Near lines: 3 Near lines: 4 escritura$cmsecoimbra_1406/14/06/1284/carta de escambo/loc=Arquivo da Universidade de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6/sumario=D. Estefânia troca com Pedro Aparício e sua esposa, Maria Domingues, uma vinha em Coselhas por um sobrado na freguesia de S. Bartolomeu e dez libras portuguesas.
+
+WARNING: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 3 Element value exceeds database field length: loc=Arquivo da Universidade de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6; AUC, dep.V, 3 sec., mov., gav.3, n 87.. Size:108 limit: 64
+Near lines: 3 Near lines: 4 escritura$cmsecoimbra_1406/14/06/1284/carta de escambo/loc=Arquivo da Universidade de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6/sumario=D. Estefânia troca com Pedro Aparício e sua esposa, Maria Domingues, uma vinha em Coselhas por um sobrado na freguesia de S. Bartolomeu e dez libras portuguesas.
+6: escritura$cmsecoimbra_1406
+
+WARNING: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 5 Element value exceeds database field length: loc=Arquivo da Universidade de Coimbra, dep.V, 3 sec., mov.1, gav. 1, n6. Size:68 limit: 64
+Near lines: 5 Near lines: 6 escambadora$Estefania/id=cmsecoimbra1284-destefania
+
+ERROR: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 10 *** Current group escamabdora cannot be linked with previous group escambador(cmsecoimbra1284-paparicio)
+Near lines: 10 Near lines: 11 escamabdora$Maria Domingues/id=cmsecoimbra1284-mdomingues
+
+ERROR: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 10 ***escamabdora group not stored.
+Near lines: 10 Near lines: 11 escamabdora$Maria Domingues/id=cmsecoimbra1284-mdomingues
+32: escritura$cmsecoimbra_1904
+
+WARNING: Pergaminhos do cabido e mitra da Sé de Coimbra.cli line 31 Element value exceeds database field length: loc=Arquivo da Universidade de Coimbra,dep.V, 3 sec., mov., gav.3, n 87. Size:67 limit: 64
+Near lines: 31 Near lines: 32 senhorio$Cabido da Se de Coimbra/id=cmsecoimbra1363-cabido
+*** End of File
+
+
+2  errors. 
+4  warnings.
+Translation finished.
