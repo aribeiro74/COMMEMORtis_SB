@@ -1,0 +1,23 @@
+KleioTranslator - server version 12.0 - build 541 (MHK: 2232/master) (2023-07-04 04:34:23, MHK: 05/08/2023 05:15 )
+11-12-2023 9-7
+
+Processing data file mhk_identification_commersb.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto2.str
+Prefix: 
+Autorel: 
+Translation count: 
+Obs: Generated from database commersb by user commersb, file date: +2023-12-07 Timestamp:2023-12-07T09:05:28.123Z
+Translation count not set or invalid, counting as zero: 
+** Processing authority register identifications$real-entities-commersb
+** Processing rperson record rperson$rp-238
+
+ERROR: mhk_identification_commersb.cli line 11 Unexpected error during translationerror(type_error(atomic,[commersb]),context(sgml:xml_quote_attribute/3,_711062))
+Near lines: 11          occ$sbartsent1308.1.sbart-per6
+

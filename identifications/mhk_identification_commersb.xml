@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<KLEIO STRUCTURE="/kleio-home/system/conf/kleio/stru/gacto2.str" SOURCE="/kleio-home/sources/commersb/identifications/mhk_identification_commersb.cli" TRANSLATOR="gactoxml2.str" WHEN="2023-12-11 9:7:10" OBS="Generated from database commersb by user commersb, file date: +2023-12-07 Timestamp:2023-12-07T09:05:28.123Z" SPACE="">
+<CLASS NAME="aregister" SUPER="entity" TABLE="aregisters" GROUP="identifications">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="date" COLUMN="the_date" CLASS="date" TYPE="varchar" SIZE="24" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="name" COLUMN="name" CLASS="name" TYPE="varchar" SIZE="254" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="dbase" COLUMN="dbase" CLASS="dbase" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="mode" COLUMN="replace_mode" CLASS="mode" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+
+<GROUP ID="real-entities-commersb" NAME="identifications" CLASS="aregister" ORDER="1" LEVEL="1" LINE="9">
+    <ELEMENT NAME="line" CLASS="line"><core>9</core></ELEMENT>
+    <ELEMENT NAME="id" CLASS="id"><core>real-entities-commersb</core></ELEMENT>
+    <ELEMENT NAME="groupname" CLASS="groupname"><core>identifications</core></ELEMENT>
+   <ELEMENT NAME="inside" CLASS="inside"><core>root</core></ELEMENT>
+   <ELEMENT NAME="class" CLASS="class"><core>aregister</core></ELEMENT>
+    <ELEMENT NAME="order" CLASS="order"><core>1</core></ELEMENT>
+    <ELEMENT NAME="level" CLASS="level"><core>1</core></ELEMENT>
+   <ELEMENT NAME="name" CLASS="name">
+         <core><![CDATA[Real entities, including real persons and real objects]]></core>   </ELEMENT>
+   <ELEMENT NAME="dbase" CLASS="dbase">
+         <core><![CDATA[commersb]]></core>   </ELEMENT>
+   <ELEMENT NAME="user" CLASS="user">
+         <core><![CDATA[commersb]]></core>   </ELEMENT>
+   <ELEMENT NAME="date" CLASS="date">
+         <core><![CDATA[20231207]]></core>   </ELEMENT>
+   <ELEMENT NAME="mode" CLASS="mode">
+         <core><![CDATA[backup]]></core>   </ELEMENT>
+</GROUP>
+<CLASS NAME="rentity" SUPER="entity" TABLE="rentities" GROUP="rentity">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="the_class" COLUMN="the_class" CLASS="the_class" TYPE="varchar" SIZE="32" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="description" COLUMN="description" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="status" COLUMN="status" CLASS="status" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+</CLASS>
+<CLASS NAME="rperson" SUPER="rentity" TABLE="rpersons" GROUP="rperson">
+     <ATTRIBUTE NAME="id" COLUMN="id" CLASS="id" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="1" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="seq" COLUMN="seq" CLASS="seq" TYPE="int" SIZE="10" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sname" COLUMN="sname" CLASS="name" TYPE="varchar" SIZE="128" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="user" COLUMN="user" CLASS="user" TYPE="varchar" SIZE="64" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="status" COLUMN="status" CLASS="status" TYPE="varchar" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="sex" COLUMN="sex" CLASS="sex" TYPE="varchar" SIZE="1" PRECISION="0" PKEY="0" ></ATTRIBUTE>
+     <ATTRIBUTE NAME="obs" COLUMN="obs" CLASS="obs" TYPE="varchar" SIZE="16654" PRECISION="0" PKEY="0" ></ATTRIBUT
