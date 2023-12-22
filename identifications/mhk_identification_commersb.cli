@@ -1,9 +1,9 @@
-kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by user commersb, file date: +2023-12-07 Timestamp:2023-12-07T09:05:28.123Z
+kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by user commersb, file date: +2023-12-12 Timestamp:2023-12-12T14:07:33.319Z
 
    identifications$real-entities-commersb/Real entities, including real persons and real objects
       /dbase=commersb
       /user=commersb
-      /date=20231207
+      /date=20231212
       /mode=backup
 
       rperson$rp-238/Afonso Anes/m/status=N
@@ -146,6 +146,12 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-428/Afonso Simões/m/status=N
          occ$csbartolomeu.test13041376-asimoes
          occ$csbartolomeu.test13041376_a-asimoes
+
+      rperson$rp-330/Afonso Tripeiro/m/status=N
+
+      rperson$rp-340/Afonso Tripeiro/m/status=N
+
+      rperson$rp-372/Afonso Tripeiro/m/status=N
 
       rperson$rp-121/Aimeric/m/status=N/obs=dá autorização
          occ$sbartesc1291.1-per1
@@ -338,6 +344,16 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartemp1374.1.bartolomeu
          occ$sbartolomeu-bmartins/obs=WARNING: Occurrence missing
 
+      rperson$rp-350/Beatriz Gonçalves/f/status=N
+
+      rperson$rp-381/Beatriz Gonçalves/f/status=N
+
+      rperson$rp-309/Boa/f/status=N
+
+      rperson$rp-334/Boa/f/status=N
+
+      rperson$rp-368/Carvalhais/m/status=N
+
       rperson$rp-29/Catarina Anes/f/status=N
          occ$csbartolomeu20011381-canes
          occ$CSBC-obituario_csbc0408-CAnes
@@ -345,6 +361,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$CSBC-obituario_csbc1412-CAnes
          occ$CSBC-obituario_csbc1811-CAnes
          occ$CSBC-obituario_csbc2401-CAnes
+
+      rperson$rp-364/Catarina Domingues/f/status=N
 
       rperson$rp-56/Catarina Esteves/f/status=N
          occ$csbartolomeu03031379_a-cesteves
@@ -864,6 +882,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$CSBC-obituario_csbc0608-DCarvalhais
          occ$CSBC-obituario_csbc1308-DCarvalhais
 
+      rperson$rp-122/Domingos Domingues/m/status=N
+
       rperson$rp-239/Domingos Domingues/m/status=N
          occ$sbartdoa1337.1.sbart-per5
          occ$sbartemp1348.1-per5
@@ -935,6 +955,12 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-353/Egido Vicente/m/status=N
          occ$cmsecoimbra_1406-per1
          occ$CSBC-testamento.1285.EgidoVicente
+
+      rperson$rp-310/Elvira Salvado/f/status=N
+
+      rperson$rp-338/Elvira Salvado/f/status=N
+
+      rperson$rp-370/Elvira Salvado/f/status=N
 
       rperson$rp-189/Estácio Anes/m/status=N
          occ$sbartemp1369.4.estacio
@@ -1019,6 +1045,10 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartpf1357.1-per5
          occ$sbartsent1357.2.sbart-per6
 
+      rperson$rp-214/Estevão vicente/m/status=N
+
+      rperson$rp-216/Estevão vicente/m/status=N
+
       rperson$rp-375/Estêvão Vicente/m/status=N
          occ$CSBC-obituario_csbc1110-EVicente
          occ$CSBC-obituario_csbc1410-EVicente
@@ -1038,6 +1068,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$CSBC-obituario_csbc3005-FBuceta
          occ$CSBC-obituario_csbc3010-FBuceta
          occ$sbartsent1266.1.Fernando
+
+      rperson$rp-57/Fernando/m/status=N
 
       rperson$rp-377/Fernando Rodrigues/t/status=N
          occ$CSBC-testamento.1285.FRodrigues
@@ -1115,6 +1147,14 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-191/Francisco Rodrigues/m/status=N
          occ$sbartemp1363.3-per8
          occ$sbartemp1369.4-per6
+
+      rperson$rp-100/Froia/m/status=N
+
+      rperson$rp-220/Froia/m/status=N
+
+      rperson$rp-221/Froia/m/status=N
+
+      rperson$rp-99/Froia/m/status=N
 
       rperson$rp-446/Garcia Martins/m/status=N
          occ$csbartolomeu.ren03031379-gmartins
@@ -1309,6 +1349,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-111/igreja de S. Bartolomeu/m/status=N/obs=os raçoeiros de S. Bartolomeu
          occ$sbartsent1306.1.sbart
 
+      rperson$rp-351/Inês Afonso/f/status=N
+
       rperson$rp-316/Inês Gonçalves/f/status=N
          occ$csbartolomeu20011381-filha
          occ$CSBC-obituario_csbc0408-IGonçalves
@@ -1325,6 +1367,22 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
 
       rperson$rp-98/Isabel/m/status=N
          occ$CSBC-obituario_csbc1105-RainhaIsabel
+
+      rperson$rp-252/Isabel Vicente/f/status=N
+
+      rperson$rp-253/Isabel Vicente/f/status=N
+
+      rperson$rp-254/Isabel Vicente/f/status=N
+
+      rperson$rp-307/Joana Dias/f/status=N
+
+      rperson$rp-318/Joana Dias/f/status=N
+
+      rperson$rp-329/Joana Dias/f/status=N
+
+      rperson$rp-362/Joana Dias/f/status=N
+
+      rperson$rp-379/Joana Dias/f/status=N
 
       rperson$rp-131/Joana Rodrigues/m/status=N
          occ$CSBC-obituario_csbc0205-AMartins
@@ -1520,6 +1578,10 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartolomeu.tab1004-jesteves/obs=WARNING: Occurrence missing
          occ$sbartolomeu1001-jesteves
 
+      rperson$rp-279/João Garcia/m/status=N
+
+      rperson$rp-284/João Garcia/m/status=N
+
       rperson$rp-250/João Gil/m/status=N
          occ$csbartolomeu.ref21051388-jgil
          occ$csbartolomeu.test14041379-jgil
@@ -1595,6 +1657,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartsent1351.1-per1
          occ$sbartsent1356.1-per1
 
+      rperson$rp-244/Justa/f/status=N
+
       rperson$rp-70/Justa/m/status=N
          occ$CSBC-obituario_csbc1404-DJusta
          occ$CSBC-obituario_csbc2306-DJusta
@@ -1612,6 +1676,12 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
 
       rperson$rp-138/Legundia Pais/m/status=N
          occ$sbartcv1126.1.goldrego
+
+      rperson$rp-308/Leonor Afonso/f/status=N
+
+      rperson$rp-344/Leonor Afonso/f/status=N
+
+      rperson$rp-371/Leonor Afonso/f/status=N
 
       rperson$rp-204/Lourenço Esteves/m/status=N
          occ$CSBC-obituario_csbc1612-LEsteves
@@ -1641,14 +1711,26 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartolomeu.ref.0412-ldomingues
          occ$sbartolomeu.test.0412-ldomingues
 
+      rperson$rp-367/Luis Gonçalves/m/status=N
+
+      rperson$rp-382/Luis Gonçalves/m/status=N
+
       rperson$rp-207/M Peres/m/status=N
          occ$sbartcomp1210.1-per4
          occ$sbartcomp1223.1-per3
+
+      rperson$rp-319/Mafalda Peres/f/status=N
+
+      rperson$rp-475/Maior Dias/f/status=N
 
       rperson$rp-18/Margarida Anes/f/status=N
          occ$CSBC-obituario_csbc0409_a-MAnes
          occ$CSBC-obituario_csbc0504-MAnes
          occ$CSBC-obituario_csbc0603-MAnes
+
+      rperson$rp-262/Margarida Anes/f/status=N
+
+      rperson$rp-263/Margarida Anes/f/status=N
 
       rperson$rp-359/Margarida Anes/f/status=N
          occ$CSBC-obituario_csbc0108-MAnes
@@ -2034,6 +2116,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartolomeu.ref.2202-pafonso/obs=WARNING: Occurrence missing
          occ$sbartolomeu.ref2202-pafonso/obs=WARNING: Occurrence missing
 
+      rperson$rp-345/Pedro Afonso/m/status=N
+
       rperson$rp-357/Pedro Afonso/m/status=N
          occ$sbartolomeu.tab.0203_a-pafonso
          occ$sbartolomeu.tab.0412-pafonso
@@ -2096,6 +2180,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartolomeu.test25011383-pesteves
          occ$sbartolomeu25011383-pesteves
 
+      rperson$rp-369/Pedro Guilherme/m/status=N
+
       rperson$rp-396/Pedro Lourenço/m/status=N
          occ$CSBC-obituario_csbc1502-PLourenço
          occ$sbartcomp1210.1-per9
@@ -2138,6 +2224,8 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-363/Pedro Vicente/m/status=N
          occ$sbartolomeu1012-pvicente
          occ$sbartolomeu1906-pvicente
+
+      rperson$rp-218/Pero Martins/m/status=N
 
       rperson$rp-170/Perote/m/status=N
          occ$sbartemp1363.3-per2-per5
@@ -2258,6 +2346,10 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
          occ$sbartolomeu0707-rbeltraes/obs=WARNING: Occurrence missing
          occ$sbartolomeub-0707-rbeltraes
          occ$sbartren1369.3.sbart-per1
+
+      rperson$rp-124/Rui/m/status=N/obs=dúvida de leitura
+
+      rperson$rp-219/Rui/m/status=N/obs=dúvida de leitura
 
       rperson$rp-283/Rui Martins/m/status=N
          occ$sbartolomeu.ref0203_a-rmartins/obs=WARNING: Occurrence missing
@@ -2437,6 +2529,10 @@ kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by 
       rperson$rp-92/Vicente Bento/m/status=N
          occ$CSBC-obituario_csbc1810-Desconhecido
          occ$CSBC-obituario_csbc1810-VBento
+
+      rperson$rp-276/Vicente Dias/m/status=N/obs=à morte do pai foi realizada a venda dos lagares
+
+      rperson$rp-365/Vicente Dias/m/status=N/obs=à morte do pai foi realizada a venda dos lagares
 
       rperson$rp-129/Vicente Domingues/m/status=N
          occ$sbartaf1362.1.domingos
