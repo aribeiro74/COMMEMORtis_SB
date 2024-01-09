@@ -6,3 +6,5 @@ sources/.kleio/logs/kleio_service.log
 database/sqlite/timelink.sqlite
 
 .db_status
+notebooks/.venv
+notebooks/__pycache__
