@@ -8,9 +8,9 @@ To be able to run notebooks you need to install the Python VSCode extension and 
 
 To install the Python extension check https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-## Install aditional packages for timelink-mhk interaction
+## Install additional packages for timelink-mhk interaction
 
-In addition to the base instalation of Python, some specific packages are needed
+In addition to the base installation of Python, some specific packages are needed
 to interact with ``timelink-mhk``. The packages handle sql queries, reading MHK
 configuration files, and various auxiliary functions.
 
