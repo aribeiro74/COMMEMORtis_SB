@@ -1,0 +1,2574 @@
+kleio$gacto2.str/translator=authorities/obs=Generated from database commersb by user commersb, file date: +2023-12-12 Timestamp:2023-12-12T14:07:33.319Z
+
+   identifications$real-entities-commersb/Real entities, including real persons and real objects
+      /dbase=commersb
+      /user=commersb
+      /date=20231212
+      /mode=backup
+
+      rperson$rp-238/Afonso Anes/m/status=N
+         occ$sbartdoa1337.1.sbart-per2
+         occ$sbartsent1308.1.sbart-per6
+
+      rperson$rp-354/Afonso Anes/m/status=N
+         occ$csbartolomeu.tab02061375-aanes
+         occ$csbartolomeu.tab13041376-aanes
+         occ$csbartolomeu.tab13041376_a-aanes
+         occ$csbartolomeu.tab1374-aanes
+         occ$csbartolomeu.tab20081375-aanes
+         occ$csbartolomeu.tab21051388-aanes
+         occ$csbartolomeu.tab24081377-aanes
+         occ$sbartemp1374.2-per3
+         occ$sbartolomeu.tab.1001-aanes
+         occ$sbartolomeu.tab.2502-aanes
+         occ$sbartolomeu.tab1001-aanes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2502-aanes/obs=WARNING: Occurrence missing
+
+      rperson$rp-406/Afonso Anes/m/status=N
+         occ$sbartolomeu.ref.3011-aanes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref3011-aanes/obs=WARNING: Occurrence missing
+
+      rperson$rp-421/Afonso Anes/m/status=N
+         occ$csbartolomeu.ref25101389-aanes
+         occ$sbartemp1368.1-per5
+
+      rperson$rp-398/Afonso Domingues/m/status=N
+         occ$csbartolomeu.test03031379-adomingues
+         occ$CSBC-obituario_csbc0211-ADomingues
+         occ$CSBC-obituario_csbc1712-Domingues
+         occ$CSBC-obituario_csbc2406-ADomingues
+         occ$CSBC-obituario_csbc2507-ADomingues
+         occ$CSBC-obituario_csbc2512-desconhecido
+         occ$CSBC-obituario_csbc3103_a-ADomingues
+         occ$sbartolomeu.ref.0112-adomingues
+         occ$sbartolomeu.ref.1012-adomingues
+         occ$sbartolomeu.ref.2002-adomingues
+
+      rperson$rp-423/Afonso Domingues/m/status=N
+         occ$csbartolomeu.tab09021389-adomingues
+         occ$csbartolomeu.tab22101386-adomingues
+
+      rperson$rp-236/Afonso Esteves/m/status=N
+         occ$sbarsent1368.1.sbart-per4
+         occ$sbartemp1368.1.sbart-per1
+         occ$sbartren1369.3.maria-per4
+
+      rperson$rp-408/Afonso Esteves/m/status=N
+         occ$sbartolomeu.test.0503-aesteves
+         occ$sbartolomeu.test.0503-afonsoesteves
+         occ$sbartolomeu.test0503-aesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0503-afonsoesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu0809-aesteves
+
+      rperson$rp-280/Afonso Lopes/m/status=N
+         occ$sbartolomeu.ref0607-alopes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1901-alopes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2309-alopes/obs=WARNING: Occurrence missing
+
+      rperson$rp-426/Afonso Lopes/m/status=N
+         occ$sbartolomeu.ref.0607-alopes
+         occ$sbartolomeu.ref.1901-alopes
+         occ$sbartolomeu.ref.2309-alopes
+
+      rperson$rp-171/Afonso Martins/m/status=N
+         occ$sbarsent1368.1.afonso
+         occ$sbartav1363.1-per1
+         occ$sbartemp1365.1-per6
+
+      rperson$rp-255/Afonso Martins/m/status=N
+         occ$sbartdoa1360.1-per7
+         occ$sbartemp1363.2-per4
+         occ$sbartolomeu.ref0503-amartins/obs=WARNING: Occurrence missing
+         occ$sbartproc1369.1.martins
+
+      rperson$rp-281/Afonso Martins/m/status=N
+         occ$sbartolomeu.ref0203_a-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0407-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0712-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0812-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1906-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2105-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2201-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0707-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1012-amartins/obs=WARNING: Occurrence missing
+
+      rperson$rp-392/Afonso Martins/m/status=N
+         occ$sbartolomeu.ref.0203_a-amartins
+         occ$sbartolomeu.ref.0407-amartins
+         occ$sbartolomeu.ref.0712-amartins
+         occ$sbartolomeu.ref.0812-amartins
+         occ$sbartolomeu.ref.1012_a-amartins
+         occ$sbartolomeu.ref.1906-amartins
+         occ$sbartolomeu.ref.2105-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.2201-amartins
+         occ$sbartolomeu.refb.2105b-amartins
+         occ$sbartolomeu.test.0707-amartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test.1012-amartins
+         occ$sbartolomeu.testb.0707-amartins
+
+      rperson$rp-420/Afonso Martins/m/status=N
+         occ$CSBC-obituario_csbc0111_b-AMartins
+         occ$kalendas_laecc1311-AMartins
+
+      rperson$rp-264/Afonso Peres/m/status=N
+         occ$sbartolomeu.test0505-aperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test3009-aperes/obs=WARNING: Occurrence missing
+
+      rperson$rp-347/Afonso Peres/m/status=N
+         occ$CSBC-obituario_csbc.2801-APeres
+         occ$CSBC-obituario_csbc0707-APeres
+         occ$CSBC-obituario_csbc1510-APeres
+         occ$CSBC-obituario_csbc1902-APeres
+
+      rperson$rp-39/Afonso Peres/m/status=N
+         occ$CSBC-obituario_csbc0106-APeres
+         occ$CSBC-obituario_csbc1205-APeres
+         occ$CSBC-obituario_csbc1301-APeres
+         occ$CSBC-obituario_csbc1304_a-APeres
+         occ$CSBC-obituario_csbc2505-APeres
+         occ$CSBC-obituario_csbc3004_a-APeres
+
+      rperson$rp-410/Afonso Peres/m/status=N
+         occ$csbartolomeu.test02061375-aperes
+         occ$sbartolomeu.test.0505-aperes
+         occ$sbartolomeu.test.3009-aperes
+
+      rperson$rp-422/Afonso Peres/m/status=N
+         occ$CSBC-obituario_csbc1401-APeres
+         occ$CSBC-obituario_csbc2304-APeres
+
+      rperson$rp-172/Afonso Rodrigues/m/status=N
+         occ$sbartdoa1360.1-per5
+         occ$sbartemp1357.1-per6
+         occ$sbartemp1357.2-per6
+
+      rperson$rp-428/Afonso Simões/m/status=N
+         occ$csbartolomeu.test13041376-asimoes
+         occ$csbartolomeu.test13041376_a-asimoes
+
+      rperson$rp-330/Afonso Tripeiro/m/status=N
+
+      rperson$rp-340/Afonso Tripeiro/m/status=N
+
+      rperson$rp-372/Afonso Tripeiro/m/status=N
+
+      rperson$rp-121/Aimeric/m/status=N/obs=dá autorização
+         occ$sbartesc1291.1-per1
+         occ$sbartsent1306.1-per3
+         occ$sbartsent1308.1-per2
+
+      rperson$rp-9/Alda Roseta/f/status=N
+         occ$CSBC-obituario_csbc0704-ARoseta
+         occ$CSBC-obituario_csbc0812-ARoseta
+         occ$CSBC-obituario_csbc0908-ARoseta
+         occ$CSBC-obituario_csbc1701-ARoseta
+         occ$CSBC-obituario_csbc1702-ARoseta
+         occ$CSBC-obituario_csbc1705-ARoseta
+         occ$CSBC-obituario_csbc1807-ARoseta
+         occ$CSBC-obituario_csbc1911-ARoseta
+         occ$CSBC-obituario_csbc2309-ARoseta
+
+      rperson$rp-13/Alva/f/status=N
+         occ$CSBC-obituario_csbc2708-DAlva
+         occ$CSBC-obituario_csbc2808-DAlva
+
+      rperson$rp-181/Álvaro/m/status=N
+         occ$sbartpf1357.1-per2
+         occ$sbartsent1357.2-per3-per4
+
+      rperson$rp-115/Álvaro Afonso/m/status=N
+         occ$sbartemp1349.1-per5
+
+      rperson$rp-300/Álvaro Afonso/m/status=N
+         occ$csbartolomeu.test1374-aafonso
+         occ$csbartolomeu1374-aafonso
+         occ$sbartemp1374.2-per5
+         occ$sbartolomeu.test.0503-aafonso
+         occ$sbartolomeu.test.3009-aafonso
+         occ$sbartolomeu.test0407-aafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0503-aafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0812-aafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test3009-aafonso/obs=WARNING: Occurrence missing
+
+      rperson$rp-424/Álvaro Afonso/m/status=N
+         occ$sbartolomeu.test.0407-aafonso
+         occ$sbartolomeu.test.0812-aafonso
+
+      rperson$rp-429/Álvaro Martins/m/status=N
+         occ$csbartolomeu.tab08101389-amartins
+         occ$sbartolomeu.tab.0804-amartins
+
+      rperson$rp-299/Álvaro Vasques/m/status=N
+         occ$sbartolomeu.ref0407-avasques/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-avasques/obs=WARNING: Occurrence missing
+
+      rperson$rp-425/Álvaro Vasques/m/status=N
+         occ$csbartolomeu.test30111382-avasques
+         occ$csbartolomeu28101384-avasques
+         occ$sbartolomeu.ref.0407-avasques
+         occ$sbartolomeu.ref.1012_a-avasques
+
+      rperson$rp-40/André/m/status=N
+         occ$CSBC-obituario_csbc0101-Andre
+         occ$CSBC-obituario_csbc0610-DAndre
+         occ$CSBC-obituario_csbc2408-DAndré
+         occ$kalenda_laecc1502-DAndré
+
+      rperson$rp-182/Andre Anes/m/status=N
+         occ$sbartcon1366.1.sbart-per6
+         occ$sbartpos1369.2.sbart-per2
+
+      rperson$rp-180/André Esteves/m/status=N
+         occ$CSBC-obituario_csbc1009-AEsteves
+         occ$CSBC-obituario_csbc1909-AEsteves
+         occ$sbart1366.1-per1
+         occ$sbartcon1366.1.sbart-per3
+         occ$sbartdoa1366.1.andre
+         occ$sbartpf1357.1-per7
+         occ$sbartproc1348.1.andre
+
+      rperson$rp-22/Andre Martins/m/status=N
+         occ$CSBC-obituario_csbc0907-AMartins
+         occ$CSBC-obituario_csbc2608-AMartins
+
+      rperson$rp-427/André Peres/m/status=N
+         occ$sbartdoa1335.1-per8
+         occ$sbartsent1333.1.andre
+
+      rperson$rp-282/André Vicente/m/status=N
+         occ$sbartolomeu1012-avicente
+         occ$sbartolomeu1012_a-avicente
+         occ$sbartolomeu2201-avicente
+
+      rperson$rp-416/André Vicente/m/status=N
+         occ$csbartolomeu22101386-avicente
+         occ$sbartolomeu.ref.0804-avicente
+
+      rperson$rp-226/aniversário de Afonso Peres e Maria Gonçalves/m/status=N
+         occ$CSBC-ani_obituario_csbc1205
+         occ$CSBC-ani_obituario_csbc1304_a
+         occ$CSBC-ani_obituario_csbc3004_a
+
+      rperson$rp-225/aniversário de Alda Roseta/m/status=N
+         occ$CSBC-ani_obituario_csbc0704
+         occ$CSBC-ani_obituario_csbc0812
+         occ$CSBC-ani_obituario_csbc0908
+         occ$CSBC-ani_obituario_csbc1701
+         occ$CSBC-ani_obituario_csbc1702
+         occ$CSBC-ani_obituario_csbc1705
+         occ$CSBC-ani_obituario_csbc1807
+         occ$CSBC-ani_obituario_csbc1911
+         occ$CSBC-ani_obituario_csbc2309
+
+      rperson$rp-227/aniversário de Catarina Anes e Inês Gonçalves/m/status=N
+         occ$CSBC-ani_obituario_csbc0408
+         occ$CSBC-ani_obituario_csbc0906
+         occ$CSBC-ani_obituario_csbc1412
+         occ$CSBC-ani_obituario_csbc1811
+         occ$CSBC-ani_obituario_csbc2401
+
+      rperson$rp-228/aniversário de Domingas Anes/m/status=N
+         occ$CSBC-ani_obituario_csbc0102_b
+         occ$CSBC-ani_obituario_csbc0611
+         occ$CSBC-ani_obituario_csbc0709_b
+         occ$CSBC-ani_obituario_csbc1408_c
+         occ$CSBC-ani_obituario_csbc1712_a
+         occ$CSBC-ani_obituario_csbc2108_a
+         occ$CSBC-ani_obituario_csbc2403_a
+
+      rperson$rp-233/aniversário de Domingas Peres/m/status=N
+         occ$CSBC-ani_obituario_csbc1206
+         occ$CSBC-ani_obituario_csbc2604
+         occ$CSBC-ani_obituario_csbc2904_a
+
+      rperson$rp-229/aniversário de Domingos António/m/status=N
+         occ$CSBC-ani_obituario_csbc0108_a
+         occ$CSBC-ani_obituario_csbc2307
+         occ$CSBC-ani_obituario_csbc2405
+         occ$CSBC-ani_obituario_csbc2501
+         occ$CSBC-ani_obituario_csbc2506
+         occ$CSBC-ani_obituario_csbc2702
+         occ$CSBC-ani_obituario_csbc2901
+
+      rperson$rp-232/aniversário de Domingos Domingues/m/status=N
+         occ$CSBC-ani_obituario_csbc0403
+         occ$CSBC-ani_obituario_csbc2812
+
+      rperson$rp-231/aniversário de Domingos Migueis/m/status=N
+         occ$CSBC-ani_obituario_csbc0502
+         occ$CSBC-ani_obituario_csbc1401
+         occ$CSBC-ani_obituario_csbc2203
+         occ$CSBC-ani_obituario_csbc2304
+
+      rperson$rp-230/aniversário de Estêvão e Maria Anes/m/status=N
+         occ$CSBC-ani_obituario_csbc1606
+         occ$CSBC-ani_obituario_csbc2409
+         occ$CSBC-ani_obituario_csbc2607
+         occ$CSBC-ani_obituario_csbc3105
+
+      rperson$rp-430/António Bartolomeu/m/status=N
+         occ$csbartolomeu1375-abartolomeu
+         occ$csbartolomeu18041375-abartolomeu
+
+      rperson$rp-1/António Garcia/m/status=N
+         occ$CSBC-obituario_csbc1112-AGarcia
+         occ$CSBC-obituario_csbc2211-AGarcia
+
+      rperson$rp-43/António Garcia/m/status=N
+         occ$csbartolomeu.ref25101389-agarcia
+         occ$CSBC-obituario_csbc0107-AGarcia
+         occ$CSBC-obituario_csbc2701-AGarcia
+         occ$CSBC-obituario_csbc2707-AGarcia
+         occ$sbartcon1366.1.sbart-per2
+         occ$sbartemp1357.1.antao
+         occ$sbartolomeu.ref.3011b-agarcia
+         occ$sbartolomeub-2202-agarcia
+         occ$sbartpos1363.1.sbart-per1
+
+      rperson$rp-296/Aparício Domingues/m/status=N
+         occ$csbartolomeu.test23041378-adomingues
+         occ$CSBC-obituario_csbc0709_b-ADomingues
+         occ$CSBC-obituario_csbc0712-ADomingues
+         occ$CSBC-obituario_csbc1408_c-ADomingues
+         occ$CSBC-obituario_csbc1712_a-ADomingues
+         occ$CSBC-obituario_csbc2108_ad
+         occ$CSBC-obituario_csbc2403_a-ADomingues
+         occ$CSBC-obituario_cscbc0102_b-ADomingues
+
+      rperson$rp-28/Aragundes/f/status=N
+         occ$CSBC-obituario_csbc0111_a-DAragundes
+         occ$CSBC-obituario_csbc1211-DAragundes
+
+      rperson$rp-335/Bartolomeu Martins/m/status=N
+         occ$sbartemp1374.1.bartolomeu
+         occ$sbartolomeu-bmartins/obs=WARNING: Occurrence missing
+
+      rperson$rp-350/Beatriz Gonçalves/f/status=N
+
+      rperson$rp-381/Beatriz Gonçalves/f/status=N
+
+      rperson$rp-309/Boa/f/status=N
+
+      rperson$rp-334/Boa/f/status=N
+
+      rperson$rp-368/Carvalhais/m/status=N
+
+      rperson$rp-29/Catarina Anes/f/status=N
+         occ$csbartolomeu20011381-canes
+         occ$CSBC-obituario_csbc0408-CAnes
+         occ$CSBC-obituario_csbc0906-CAnes
+         occ$CSBC-obituario_csbc1412-CAnes
+         occ$CSBC-obituario_csbc1811-CAnes
+         occ$CSBC-obituario_csbc2401-CAnes
+
+      rperson$rp-364/Catarina Domingues/f/status=N
+
+      rperson$rp-56/Catarina Esteves/f/status=N
+         occ$csbartolomeu03031379_a-cesteves
+         occ$CSBC-obituario_csbc1404_a-CEsteves
+         occ$CSBC-obituario_csbc2310-CEsteves
+
+      rperson$rp-336/Catarina Gonçalves/m/status=N
+         occ$sbartemp1368.1-per2
+         occ$sbartolomeu2201-cgoncalves/obs=WARNING: Occurrence missing
+
+      rperson$rp-313/Catarina Peres/f/status=N
+         occ$CSBC-obituario_csbc1712-CPeres
+         occ$CSBC-obituario_csbc2406-CPeres
+         occ$CSBC-obituario_csbc2507-CPeres
+         occ$CSBC-obituario_csbc3103_a-CPeres
+         occ$sbartolomeu.ref.0112-cperes
+
+      rperson$rp-6/Chamoa/f/status=N
+         occ$CSBC-obituario_csbc0310-DChamoa
+         occ$CSBC-obituario_csbc2809-DChamoa
+
+      rperson$rp-144/Clara Anes/m/status=N
+         occ$sbartemp1358.1-per2
+
+      rperson$rp-431/Clara Anes/f/status=N
+         occ$CSBC-obituario_csbc2905-CAnes
+         occ$sbartdoa1295.1-per2
+
+      rperson$rp-3/Colegiada de S. Bartolomeu de Coimbra/m/status=N
+         occ$CSBC-obsbc0101
+         occ$CSBC-obsbc0101_a
+         occ$CSBC-obsbc0102
+         occ$CSBC-obsbc0102_a
+         occ$CSBC-obsbc0102_b
+         occ$CSBC-obsbc0103
+         occ$CSBC-obsbc0103_a
+         occ$CSBC-obsbc0103_b
+         occ$CSBC-obsbc0104
+         occ$CSBC-obsbc0105
+         occ$CSBC-obsbc0106
+         occ$CSBC-obsbc0107
+         occ$CSBC-obsbc0108
+         occ$CSBC-obsbc0108_a
+         occ$CSBC-obsbc0109
+         occ$CSBC-obsbc0109_a
+         occ$CSBC-obsbc0109_b
+         occ$CSBC-obsbc0110
+         occ$CSBC-obsbc0111
+         occ$CSBC-obsbc0111_a
+         occ$CSBC-obsbc0111_b
+         occ$CSBC-obsbc0112
+         occ$CSBC-obsbc0201
+         occ$CSBC-obsbc0202
+         occ$CSBC-obsbc0202_a
+         occ$CSBC-obsbc0202_b
+         occ$CSBC-obsbc0202_c
+         occ$CSBC-obsbc0203
+         occ$CSBC-obsbc0204
+         occ$CSBC-obsbc0205
+         occ$CSBC-obsbc0206
+         occ$CSBC-obsbc0207
+         occ$CSBC-obsbc0208
+         occ$CSBC-obsbc0208_a
+         occ$CSBC-obsbc0209
+         occ$CSBC-obsbc0210
+         occ$CSBC-obsbc0211
+         occ$CSBC-obsbc0212
+         occ$CSBC-obsbc0301
+         occ$CSBC-obsbc0302
+         occ$CSBC-obsbc0303
+         occ$CSBC-obsbc0304
+         occ$CSBC-obsbc0305
+         occ$CSBC-obsbc0306
+         occ$CSBC-obsbc0306_a
+         occ$CSBC-obsbc0307
+         occ$CSBC-obsbc0308
+         occ$CSBC-obsbc0308_a
+         occ$CSBC-obsbc0309
+         occ$CSBC-obsbc0309_a
+         occ$CSBC-obsbc0310
+         occ$CSBC-obsbc0311
+         occ$CSBC-obsbc0312
+         occ$CSBC-obsbc0401
+         occ$CSBC-obsbc0402
+         occ$CSBC-obsbc0402_a
+         occ$CSBC-obsbc0403
+         occ$CSBC-obsbc0404
+         occ$CSBC-obsbc0405
+         occ$CSBC-obsbc0406
+         occ$CSBC-obsbc0407
+         occ$CSBC-obsbc0408
+         occ$CSBC-obsbc0409
+         occ$CSBC-obsbc0409_a
+         occ$CSBC-obsbc0410
+         occ$CSBC-obsbc0411
+         occ$CSBC-obsbc0411_a
+         occ$CSBC-obsbc0412
+         occ$CSBC-obsbc0501
+         occ$CSBC-obsbc0502
+         occ$CSBC-obsbc0503
+         occ$CSBC-obsbc0503_a
+         occ$CSBC-obsbc0504
+         occ$CSBC-obsbc0505
+         occ$CSBC-obsbc0506
+         occ$CSBC-obsbc0507
+         occ$CSBC-obsbc0508
+         occ$CSBC-obsbc0509
+         occ$CSBC-obsbc0510
+         occ$CSBC-obsbc0511
+         occ$CSBC-obsbc0512
+         occ$CSBC-obsbc0601
+         occ$CSBC-obsbc0602
+         occ$CSBC-obsbc0603
+         occ$CSBC-obsbc0604
+         occ$CSBC-obsbc0605_a
+         occ$CSBC-obsbc0606
+         occ$CSBC-obsbc0607
+         occ$CSBC-obsbc0608
+         occ$CSBC-obsbc0609
+         occ$CSBC-obsbc0610
+         occ$CSBC-obsbc0611
+         occ$CSBC-obsbc0612
+         occ$CSBC-obsbc0701
+         occ$CSBC-obsbc0702
+         occ$CSBC-obsbc0703
+         occ$CSBC-obsbc0704
+         occ$CSBC-obsbc0705
+         occ$CSBC-obsbc0706
+         occ$CSBC-obsbc0707
+         occ$CSBC-obsbc0708
+         occ$CSBC-obsbc0709
+         occ$CSBC-obsbc0709_a
+         occ$CSBC-obsbc0709_b
+         occ$CSBC-obsbc0710
+         occ$CSBC-obsbc0711
+         occ$CSBC-obsbc0712
+         occ$CSBC-obsbc0712_a
+         occ$CSBC-obsbc0801
+         occ$CSBC-obsbc0802
+         occ$CSBC-obsbc0803
+         occ$CSBC-obsbc0804
+         occ$CSBC-obsbc0806
+         occ$CSBC-obsbc0807
+         occ$CSBC-obsbc0808
+         occ$CSBC-obsbc0809
+         occ$CSBC-obsbc0809_a
+         occ$CSBC-obsbc0810
+         occ$CSBC-obsbc0812
+         occ$CSBC-obsbc0901
+         occ$CSBC-obsbc0902
+         occ$CSBC-obsbc0902_a
+         occ$CSBC-obsbc0904
+         occ$CSBC-obsbc0905
+         occ$CSBC-obsbc0906
+         occ$CSBC-obsbc0907
+         occ$CSBC-obsbc0908
+         occ$CSBC-obsbc0909
+         occ$CSBC-obsbc0910
+         occ$CSBC-obsbc0911
+         occ$CSBC-obsbc0912
+         occ$CSBC-obsbc1002
+         occ$CSBC-obsbc1003
+         occ$CSBC-obsbc1004
+         occ$CSBC-obsbc1005
+         occ$CSBC-obsbc1006
+         occ$CSBC-obsbc1007
+         occ$CSBC-obsbc1008
+         occ$CSBC-obsbc1008_a
+         occ$CSBC-obsbc1009
+         occ$CSBC-obsbc1010
+         occ$CSBC-obsbc1011
+         occ$CSBC-obsbc1012
+         occ$CSBC-obsbc1102
+         occ$CSBC-obsbc1103
+         occ$CSBC-obsbc1104
+         occ$CSBC-obsbc1104_a
+         occ$CSBC-obsbc1105
+         occ$CSBC-obsbc1106
+         occ$CSBC-obsbc1107
+         occ$CSBC-obsbc1108
+         occ$CSBC-obsbc1109
+         occ$CSBC-obsbc1110
+         occ$CSBC-obsbc1111
+         occ$CSBC-obsbc1112
+         occ$CSBC-obsbc1201
+         occ$CSBC-obsbc1203
+         occ$CSBC-obsbc1204
+         occ$CSBC-obsbc1205
+         occ$CSBC-obsbc1206
+         occ$CSBC-obsbc1207
+         occ$CSBC-obsbc1208
+         occ$CSBC-obsbc1209
+         occ$CSBC-obsbc1210
+         occ$CSBC-obsbc1211
+         occ$CSBC-obsbc1211_a
+         occ$CSBC-obsbc1212
+         occ$CSBC-obsbc1301
+         occ$CSBC-obsbc1302
+         occ$CSBC-obsbc1303
+         occ$CSBC-obsbc1304
+         occ$CSBC-obsbc1304_a
+         occ$CSBC-obsbc1305
+         occ$CSBC-obsbc1306
+         occ$CSBC-obsbc1307
+         occ$CSBC-obsbc1308
+         occ$CSBC-obsbc1309
+         occ$CSBC-obsbc1310
+         occ$CSBC-obsbc1311
+         occ$CSBC-obsbc1312
+         occ$CSBC-obsbc1401
+         occ$CSBC-obsbc1402
+         occ$CSBC-obsbc1403
+         occ$CSBC-obsbc1404
+         occ$CSBC-obsbc1404_a
+         occ$CSBC-obsbc1405
+         occ$CSBC-obsbc1406
+         occ$CSBC-obsbc1407
+         occ$CSBC-obsbc1408
+         occ$CSBC-obsbc1408_a
+         occ$CSBC-obsbc1408_b
+         occ$CSBC-obsbc1408_c
+         occ$CSBC-obsbc1409
+         occ$CSBC-obsbc1410
+         occ$CSBC-obsbc1411
+         occ$CSBC-obsbc1412
+         occ$CSBC-obsbc1501
+         occ$CSBC-obsbc1502
+         occ$CSBC-obsbc1503
+         occ$CSBC-obsbc1503_a
+         occ$CSBC-obsbc1504
+         occ$CSBC-obsbc1504_a
+         occ$CSBC-obsbc1505
+         occ$CSBC-obsbc1506
+         occ$CSBC-obsbc1507
+         occ$CSBC-obsbc1508
+         occ$CSBC-obsbc1509
+         occ$CSBC-obsbc1510
+         occ$CSBC-obsbc1511
+         occ$CSBC-obsbc1512
+         occ$CSBC-obsbc1601
+         occ$CSBC-obsbc1602
+         occ$CSBC-obsbc1603
+         occ$CSBC-obsbc1604
+         occ$CSBC-obsbc1605
+         occ$CSBC-obsbc1606
+         occ$CSBC-obsbc1607
+         occ$CSBC-obsbc1608
+         occ$CSBC-obsbc1609
+         occ$CSBC-obsbc1610
+         occ$CSBC-obsbc1611
+         occ$CSBC-obsbc1612
+         occ$CSBC-obsbc1701
+         occ$CSBC-obsbc1702csb
+         occ$CSBC-obsbc1703
+         occ$CSBC-obsbc1704
+         occ$CSBC-obsbc1705
+         occ$CSBC-obsbc1706
+         occ$CSBC-obsbc1707
+         occ$CSBC-obsbc1708
+         occ$CSBC-obsbc1709
+         occ$CSBC-obsbc1710
+         occ$CSBC-obsbc1711
+         occ$CSBC-obsbc1712
+         occ$CSBC-obsbc1712_a
+         occ$CSBC-obsbc1801
+         occ$CSBC-obsbc1802
+         occ$CSBC-obsbc1802_a
+         occ$CSBC-obsbc1803
+         occ$CSBC-obsbc1804
+         occ$CSBC-obsbc1805
+         occ$CSBC-obsbc1806
+         occ$CSBC-obsbc1807
+         occ$CSBC-obsbc1808
+         occ$CSBC-obsbc1809
+         occ$CSBC-obsbc1810
+         occ$CSBC-obsbc1810_a
+         occ$CSBC-obsbc1811
+         occ$CSBC-obsbc1812
+         occ$CSBC-obsbc1812_a
+         occ$CSBC-obsbc1901
+         occ$CSBC-obsbc1902
+         occ$CSBC-obsbc1903
+         occ$CSBC-obsbc1904
+         occ$CSBC-obsbc1905
+         occ$CSBC-obsbc1907
+         occ$CSBC-obsbc1908
+         occ$CSBC-obsbc1909
+         occ$CSBC-obsbc1910
+         occ$CSBC-obsbc1911
+         occ$CSBC-obsbc1912
+         occ$CSBC-obsbc2001
+         occ$CSBC-obsbc2002
+         occ$CSBC-obsbc2004
+         occ$CSBC-obsbc2005
+         occ$CSBC-obsbc2006
+         occ$CSBC-obsbc2007
+         occ$CSBC-obsbc2008
+         occ$CSBC-obsbc2009
+         occ$CSBC-obsbc2010
+         occ$CSBC-obsbc2011
+         occ$CSBC-obsbc2102
+         occ$CSBC-obsbc2103
+         occ$CSBC-obsbc2104
+         occ$CSBC-obsbc2105
+         occ$CSBC-obsbc2106
+         occ$CSBC-obsbc2108
+         occ$CSBC-obsbc2108_a
+         occ$CSBC-obsbc2109
+         occ$CSBC-obsbc2110
+         occ$CSBC-obsbc2111
+         occ$CSBC-obsbc2112
+         occ$CSBC-obsbc2201
+         occ$CSBC-obsbc2202
+         occ$CSBC-obsbc2203
+         occ$CSBC-obsbc2204
+         occ$CSBC-obsbc2205
+         occ$CSBC-obsbc2206
+         occ$CSBC-obsbc2207
+         occ$CSBC-obsbc2207_a
+         occ$CSBC-obsbc2208
+         occ$CSBC-obsbc2209
+         occ$CSBC-obsbc2210
+         occ$CSBC-obsbc2211
+         occ$CSBC-obsbc2212
+         occ$CSBC-obsbc2301
+         occ$CSBC-obsbc2302
+         occ$CSBC-obsbc2303
+         occ$CSBC-obsbc2304
+         occ$CSBC-obsbc2305
+         occ$CSBC-obsbc2306
+         occ$CSBC-obsbc2307
+         occ$CSBC-obsbc2308
+         occ$CSBC-obsbc2308_a
+         occ$CSBC-obsbc2308_b
+         occ$CSBC-obsbc2309
+         occ$CSBC-obsbc2310
+         occ$CSBC-obsbc2311
+         occ$CSBC-obsbc2312
+         occ$CSBC-obsbc2312_a
+         occ$CSBC-obsbc2401
+         occ$CSBC-obsbc2402
+         occ$CSBC-obsbc2402_a
+         occ$CSBC-obsbc2403
+         occ$CSBC-obsbc2403_a
+         occ$CSBC-obsbc2405
+         occ$CSBC-obsbc2406
+         occ$CSBC-obsbc2407
+         occ$CSBC-obsbc2408
+         occ$CSBC-obsbc2408_a
+         occ$CSBC-obsbc2409
+         occ$CSBC-obsbc2410
+         occ$CSBC-obsbc2411
+         occ$CSBC-obsbc2412
+         occ$CSBC-obsbc2501
+         occ$CSBC-obsbc2502
+         occ$CSBC-obsbc2503
+         occ$CSBC-obsbc2504
+         occ$CSBC-obsbc2505
+         occ$CSBC-obsbc2506
+         occ$CSBC-obsbc2507
+         occ$CSBC-obsbc2508
+         occ$CSBC-obsbc2509
+         occ$CSBC-obsbc2510
+         occ$CSBC-obsbc2511
+         occ$CSBC-obsbc2512
+         occ$CSBC-obsbc2601
+         occ$CSBC-obsbc2602
+         occ$CSBC-obsbc2603
+         occ$CSBC-obsbc2604
+         occ$CSBC-obsbc2605
+         occ$CSBC-obsbc2606
+         occ$CSBC-obsbc2607
+         occ$CSBC-obsbc2608
+         occ$CSBC-obsbc2609
+         occ$CSBC-obsbc2610
+         occ$CSBC-obsbc2611
+         occ$CSBC-obsbc2701
+         occ$CSBC-obsbc2702
+         occ$CSBC-obsbc2703
+         occ$CSBC-obsbc2704
+         occ$CSBC-obsbc2705
+         occ$CSBC-obsbc2706
+         occ$CSBC-obsbc2707
+         occ$CSBC-obsbc2708
+         occ$CSBC-obsbc2709
+         occ$CSBC-obsbc2710
+         occ$CSBC-obsbc2711
+         occ$CSBC-obsbc2712
+         occ$CSBC-obsbc2801
+         occ$CSBC-obsbc2802
+         occ$CSBC-obsbc2803
+         occ$CSBC-obsbc2804
+         occ$CSBC-obsbc2805
+         occ$CSBC-obsbc2806
+         occ$CSBC-obsbc2808
+         occ$CSBC-obsbc2809
+         occ$CSBC-obsbc2810
+         occ$CSBC-obsbc2811
+         occ$CSBC-obsbc2812
+         occ$CSBC-obsbc2901
+         occ$CSBC-obsbc2904
+         occ$CSBC-obsbc2904_a
+         occ$CSBC-obsbc2905
+         occ$CSBC-obsbc2907
+         occ$CSBC-obsbc2908
+         occ$CSBC-obsbc2909
+         occ$CSBC-obsbc2910
+         occ$CSBC-obsbc2911
+         occ$CSBC-obsbc3001
+         occ$CSBC-obsbc3003
+         occ$CSBC-obsbc3004
+         occ$CSBC-obsbc3004_a
+         occ$CSBC-obsbc3005
+         occ$CSBC-obsbc3006
+         occ$CSBC-obsbc3008
+         occ$CSBC-obsbc3009
+         occ$CSBC-obsbc3010
+         occ$CSBC-obsbc3101
+         occ$CSBC-obsbc3103
+         occ$CSBC-obsbc3103_a
+         occ$CSBC-obsbc3105
+         occ$CSBC-obsbc3108
+         occ$CSBC-obsbc3110
+         occ$CSBC-obsbc503_a
+
+      rperson$rp-373/Constança Anes/f/status=N
+         occ$CSBC-obituario_csbs0411_a-CAnes
+         occ$sbartolomeu0503-canes
+
+      rperson$rp-435/Dinis/m/status=N
+         occ$kalendas_laecc1101-DDinis
+         occ$sbartsent1287.1-per1
+
+      rperson$rp-274/Diogo Beltrães/m/status=N
+         occ$sbartolomeu.ref0407-dbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0707-dbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2105-dbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1906-dbeltraes/obs=WARNING: Occurrence missing
+
+      rperson$rp-433/Diogo Beltrães/m/status=N
+         occ$sbartolomeu.ref.0407-dbeltraes
+         occ$sbartolomeu.refb.0707b-dbeltraes
+         occ$sbartolomeu.refb.2105b-dbeltraes
+         occ$sbartolomeu.test.1906-dbeltraes
+
+      rperson$rp-383/Diogo Martins/m/status=N
+         occ$sbartemp1374.2-per4
+         occ$sbartolomeu.test.0412-dmartins
+         occ$sbartolomeu.test0412-dmartins/obs=WARNING: Occurrence missing
+
+      rperson$rp-405/Diogo Peres/m/status=N
+         occ$csbartolomeu20081375-dperes
+         occ$sbartolomeu.test.2105-dperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2105-dperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.testb.2105b-dperes
+
+      rperson$rp-186/Domingas/f/status=N
+         occ$CSBC-obituario_csbc0709_a-DDomingas
+         occ$CSBC-obituario_csbc0712_a-Domingas
+
+      rperson$rp-114/Domingas Anes/m/status=N
+         occ$sbartaf1313.1-per2
+         occ$sbartaf1313.1.abril
+
+      rperson$rp-145/Domingas Anes/m/status=N
+         occ$sbartemp1374.1-per2
+         occ$sbartolomeu-danes/obs=WARNING: Occurrence missing
+
+      rperson$rp-297/Domingas Anes/f/status=N
+         occ$CSBC-obituario_csbc0102_b-DAnes
+         occ$CSBC-obituario_csbc0709_b-DAnes
+         occ$CSBC-obituario_csbc1408_c-DAnes
+         occ$CSBC-obituario_csbc1712_a-DAnes
+         occ$CSBC-obituario_csbc2108_a-DAnes
+         occ$CSBC-obituario_csbc2403_a-DAnes
+
+      rperson$rp-374/Domingas Domingues/f/status=N
+         occ$CSBC-obituario_csbc1406-DDomingues
+         occ$sbartemp1363.3-per2
+
+      rperson$rp-147/Domingas Esteves/m/status=N
+         occ$sbartemp1329.1-per2
+         occ$sbartsent1338.1-per5
+         occ$sbartsent1338.1.sobrinha
+
+      rperson$rp-314/Domingas Peres/f/status=N
+         occ$CSBC-obituario_csbc1206-DPeres
+         occ$CSBC-obituario_csbc2604-DPeres
+         occ$CSBC-obituario_csbc2904_a-DPeres
+
+      rperson$rp-149/Domingos Anes/m/status=N
+         occ$sbartsent1333.1.domingos
+
+      rperson$rp-183/Domingos Anes/m/status=N
+         occ$sbarsent1368.1-per7
+         occ$sbart1366.1-per5-per7
+
+      rperson$rp-432/Domingos Anes/m/status=N
+         occ$csbartolomeu.ref25101389-danes
+         occ$csbartolomeu.test18041375-danes
+
+      rperson$rp-42/Domingos António/m/status=N
+         occ$CSBC-obituario_csbc0108_a-DAntoninho
+         occ$CSBC-obituario_csbc2307-DAntonio
+         occ$CSBC-obituario_csbc2405-DAntoninho
+         occ$CSBC-obituario_csbc2501-DAntonio
+         occ$CSBC-obituario_csbc2506-DAntoninho
+         occ$CSBC-obituario_csbc2702-DAntónio
+         occ$CSBC-obituario_csbc2901-DAntonio
+         occ$sbartemp1369.4.estacio-per3
+
+      rperson$rp-245/domingos Boroeiro/m/status=N
+         occ$sbartdoa1295.1-per6
+         occ$sbartdoa1295.1-per7
+
+      rperson$rp-360/Domingos Carvalhais/m/status=N
+         occ$CSBC-obituario_csbc0608-DCarvalhais
+         occ$CSBC-obituario_csbc1308-DCarvalhais
+
+      rperson$rp-122/Domingos Domingues/m/status=N
+
+      rperson$rp-239/Domingos Domingues/m/status=N
+         occ$sbartdoa1337.1.sbart-per5
+         occ$sbartemp1348.1-per5
+         occ$sbartsent1326.1.domingos
+         occ$sbartsent1346.1.domingos
+
+      rperson$rp-265/Domingos Domingues/m/status=N
+         occ$sbartolomeu.ref2201-ddomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0203-ddomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1012-ddomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-361/Domingos Domingues/m/status=N
+         occ$CSBC-obituario_csbc0403-DDomingues
+         occ$CSBC-obituario_csbc2812-DDomingues
+
+      rperson$rp-411/Domingos Domingues/m/status=N
+         occ$sbartolomeu.ref.2201-ddomingues
+         occ$sbartolomeu.test.1012-ddomingues
+
+      rperson$rp-143/Domingos Esteves/m/status=N
+         occ$CSBC-obituario_csbc0306_a-DEsteves
+         occ$sbartctes1370.1.domingos
+         occ$sbartemp1368.1.domingos
+
+      rperson$rp-91/Domingos Esteves/m/status=N
+         occ$CSBC-obituario_csbc0306_a-desconhecida
+
+      rperson$rp-434/Domingos Fernandes/m/status=N
+         occ$csbartolomeu1375-dfernandes
+         occ$csbartolomeu18041375-dfernandes
+
+      rperson$rp-185/Domingos Ledo/m/status=N
+         occ$sbartemp1363.3-per7
+         occ$sbartemp1368.1-per3
+
+      rperson$rp-285/Domingos Martins/m/status=N
+         occ$CSBC-testamenteiro1285-DMartins
+         occ$CSBC-testamento.1285.DMartins
+
+      rperson$rp-77/Domingos Martins/m/status=N
+         occ$CSBC-obituario_csbc2905-DMartins
+
+      rperson$rp-38/Domingos Mendes/m/status=N
+         occ$CSBC-obituario_csbc2108-DMendes
+         occ$CSBC-obituario_csbc2907-DMendes
+         occ$CSBC-obituario_csbc3004-DMendes
+         occ$kalendas_laecc1204-dmendes
+         occ$sbartsent1266.1.sbart-per1
+         occ$sbartsent1289.1.sbart-per2
+
+      rperson$rp-418/Domingos Migueis/m/status=N
+         occ$CSBC-obituario_csbc0502-DMigueis
+         occ$CSBC-obituario_csbc1207-DMigueis
+         occ$CSBC-obituario_csbc1401-DMigueis
+         occ$CSBC-obituario_csbc1810_a-DMigueis
+         occ$CSBC-obituario_csbc2203-DMigueis
+         occ$CSBC-obituario_csbc2304-DMigueis
+         occ$sbartproc1348.1.andre-per2
+         occ$sbartsent1338.1.sbart-per3
+
+      rperson$rp-256/Domingos Peres/m/status=N
+         occ$CSBC-obituario_csbc2408_a-DPeres
+         occ$sbartcv1224.1-per3
+
+      rperson$rp-436/Domingos Vicente/m/status=N
+         occ$CSBC-obituario_csbc2908-DVicente
+         occ$sbartsent1289.1.domingos
+
+      rperson$rp-353/Egido Vicente/m/status=N
+         occ$cmsecoimbra_1406-per1
+         occ$CSBC-testamento.1285.EgidoVicente
+
+      rperson$rp-310/Elvira Salvado/f/status=N
+
+      rperson$rp-338/Elvira Salvado/f/status=N
+
+      rperson$rp-370/Elvira Salvado/f/status=N
+
+      rperson$rp-189/Estácio Anes/m/status=N
+         occ$sbartemp1369.4.estacio
+         occ$sbartren1369.3-per6
+
+      rperson$rp-123/Estevão/m/status=N
+         occ$sbartsent1306.1-per1
+         occ$sbartsent1308.1-per1
+
+      rperson$rp-16/Estêvão Anes/m/status=N
+         occ$CSBC-obituario_csbc0809_a-EAnes
+         occ$CSBC-obituario_csbc1508-EAnes
+         occ$CSBC-obituario_csbc1812_a-EAnes
+         occ$CSBC-obituario_csbc2204-EAnes
+         occ$CSBC-obituario_csbc2909-EAnes
+
+      rperson$rp-188/Estevão Anes/m/status=N/obs=notauit
+         occ$sbartemp1369.4-per8
+         occ$sbartolomeu.test0712-eanes/obs=WARNING: Occurrence missing
+         occ$sbartren1369.3-per8
+         occ$sbartsent1351.1-per4
+         occ$sbartsent1356.1-per7
+
+      rperson$rp-437/Estêvão Anes/m/status=N
+         occ$CSBC-obituario_csbc0709-EAnes
+         occ$CSBC-obituario_csbc2403-EAnes
+         occ$sbartaf1313.1-per4
+         occ$sbartsent1289.1.sbart-per3
+
+      rperson$rp-246/Estevão Domingues/m/status=N
+         occ$csbartolomeu07071377-edomingues
+         occ$sbartemp1363.1-per2-per3
+         occ$sbartemp1363.3-per2-per4
+
+      rperson$rp-399/Estevão Domingues/m/status=N
+         occ$csbartolomeu.ref25101389-edomingues
+         occ$sbartolomeu.test.0804-edomingues
+
+      rperson$rp-10/Estêvão Fernandes/m/status=N
+         occ$CSBC-obituario_csbc0501-EFernandes
+         occ$CSBC-obituario_csbc0505-EFernandes
+         occ$CSBC-obituario_csbc0509-EFernandes
+         occ$CSBC-obituario_csbc2008-EFernandes
+         occ$CSBC-obituario_csbc2112-EFernandes
+         occ$CSBC-obituario_csbc2205-EFernandes
+
+      rperson$rp-438/Estevão Martins/m/status=N
+         occ$csbartolomeu.test20011381-emartins
+         occ$csbartolomeu.test28101384-emartins
+
+      rperson$rp-187/Estevão Peres/m/status=N/obs=scriptor juratus notuit
+         occ$cabidosecoimbra1258-EPeres
+         occ$csbartolomeu.tab07071377-eperes
+         occ$csbartolomeu.tab30111382-eperes
+         occ$sbartaf1362.1-per8
+         occ$sbartcon1366.1-per12
+         occ$sbartemp1349.1-per6
+         occ$sbartemp1353.1-per3
+         occ$sbartemp1355.1-per8
+         occ$sbartemp1363.1-per9
+         occ$sbartemp1374.3-per5
+         occ$sbartsent1306.1-per5
+         occ$sbartsent1308.1-per9
+         occ$sbartsent1333.1-per5
+
+      rperson$rp-240/Estevão Peres/m/status=N
+         occ$CSBC-obituario_csbc0110-EPeres
+         occ$CSBC-obituario_csbc0307-EPeres
+         occ$CSBC-obituario_csbc0808-EPeres
+         occ$CSBC-obituario_csbc1012-EPeres
+         occ$CSBC-obituario_csbc1103-EPeres
+         occ$CSBC-obituario_csbc1106-EPeres
+         occ$CSBC-obituario_csbc1109-EPeres
+         occ$CSBC-obituario_csbc1501-EPeres
+         occ$CSBC-obituario_csbc2104-EPeres
+         occ$CSBC-obituario_csbc2202-EPeres
+         occ$CSBC-obituario_csbc2311-EPeres
+         occ$CSBC-obituario_csbc2805-EPeres
+         occ$sbartcon1366.1-per7
+         occ$sbartdoa1349.2.sbart-per5
+         occ$sbartdoa1360.1-per6
+         occ$sbartpf1357.1-per5
+         occ$sbartsent1357.2.sbart-per6
+
+      rperson$rp-214/Estevão vicente/m/status=N
+
+      rperson$rp-216/Estevão vicente/m/status=N
+
+      rperson$rp-375/Estêvão Vicente/m/status=N
+         occ$CSBC-obituario_csbc1110-EVicente
+         occ$CSBC-obituario_csbc1410-EVicente
+
+      rperson$rp-190/Fernando/m/status=N
+         occ$CSBC-obituario_csbc0108-Fernão
+         occ$CSBC-obituario_csbc0201-FBuceta
+         occ$CSBC-obituario_csbc0712-FBuceta
+         occ$CSBC-obituario_csbc0911-FBuceta
+         occ$CSBC-obituario_csbc1302-FBuceta
+         occ$CSBC-obituario_csbc1403-FBuceta
+         occ$CSBC-obituario_csbc1409-FBuceta
+         occ$CSBC-obituario_csbc1910-FBuceta
+         occ$CSBC-obituario_csbc2006-FBuceta
+         occ$CSBC-obituario_csbc2212-FBuceta
+         occ$CSBC-obituario_csbc2308_a-FBuceta
+         occ$CSBC-obituario_csbc3005-FBuceta
+         occ$CSBC-obituario_csbc3010-FBuceta
+         occ$sbartsent1266.1.Fernando
+
+      rperson$rp-57/Fernando/m/status=N
+
+      rperson$rp-377/Fernando Rodrigues/t/status=N
+         occ$CSBC-testamento.1285.FRodrigues
+         occ$CSBC-testamento_1285-per5
+
+      rperson$rp-286/Fernão Garcia/m/status=N
+         occ$sbartolomeu.ref0203_a-fgarcia/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0712-fgarcia/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-fgarcia/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1906-fgarcia/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2105-fgarcia/obs=WARNING: Occurrence missing
+
+      rperson$rp-439/Fernão Garcia/m/status=N
+         occ$sbartolomeu.ref.0203_a-fgarcia
+         occ$sbartolomeu.ref.0712-fgarcia
+         occ$sbartolomeu.ref.1012_a-fgarcia
+         occ$sbartolomeu.ref.1906-fgarcia
+         occ$sbartolomeu.refb.2105b-fgarcia
+
+      rperson$rp-192/Fernão Gil/m/status=N
+         occ$sbartdoa1349.2-per2
+         occ$sbartsent1356.1-per2
+
+      rperson$rp-376/Fernão Gonçalves/m/status=N
+         occ$sbartolomeu.tab0112-fgoncalves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1906-fgoncalves/obs=WARNING: Occurrence missing
+
+      rperson$rp-440/Fernão Gonçalves/m/status=N
+         occ$sbartolomeu.tab.0112-fgoncalves
+         occ$sbartolomeu.test.1906-fgoncalves
+
+      rperson$rp-355/Fernão Martins/m/status=N
+         occ$sbartolomeu.tab.0407-fmartins
+         occ$sbartolomeu.tab.0503-fmartins
+         occ$sbartolomeu.tab.0512-fmartins
+         occ$sbartolomeu.tab.0707-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab.0812-fmartins
+         occ$sbartolomeu.tab.1012-fmartins
+         occ$sbartolomeu.tab.1012_a-fmartins
+         occ$sbartolomeu.tab.1906-fmartins
+         occ$sbartolomeu.tab.2111-fmartins
+         occ$sbartolomeu.tab.2201-fmartins
+         occ$sbartolomeu.tab.2703-mpinho
+         occ$sbartolomeu.tab.3009-fmartins
+         occ$sbartolomeu.tab.eliao1012-fmartins
+         occ$sbartolomeu.tab0407-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0503-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0512-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0707-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0812-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab1012-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab1012_a-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab1906-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2111-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2201-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2703-mpinho/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab3009-fmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tabb.0707b-fmartins
+         occ$sbartolomeu.tabeliao1012-fmartins/obs=WARNING: Occurrence missing
+
+      rperson$rp-261/Fervilha Martins/f/status=N
+         occ$CSBC-obituario_csbc0703-FMartins
+         occ$CSBC-obituario_csbc1010-FMartins
+
+      rperson$rp-385/Francisco Afonso/m/status=N
+         occ$csbartolomeu.test20011381-fafonso
+         occ$csbartolomeu14101375-fafonso
+         occ$sbartolomeu.ref.1004-fafonso
+         occ$sbartpos1369.2-per3
+
+      rperson$rp-441/Francisco Peres/m/status=N
+         occ$csbartolomeu.ren23041378-fperes
+         occ$csbartolomeu.test23041378-fperes
+
+      rperson$rp-191/Francisco Rodrigues/m/status=N
+         occ$sbartemp1363.3-per8
+         occ$sbartemp1369.4-per6
+
+      rperson$rp-100/Froia/m/status=N
+
+      rperson$rp-220/Froia/m/status=N
+
+      rperson$rp-221/Froia/m/status=N
+
+      rperson$rp-99/Froia/m/status=N
+
+      rperson$rp-446/Garcia Martins/m/status=N
+         occ$csbartolomeu.ren03031379-gmartins
+         occ$sbartav1363.1-per7
+
+      rperson$rp-447/Garcia Martins/m/status=N
+         occ$csbartolomeu03031379_a-gmartins
+         occ$CSBC-obituario_csbc2310-GMartins
+
+      rperson$rp-101/Geraldo de Alpoim/m/status=N
+         occ$sbartemp1369.4.sbart-per2
+         occ$sbartren1369.3.sbart-per2
+
+      rperson$rp-287/Gil/m/status=N
+         occ$sbartolomeu.ref0607-dgil/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2309-gil/obs=WARNING: Occurrence missing
+
+      rperson$rp-448/Gil/m/status=N
+         occ$sbartolomeu.ref.0607-dgil
+         occ$sbartolomeu.ref.2309-gil
+
+      rperson$rp-449/Gil Domingues/m/status=N
+         occ$sbartsent1289.1-per7
+         occ$sbartsent1289.1-per8
+
+      rperson$rp-451/Gil Peres/m/status=N
+         occ$CSBC-obituario_csbc2111-GPeres
+         occ$sbartsent1338.1.sbart-per2
+
+      rperson$rp-268/Gil Vasques/m/status=N
+         occ$sbartolomeu.ref0505-gvasques/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0812-gvasques/obs=WARNING: Occurrence missing
+
+      rperson$rp-414/Gil Vasques/m/status=N
+         occ$sbartolomeu.ref.0505-gvasques
+         occ$sbartolomeu.test.0812-gvasques
+
+      rperson$rp-195/Gil vicente/m/status=N
+         occ$sbartdoa1295.1-per3
+         occ$sbartemp1279.1-per2
+
+      rperson$rp-125/Gomes Anes/m/status=N
+         occ$CSBC-obituario_csbc2802-GAnes
+         occ$sbartaf1313.1.sbart-per1
+         occ$sbartdoa1326.1.sbart-per1
+         occ$sbartemp1322.1.sbart-per1
+         occ$sbartemp1322.2.sbart-per1
+         occ$sbartemp1329.1.sbart-per1
+         occ$sbartemp1331.1.sbart-per1
+         occ$sbartsent1308.1.sbart-per5
+         occ$sbartsent1321.1.sbart-per4
+
+      rperson$rp-444/Gomes Anes/m/status=N
+         occ$csbartolomeu.tab12011389-ganes
+         occ$csbartolomeu.tab23041378-ganes
+         occ$sbartolomeu.tabb.2202-ganes
+
+      rperson$rp-291/Gonçalo/m/status=N
+         occ$CSBC-obituario_csbc1707-MGonçalo
+         occ$kalendas_laecc0302-mgoncalo
+         occ$kalendas_laecc1101-mgoncalo
+         occ$kalenda_laecc0308-MGonçalo
+         occ$kalenda_laecc0710-MGonçalo
+
+      rperson$rp-193/Gonçalo Afonso/m/status=N
+         occ$sbartsent1335.1.sbart-per4
+         occ$sbartsent1341.1.sbart-per3
+         occ$sbartsent1341.2.sbart-per3
+         occ$sbartsent1345.2.sbart-per3
+         occ$sbartsent1346.1.sbart-per3
+
+      rperson$rp-273/Gonçalo Afonso/m/status=N
+         occ$sbartolomeu.test0809-gafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0812-gafonso/obs=WARNING: Occurrence missing
+
+      rperson$rp-409/Gonçalo Afonso/m/status=N
+         occ$sbartemp1361.1.Gonçalo
+         occ$sbartolomeu.test.0809-gafonso
+         occ$sbartolomeu.test.0812-gafonso
+
+      rperson$rp-339/Gonçalo Anes/m/status=N
+         occ$csbartolomeu.ref14041379-ganes
+         occ$csbartolomeu.ref30111386-ganes
+
+      rperson$rp-58/Gonçalo Anes/m/status=N
+         occ$CSBC-obituario_csbc0303-GAnes
+         occ$CSBC-obituario_csbc0402-GAnes
+         occ$CSBC-obituario_csbc0406-GAnes
+         occ$CSBC-obituario_csbc0409-GAnes
+         occ$CSBC-obituario_csbc0411_a-GAnes
+         occ$CSBC-obituario_csbc0604-GAnes
+         occ$CSBC-obituario_csbc0710-GAnes
+         occ$CSBC-obituario_csbc1005-GAnes
+         occ$CSBC-obituario_csbc1208-GAnes
+         occ$CSBC-obituario_csbc1507-GAnes
+
+      rperson$rp-267/Gonçalo Domingues/m/status=N
+         occ$sbartolomeu.ref2201-gdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1012-gdomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-412/Gonçalo Domingues/m/status=N
+         occ$csbartolomeu.test07071377-gdomingues
+         occ$sbartolomeu.ref.2201-gdomingues
+         occ$sbartolomeu.test.1012-gdomingues
+
+      rperson$rp-445/Gonçalo Domingues/m/status=N
+         occ$csbartolomeu.ref25101389-gdomingues
+         occ$sbartolomeu.test.0804-gdomingues
+
+      rperson$rp-301/Gonçalo Esteves/m/status=N
+         occ$sbartolomeu.test0407-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0809-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0812-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1012-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2102-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2202-gesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2703-gesteves/obs=WARNING: Occurrence missing
+
+      rperson$rp-442/Gonçalo Esteves/m/status=N
+         occ$csbartolomeu.test08101389-gesteves
+         occ$csbartolomeu.test1374-gesteves
+         occ$csbartolomeu.test20081375-gesteves
+         occ$csbartolomeu.test22101386-gesteves
+         occ$csbartolomeu.test24081377-gesteves
+         occ$sbartolomeu.test.0809-gesteves
+         occ$sbartolomeu.test.1012-gesteves
+         occ$sbartolomeu.test.2102-gesteves
+
+      rperson$rp-443/Gonçalo Esteves/m/status=N
+         occ$sbartolomeu.test.0407-gesteves
+         occ$sbartolomeu.test.0812-gesteves
+         occ$sbartolomeu.test.2703-gesteves
+
+      rperson$rp-378/Gonçalo Lourenço/m/status=N
+         occ$sbartolomeu.ref0203_a-glourenco/obs=WARNING: Occurrence missing
+         occ$sbartolomeu2111-glourenco
+
+      rperson$rp-289/Gonçalo Martins/m/status=N
+         occ$csbartolomeu.ref25101389-gmartins
+         occ$csbartolomeu21051388-gmartins
+         occ$sbartolomeu.ref.0203_a-gmartins
+         occ$sbartolomeu.ref.0407-gmartins
+         occ$sbartolomeu.ref.0503-gmartins
+         occ$sbartolomeu.ref.1012_a-gmartins
+         occ$sbartolomeu.ref.14021406-gmartins
+         occ$sbartolomeu.ref.1906-gmartins
+         occ$sbartolomeu.ref.2105-gmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.2111-gmartins
+         occ$sbartolomeu.ref.2202-gmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.3009-gmartins
+         occ$sbartolomeu.ref2105-gmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2111-gmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2202-gmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.refb.2105b-gmartins
+         occ$sbartolomeu.refb.2202-gmartins
+
+      rperson$rp-393/Gonçalo Martins/m/status=N
+         occ$csbartolomeu.tab03031379_a-gmartins
+         occ$sbartemp1357.2.sancha-per2
+         occ$sbartolomeu.tab.0203-gmartins
+
+      rperson$rp-452/Gonçalo Migueis/m/status=N
+         occ$csbartolomeu.ref25101389-gmigueis
+         occ$sbartolomeu.ref.0503-gmigueis
+
+      rperson$rp-194/Gonçalo Peres/m/status=N
+         occ$sbartpf1357.1-per14
+         occ$sbartpf1357.1-per15
+
+      rperson$rp-290/Gonçalo Peres/m/status=N
+         occ$csbartolomeu.ref12011389-gperes
+         occ$csbartolomeu.ref25101389-gperes
+         occ$sbartolomeu.ref.0503-gperes
+         occ$sbartolomeu.ref.14021406-gperes
+         occ$sbartolomeu.ref.2111-gperes
+         occ$sbartolomeu.ref.2202-gperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2202-gperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.refb.2202-gperes
+         occ$sbartolomeu0804-gperes
+
+      rperson$rp-305/Gonçalo Seco/m/status=N
+         occ$sbartolomeu.test0412-gseco/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2111-gseco/obs=WARNING: Occurrence missing
+
+      rperson$rp-450/Gonçalo Seco/m/status=N
+         occ$sbartolomeu.test.0412-gseco
+         occ$sbartolomeu.test.2111-gseco
+
+      rperson$rp-141/Gonçalo Vasques dos Paços/m/status=N
+         occ$sbartemp1374.2.pacos
+
+      rperson$rp-111/igreja de S. Bartolomeu/m/status=N/obs=os raçoeiros de S. Bartolomeu
+         occ$sbartsent1306.1.sbart
+
+      rperson$rp-351/Inês Afonso/f/status=N
+
+      rperson$rp-316/Inês Gonçalves/f/status=N
+         occ$csbartolomeu20011381-filha
+         occ$CSBC-obituario_csbc0408-IGonçalves
+         occ$CSBC-obituario_csbc0906-IGonçalves
+         occ$CSBC-obituario_csbc1412-IGonçalves
+         occ$CSBC-obituario_csbc1811-IGonçalves
+         occ$CSBC-obituario_csbc2401-desconhecida
+
+      rperson$rp-337/Inês Lourenço/f/status=N
+         occ$CSBC-obituario_csbc0807-ILourenço
+         occ$CSBC-obituario_csbc2106-ILourenço
+         occ$sbartolomeu.ref.0203-ilourenco
+         occ$sbartolomeu.ref0203-ilourenco/obs=WARNING: Occurrence missing
+
+      rperson$rp-98/Isabel/m/status=N
+         occ$CSBC-obituario_csbc1105-RainhaIsabel
+
+      rperson$rp-252/Isabel Vicente/f/status=N
+
+      rperson$rp-253/Isabel Vicente/f/status=N
+
+      rperson$rp-254/Isabel Vicente/f/status=N
+
+      rperson$rp-307/Joana Dias/f/status=N
+
+      rperson$rp-318/Joana Dias/f/status=N
+
+      rperson$rp-329/Joana Dias/f/status=N
+
+      rperson$rp-362/Joana Dias/f/status=N
+
+      rperson$rp-379/Joana Dias/f/status=N
+
+      rperson$rp-131/Joana Rodrigues/m/status=N
+         occ$CSBC-obituario_csbc0205-AMartins
+         occ$CSBC-obituario_csbc1102-AMartins
+         occ$CSBC-obituario_csbc1603-AMartins
+         occ$CSBC-obituario_csbc1903-AMartins
+         occ$CSBC-obituario_csbc2201-AMartins
+         occ$CSBC-obituario_csbc2303-AMartins
+         occ$CSBC-obituario_csbc2503_a-AMartins
+         occ$CSBC-obituario_csbc3003-AMartins
+         occ$sbartolomeu.ref0802-amartins/obs=WARNING: Occurrence missing
+         occ$sbartpos1369.2.afonso
+         occ$sbartpos1369.5.afonso
+         occ$sbartproc1369.1.afonso
+
+      rperson$rp-164/Joana Rodrigues/m/status=N
+         occ$sbartolomeu.ref.0802-jrodrigues
+         occ$sbartolomeu.ref0802-jrodrigues/obs=WARNING: Occurrence missing
+         occ$sbartpos1369.5.joana
+         occ$sbartproc1369.1.joana
+
+      rperson$rp-211/João Afonso/m/status=N
+         occ$csbartolomeu.tab14101375-jafonso
+         occ$csbartolomeu.tab25101389-jafonso
+         occ$csbartolomeu.tab28031389-jafonso
+         occ$csbartolomeu.test30111386-jafonso
+         occ$sbarsent1368.1-per3
+         occ$sbarsent1368.1-per9
+         occ$sbart1366.1-per5
+
+      rperson$rp-217/João Afonso/m/status=N
+         occ$CSBC-obituario_csbc0107_a-JAfonso
+         occ$CSBC-obituario_csbc0203-JAfonso
+         occ$CSBC-obituario_csbc0407-JAfonso
+         occ$CSBC-obituario_csbc0511-JAfonso
+         occ$CSBC-obituario_csbc0601-JAfonso
+         occ$CSBC-obituario_csbc0708-JAfonso
+         occ$CSBC-obituario_csbc0806-JAfonso
+         occ$CSBC-obituario_csbc0810-JAfonso
+         occ$CSBC-obituario_csbc0905-JAfonso
+         occ$CSBC-obituario_csbc1204-JAfonso
+         occ$CSBC-obituario_csbc1309-JAfonso
+         occ$CSBC-obituario_csbc1402-JAfonso
+         occ$CSBC-obituario_csbc1506-JAfonso
+         occ$CSBC-obituario_csbc1607-JAfonso
+         occ$CSBC-obituario_csbc2305-JAfonso
+         occ$CSBC-obituario_csbc2412-JAfonso
+         occ$CSBC-obituario_csbc2601-JAfonso
+         occ$CSBC-obituario_csbc2703-JAfonso
+         occ$CSBC-obituario_csbc2711-JAfonso
+         occ$sbartcomp1324.1-per1
+         occ$sbartdoa1326.1.sbart-per3
+         occ$sbartdoa1337.1.sbart-per1
+         occ$sbartemp1348.1.sbart-per1
+         occ$sbartemp1353.1-per4
+         occ$sbartproc1348.1.sbart-per1
+         occ$sbartsent1329.1-per3
+         occ$sbartsent1338.1.sbart-per1
+         occ$sbartsent1345.1.sbart-per2
+         occ$sbartsent1351.1.joao
+
+      rperson$rp-241/João Anes/m/status=N
+         occ$CSBC-obituario_csbc1407-JMateus
+         occ$sbart1366.1-per2
+         occ$sbartav1363.1-per4
+         occ$sbartcon1366.1.sbart-per5
+         occ$sbartemp1361.1-per6
+
+      rperson$rp-247/João Anes/m/status=N
+         occ$sbartemp1374.1-per5
+         occ$sbartolomeu0503-janes
+         occ$sbartproc1369.1-per3
+
+      rperson$rp-317/João Anes/m/status=N
+         occ$sbartolomeu.tab2102-janes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tes2502-janes
+
+      rperson$rp-403/João Anes/m/status=N
+         occ$sbartdoa1337.1.sbart-per4
+         occ$sbartdoa1349.1.joao
+
+      rperson$rp-45/João Anes/m/status=N
+         occ$CSBC-obituario_csbc0207-JAnes
+         occ$CSBC-obituario_csbc0405-JAnes
+         occ$CSBC-obituario_csbc0508-JAnes
+         occ$CSBC-obituario_csbc0706-JAnes
+         occ$CSBC-obituario_csbc1303-JAnes
+         occ$CSBC-obituario_csbc1305-JAnes
+         occ$CSBC-obituario_csbc1306-JAnes
+         occ$CSBC-obituario_csbc1512-JAnes
+         occ$CSBC-obituario_csbc1710-JAnes
+         occ$CSBC-obituario_csbc2007-JAnes
+         occ$CSBC-obituario_csbc2206-JAnes
+         occ$CSBC-obituario_csbc2609-JAnes
+         occ$CSBC-obituario_csbc2706-JAnes
+         occ$CSBC-obituario_csbc2804-JAnes
+
+      rperson$rp-203/João Bartolomeu/m/status=N
+         occ$CSBC-obituario_csbc1804-JBartolomeu
+         occ$sbartdoa1326.1.sbart-per2
+
+      rperson$rp-202/João Carvalho/m/status=N
+         occ$CSBC-obituario_csbc0912-JCarvalho
+         occ$CSBC-obituario_csbc2004-JCarvalho
+
+      rperson$rp-327/João de Alpoim/m/status=N
+         occ$sbartolomeu-3011-jalpoim/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2111-jalpoim/obs=WARNING: Occurrence missing
+         occ$sbartolomeu3011-jalpoim/obs=WARNING: Occurrence missing
+
+      rperson$rp-454/João de Alpoim/m/status=N
+         occ$csbartolomeu12011389-jalpoim
+         occ$sbartolomeu-3011b-jalpoim
+         occ$sbartolomeu.ref.2111-jalpoim
+
+      rperson$rp-419/João de Elvas/m/status=N
+         occ$csbartolomeu.ref12011389-jelvas
+         occ$CSBC-obituario_csbc2904_a-JEsteves
+         occ$sbarsent1368.1-per8
+         occ$sbart1366.1-per4
+         occ$sbartaf1362.1-per6
+         occ$sbartav1363.1-per3
+         occ$sbartdoa1366.1.sbart-per2
+         occ$sbartemp1357.2-per5
+         occ$sbartemp1361.1-per5
+         occ$sbartemp1363.2-per5
+         occ$sbartemp1365.1-per5
+         occ$sbartemp1374.3-per3
+         occ$sbartolomeu.refb.2202-jelvas
+         occ$sbartpos1369.2.joao
+         occ$sbartpos1369.5.sbart-per1
+         occ$sbartproc1369.1.elvas
+
+      rperson$rp-103/João de Pinho/m/status=N
+         occ$sbartemp1373.1-per6
+         occ$sbartemp1373.1.infante
+
+      rperson$rp-259/João de Uluária/m/status=N
+         occ$cabidosecoimbra1258-JUluaria
+
+      rperson$rp-455/João de Ulveira/m/status=N
+         occ$sbartolomeu.tes2502-julveira
+         occ$sbartolomeu.test.0812-julveira
+         occ$sbartolomeu.test.2703-julveira
+         occ$sbartolomeu.test0812-julveira/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2703-julveira/obs=WARNING: Occurrence missing
+
+      rperson$rp-200/João Domingues/m/status=N
+         occ$sbartemp1329.1-per3
+         occ$sbartsent1329.1-per10
+
+      rperson$rp-302/João Domingues/m/status=N
+         occ$sbartemp1374.2-per6
+         occ$sbartolomeu.ref1012_a-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0503-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0505-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0809-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test1001-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2102-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2111-jdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test3009-jdomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-366/João Domingues/m/status=N
+         occ$CSBC-obituario_csbc0702-JDomingues
+         occ$CSBC-obituario_csbc2210-JDomingues
+
+      rperson$rp-404/João Domingues/m/status=N
+         occ$csbartolomeu02061375-jdomingues
+         occ$csbartolomeu20081375-jdomingues
+         occ$sbartolomeu.ref.1012_a-jdomingues
+         occ$sbartolomeu.test.0503-jdomingues
+         occ$sbartolomeu.test.2111-jdomingues
+         occ$sbartolomeu.test.3009-jdomingues
+
+      rperson$rp-453/João Domingues/m/status=N
+         occ$csbartolomeu.ref1374-jdomingues
+         occ$csbartolomeu.ref30111382-jdomingues
+         occ$sbartdoa1366.1-per3
+
+      rperson$rp-197/João Esteves/m/status=N
+         occ$sbartsent1335.1-per9
+         occ$sbartsent1341.1.joao
+         occ$sbartsent1345.1-per3
+         occ$sbartsent1345.1.sbart
+
+      rperson$rp-198/João Esteves/m/status=N
+         occ$sbartpf1357.1-per3
+         occ$sbartsent1357.2-per3-per5
+
+      rperson$rp-386/João Esteves/m/status=N
+         occ$csbartolomeu.tab03061386-jesteves
+         occ$csbartolomeu.tab22021377-jesteves
+         occ$sbartolomeu.tab1004-jesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu1001-jesteves
+
+      rperson$rp-279/João Garcia/m/status=N
+
+      rperson$rp-284/João Garcia/m/status=N
+
+      rperson$rp-250/João Gil/m/status=N
+         occ$csbartolomeu.ref21051388-jgil
+         occ$csbartolomeu.test14041379-jgil
+         occ$sbart1366.1-per13
+         occ$sbartdoa1366.1.joao
+         occ$sbartemp1373.1-per2-per3
+
+      rperson$rp-292/João Gomes/m/status=N
+         occ$csbartolomeu.ref-jgomes
+         occ$csbartolomeu.ref12011389-jgomes
+         occ$csbartolomeu.ref25101389-jgomes
+         occ$csbartolomeu.test07071377-jgomes
+         occ$csbartolomeu.test14101375-jgomes
+         occ$csbartolomeu.test22021377-jgomes
+         occ$csbartolomeu02061375-jgomes
+         occ$csbartolomeu03061386-jgomes
+         occ$csbartolomeu13041376_a-jgomes
+         occ$CSBC-obituario_csbc0605_a-JGomes
+         occ$CSBC-obituario_csbc1406-JGomes
+         occ$sbartolomeu.ref.0503-jgomes
+         occ$sbartolomeu.ref.0512-jgomes
+         occ$sbartolomeu.ref.0712-jgarcia
+         occ$sbartolomeu.ref.0812-fgarcia
+         occ$sbartolomeu.ref.1906-jgarcia
+         occ$sbartolomeu.ref.2002-jgomes
+         occ$sbartolomeu.ref.2111-jgomes
+         occ$sbartolomeu.refb.2202-jgomes
+         occ$sbartolomeu1001-jgomes
+
+      rperson$rp-413/João Gonçalves/m/status=N
+         occ$csbartolomeu28101384-jgoncalves
+         occ$sbartolomeu.test25011383-jgonçaves
+
+      rperson$rp-346/João Lourenço/m/status=N
+         occ$sbartolomeu0412-jlourenco
+         occ$sbartolomeu0505-jlourenco
+
+      rperson$rp-142/João Marim/m/status=N
+         occ$sbartproc1348.1-per7
+         occ$sbartproc1348.1.marim
+
+      rperson$rp-150/João Minino/m/status=N
+         occ$sbartpos1363.1.joao
+
+      rperson$rp-387/João Peres/m/status=N
+         occ$csbartolomeu.test03031379-jperes
+         occ$csbartolomeu03031379-jperes
+
+      rperson$rp-388/João Peres/m/status=N
+         occ$CSBC-testamento_1285-per3
+         occ$sbartsent1266.1-per4
+
+      rperson$rp-389/João Peres/m/status=N
+         occ$sbartemp1374.3-per2
+         occ$sbartpos1369.2-per4
+
+      rperson$rp-248/João Rodrigues/m/status=N
+         occ$sbartctes1370.1.joao
+         occ$sbartemp1353.1-per7
+
+      rperson$rp-222/João Vermundes/m/status=N
+         occ$sbartcomp1210.1-per5
+         occ$sbartcomp1223.1-per16
+
+      rperson$rp-199/Jorge/m/status=N
+         occ$CSBC-obituario_csbc0908_a-Jorge
+         occ$sbartdoa1349.1.joao-per1
+         occ$sbartdoa1349.2-per1
+         occ$sbartsent1341.1-per1
+         occ$sbartsent1341.2-per1
+         occ$sbartsent1345.2-per1
+         occ$sbartsent1346.1-per1
+         occ$sbartsent1351.1-per1
+         occ$sbartsent1356.1-per1
+
+      rperson$rp-244/Justa/f/status=N
+
+      rperson$rp-70/Justa/m/status=N
+         occ$CSBC-obituario_csbc1404-DJusta
+         occ$CSBC-obituario_csbc2306-DJusta
+         occ$kalendas_laecc0907-DJusta
+         occ$kalendas_laecc2711-DJusta
+
+      rperson$rp-32/Justa Fernandes/f/status=N
+         occ$CSBC-obituario_csbc0503_a-JFernandes
+         occ$CSBC-obituario_csbc0902-JFernandes
+         occ$CSBC-obituario_csbc1408_b-JFernandes
+
+      rperson$rp-328/Justa Peres/f/status=N
+         occ$CSBC-obituario_csbc2402-JPeres
+         occ$CSBC-obituario_csbc2504-JPeres
+
+      rperson$rp-138/Legundia Pais/m/status=N
+         occ$sbartcv1126.1.goldrego
+
+      rperson$rp-308/Leonor Afonso/f/status=N
+
+      rperson$rp-344/Leonor Afonso/f/status=N
+
+      rperson$rp-371/Leonor Afonso/f/status=N
+
+      rperson$rp-204/Lourenço Esteves/m/status=N
+         occ$CSBC-obituario_csbc1612-LEsteves
+         occ$sbartemp1348.2-per2
+         occ$sbartemp1353.1-per5
+         occ$sbartemp1357.1-per2
+         occ$sbartemp1358.1-per5
+         occ$sbartproc1348.1-per6
+
+      rperson$rp-456/Lourenço Gonçalves/m/status=N
+         occ$csbartolomeu.tab03031379-lgoncalves
+         occ$csbartolomeu.tab30111386-lgoncalves
+         occ$sbartconf1364.1-per1
+
+      rperson$rp-154/Lourenço Martins/m/status=N
+         occ$sbartdoa1305.1.lourenco
+
+      rperson$rp-415/Lourenço Peres/m/status=N
+         occ$sbartolomeu.test.3011-lperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test3011-lperes/obs=WARNING: Occurrence missing
+
+      rperson$rp-270/Luís Domingues/m/status=N
+         occ$sbartolomeu.ref0412-ldomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test0412-ldomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-407/Luís Domingues/m/status=N
+         occ$sbartolomeu.ref.0412-ldomingues
+         occ$sbartolomeu.test.0412-ldomingues
+
+      rperson$rp-367/Luis Gonçalves/m/status=N
+
+      rperson$rp-382/Luis Gonçalves/m/status=N
+
+      rperson$rp-207/M Peres/m/status=N
+         occ$sbartcomp1210.1-per4
+         occ$sbartcomp1223.1-per3
+
+      rperson$rp-319/Mafalda Peres/f/status=N
+
+      rperson$rp-475/Maior Dias/f/status=N
+
+      rperson$rp-18/Margarida Anes/f/status=N
+         occ$CSBC-obituario_csbc0409_a-MAnes
+         occ$CSBC-obituario_csbc0504-MAnes
+         occ$CSBC-obituario_csbc0603-MAnes
+
+      rperson$rp-262/Margarida Anes/f/status=N
+
+      rperson$rp-263/Margarida Anes/f/status=N
+
+      rperson$rp-359/Margarida Anes/f/status=N
+         occ$CSBC-obituario_csbc0108-MAnes
+         occ$sbartolomeu0505-manes
+
+      rperson$rp-163/Margarida Ascenco/m/status=N
+         occ$sbartemp1373.1-per2
+
+      rperson$rp-63/Maria/m/status=N
+         occ$CSBC-obituario_csbc2910-Maria
+
+      rperson$rp-11/Maria Anes/f/status=N
+         occ$CSBC-obituario_csbc2008-MAnes
+         occ$CSBC-obituario_csbc2112-MAnes
+         occ$CSBC-obituario_csbc2205-MAnes
+
+      rperson$rp-303/Maria Anes/f/status=N
+         occ$CSBC-obituario_csbc1606-MAnes
+         occ$CSBC-obituario_csbc2409-MAnes
+         occ$CSBC-obituario_csbc2607-MAnes
+         occ$CSBC-obituario_csbc3105-MAnes
+
+      rperson$rp-304/Maria Anes/f/status=N
+         occ$sbartolomeu.ref0607-manes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0707-manes/obs=WARNING: Occurrence missing
+
+      rperson$rp-64/Maria Anes/m/status=N
+         occ$CSBC-obituario_csbc2510-MAnes
+
+      rperson$rp-82/Maria Anes/m/status=N
+         occ$CSBC-obituario_csbc0204-MAnes
+
+      rperson$rp-86/Maria Anes/m/status=N
+         occ$CSBC-obituario_csbc1606-MEstevão
+         occ$CSBC-obituario_csbc2409-MEstevão
+         occ$CSBC-obituario_csbc2607-MEstevão
+         occ$CSBC-obituario_csbc3105-MEstevão
+         occ$CSBC-testamento.1285.MEstevao
+
+      rperson$rp-153/Maria Domingues/m/status=N
+         occ$sbartemp1279.1-per1
+         occ$sbartemp1279.1.maria
+
+      rperson$rp-458/Maria Domingues/f/status=N
+         occ$csbartolomeu12011389-mdomingues
+         occ$sbartolomeu-3011b-mdomingues
+
+      rperson$rp-315/Maria Esteves/f/status=N
+         occ$sbartolomeu1012-mesteves
+         occ$sbartolomeu1906-mariaesteves
+
+      rperson$rp-167/Maria Fernandes/m/status=N
+         occ$sbartdoa1363.1-per1
+         occ$sbartdoa1363.1.domingos
+
+      rperson$rp-48/Maria Gonçalves/f/status=N
+         occ$CSBC-obituario_csbc0106-MGonçalves
+         occ$CSBC-obituario_csbc1205-MGonçalves
+         occ$CSBC-obituario_csbc1304_a-MGonçalves
+         occ$CSBC-obituario_csbc2505-MGonçalves
+         occ$CSBC-obituario_csbc3004_a-MGonçalves
+
+      rperson$rp-73/Maria Gonçalves/m/status=N
+         occ$CSBC-obituario_csbc1510-MGonçalves
+
+      rperson$rp-90/Maria Gonçalves/m/status=N
+         occ$CSBC-obituario_csbc0707-MGonçalves
+
+      rperson$rp-2/Maria Martins/f/status=N
+         occ$CSBC-obituario_csbc1405-MMartins
+         occ$CSBC-obituario_csbc1909-MMartins
+
+      rperson$rp-390/Maria Martins/f/status=N
+         occ$csbartolomeu.30111386-mmartins
+         occ$csbartolomeu14041379-mmartins
+
+      rperson$rp-110/Maria Peres/f/status=N
+         occ$sbartctes1370.1.maria
+
+      rperson$rp-21/Maria Peres/f/status=N
+         occ$CSBC-obituario_csbc0309_a-MPeres
+         occ$CSBC-obituario_csbc2109-MPeres
+
+      rperson$rp-457/Maria Peres/f/status=N
+         occ$CSBC-obituario_csbc0907-MPeres
+         occ$CSBC-obituario_csbc2608-MPeres
+
+      rperson$rp-157/Maria Sobrinha/m/status=N
+         occ$sbartemp1292.1-per2
+         occ$sbartemp1292.1.domingos
+
+      rperson$rp-352/Maria Vicente/m/status=N
+         occ$sbartolomeu1012-mvicente
+         occ$sbartolomeu1012_a-mvicente
+         occ$sbartolomeu2201-mvicente
+
+      rperson$rp-72/Marina/m/status=N/obs=sic.
+         occ$CSBC-obituario_csbc1311-DMarinha
+
+      rperson$rp-116/Marinha Esteves/m/status=N
+         occ$sbartemp1349.1-per2
+         occ$sbartemp1349.1.domingos
+
+      rperson$rp-463/Marinha Martins/f/status=N
+         occ$csbartolomeu1375-mmartins
+         occ$csbartolomeu18041375-mmartins
+
+      rperson$rp-322/Martim/m/status=N
+         occ$CSBC-obituario_csbc1008_a-MMartim
+         occ$CSBC-obituario_csbc2503-MMartim
+
+      rperson$rp-67/Martim/m/status=N
+         occ$CSBC-obituario_csbc2402-Martim
+
+      rperson$rp-459/Martim Afonso/m/status=N
+         occ$sbartdoa1337.1-per6
+         occ$sbartproc1348.1-per8
+         occ$sbartsent1341.1-per4
+
+      rperson$rp-105/Martim Anes/m/status=N
+         occ$sbartemp1331.1-per3
+         occ$sbartemp1331.1.martim
+
+      rperson$rp-59/Martim Anes/m/status=N
+         occ$cabidosecoimbra1258-MAveiro
+         occ$CSBC-obituario_csbc0209-MAnes
+         occ$CSBC-obituario_csbc0703-MAnes
+         occ$CSBC-obituario_csbc1010-MAnes
+         occ$CSBC-obituario_csbc1310-MAnes
+         occ$CSBC-obituario_csbc2105-DLoba-per1-4
+         occ$CSBC-obituario_csbc3001-SPais-per1-4
+         occ$kalendas_laecc2209-MAnes
+
+      rperson$rp-119/Martim de Braga/m/status=N
+         occ$CSBC-obituario_csbc1206-MBraga
+         occ$CSBC-obituario_csbc2604-MBraga
+         occ$CSBC-obituario_csbc2904_a-MBraga
+         occ$CSBC-obituario_csbc3103-desconhecidoBraga
+         occ$sbartdoa1360.1.martim
+         occ$sbartemp1348.2-per3
+
+      rperson$rp-356/Martim de Pinho/m/status=N
+         occ$sbartolomeu.tab0809-mpinho/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2105-mpinho/obs=WARNING: Occurrence missing
+
+      rperson$rp-460/Martim de Pinho/m/status=N
+         occ$sbartolomeu.tab.0809-mpinho
+         occ$sbartolomeu.tabb.2105b-mpinho
+         occ$sbartolomeu.testb.0707-mpinho
+
+      rperson$rp-151/Martim Domingues/m/status=N
+         occ$sbartpos1369.5.martim
+
+      rperson$rp-166/Martim Domingues/m/status=N
+         occ$sbartemp1353.1.martim
+
+      rperson$rp-251/Martim Domingues/m/status=N
+         occ$kalendas_laecc1207-Desconhecidos/obs=WARNING: Occurrence missing
+         occ$kalendas_laecc1207-DMartins/obs=WARNING: Occurrence missing
+         occ$kalendas_laecc1207-DMartins-per1/obs=WARNING: Occurrence missing
+         occ$kalndas_laecc1207-MDomingues/obs=WARNING: Occurrence missing
+         occ$kalndas_laecc1207-MDomingues-per2/obs=WARNING: Occurrence missing
+
+      rperson$rp-380/Martim Domingues/m/status=N
+         occ$sbartolomeu.test.0712-mdomingues
+         occ$sbartolomeu2002-mdomingues
+
+      rperson$rp-95/Martim Domingues/m/status=N
+         occ$CSBC-obituario_csbc0507-MDomingues
+
+      rperson$rp-271/Martim Esteves/m/status=N/obs=confrontacoes
+         occ$sbartav1363.1-per5
+         occ$sbartemp1374.1-per2-per3
+
+      rperson$rp-205/Martim Gil/m/status=N
+         occ$csbartolomeu.tab14041379-mgil
+         occ$sbartctes1370.1-per1
+         occ$sbartdoa1366.1-per5
+         occ$sbartdoa1366.1-per6
+         occ$sbartemp1358.1-per6
+         occ$sbartemp1361.1-per7
+         occ$sbartemp1363.2-per7
+         occ$sbartpos1369.2-per1
+         occ$sbartpos1369.5-per6
+         occ$sbartproc1369.1-per4
+
+      rperson$rp-325/Martim Lourenco/m/status=N
+         occ$sbartemp1368.1-per4
+         occ$sbartolomeu0804-mlourenco
+
+      rperson$rp-417/Martim Migueis/m/status=N
+         occ$csbartolomeu.ref09021389-mmigueis
+         occ$csbartolomeu.ref12011389-mmigueis
+         occ$csbartolomeu.ref28031389-mmigueis
+
+      rperson$rp-76/Martim Pais/m/status=N
+         occ$CSBC-obituario_csbc0109_b-MPais
+
+      rperson$rp-176/Martim Peres/m/status=N
+         occ$sbartsent1345.1-per1
+         occ$sbartsent1345.2-per2
+         occ$sbartsent1346.1-per2
+
+      rperson$rp-50/Martim Salvado/m/status=N
+         occ$CSBC-obituario_csbc2603-MSalvado
+         occ$CSBC-obituario_csbc2705-MSalvado
+
+      rperson$rp-74/Martim Sempiterna/m/status=N
+         occ$CSBC-obituario_csbc1210-MSempiterna
+
+      rperson$rp-206/Martim Vasques/m/status=N
+         occ$sbarsent1368.1-per1
+         occ$sbartemp1361.1-per3
+         occ$sbartpf1357.1-per12
+
+      rperson$rp-293/Martinho/m/status=N
+         occ$sbartolomeu.ref1711-dmartinho/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2202-dmartinho/obs=WARNING: Occurrence missing
+
+      rperson$rp-461/Martinho/m/status=N
+         occ$sbartolomeu.ref.1711-dmartinho
+         occ$sbartolomeu.testb.2202-dmartinho
+
+      rperson$rp-462/Martins/m/status=N/obs=primeiro nome ilegivel
+         occ$CSBC-obituario_csbc0711-MMartins
+         occ$sbartcomp1223.1-per11
+
+      rperson$rp-133/Mem Gil/m/status=N
+         occ$sbartcv1224.1.maria
+
+      rperson$rp-258/Mendo Soares/m/status=N
+         occ$cabidosecoimbra1258-MSoares
+
+      rperson$rp-321/Miguel/m/status=N
+         occ$CSBC-obituario_csbc0605-Miguel
+         occ$CSBC-obituario_csbc2705-Miguel
+
+      rperson$rp-165/Miguel Burro/m/status=N
+         occ$sbartdoa1363.1.burro
+
+      rperson$rp-175/Miguel Lourenco/m/status=N
+         occ$sbartaf1313.1-per3
+         occ$sbartdoa1335.1-per2
+         occ$sbartemp1322.1-per3
+         occ$sbartemp1331.1-per2
+         occ$sbartsent1329.1-per1
+
+      rperson$rp-294/Nicolau Ramos/m/status=N
+         occ$sbartolomeu.ref0407-nramos/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0607-nramos/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0707-nramos/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2105-nramos/obs=WARNING: Occurrence missing
+
+      rperson$rp-464/Nicolau Ramos/m/status=N
+         occ$sbartolomeu.ref.0407-nramos
+         occ$sbartolomeu.ref.0607-nramos
+         occ$sbartolomeu.refb.0707b-nramos
+         occ$sbartolomeu.refb.2105b-nramos
+
+      rperson$rp-106/nome desconhecido/m/status=N
+         occ$sbartemp1348.2.conego
+
+      rperson$rp-107/nome desconhecido/m/status=N
+         occ$sbartdoa1363.1.afonso
+         occ$sbartdoa1363.1.Rei
+
+      rperson$rp-136/nome desconhecido/m/status=N
+         occ$sbartcv1224.1.pai
+
+      rperson$rp-169/nome desconhecido/m/status=N
+         occ$sbartemp1365.1-per2
+
+      rperson$rp-19/nome desconhecido/f/status=N
+         occ$CSBC-obituario_csbc2010-desconhecida
+         occ$CSBC-obituario_csbc2712-MPeres
+
+      rperson$rp-26/nome desconhecido/f/status=N
+         occ$CSBC-obituario_csbc1110-desconhecida
+         occ$CSBC-obituario_csbc1410-desconhecida
+
+      rperson$rp-27/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0608-Desconhecido
+         occ$CSBC-obituario_csbc1308-Desconhecido
+
+      rperson$rp-323/nome desconhecido/m/status=N/obs=benfeitores que deixaram casas novas, os benfeitores que deixaram uma casa onde morou Boy Alvo
+         occ$CSBC-obituario_csbc0404-Desconhecido
+         occ$CSBC-obituario_csbc1706-Desconhecido
+         occ$CSBC-obituario_csbc2605-Desconhecido
+         occ$CSBC-obituario_csbc2803-Desconhecido
+         occ$CSBC-obituario_csbc2806-Desconhecido
+
+      rperson$rp-332/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0112-desconhecida
+         occ$CSBC-obituario_csbc0112-desconhecido
+
+      rperson$rp-333/nome desconhecido/f/status=N
+         occ$CSBC-obituario_csbc0303-desconhecida
+         occ$CSBC-obituario_csbc0402-per1
+         occ$CSBC-obituario_csbc0406-desconhecida
+         occ$CSBC-obituario_csbc0409-desconhecida
+         occ$CSBC-obituario_csbc0412-desconhecida
+         occ$CSBC-obituario_csbc0604-CPeres
+         occ$CSBC-obituario_csbc0710-desconhecida
+         occ$CSBC-obituario_csbc1005-CPeres
+         occ$CSBC-obituario_csbc1208-desconhecida
+         occ$CSBC-obituario_csbc1507-desconhecida
+
+      rperson$rp-341/nome desconhecido/f/status=N
+         occ$CSBC-obituario_csbc0809_a-MMendes
+         occ$CSBC-obituario_csbc1508-desconhecida
+         occ$CSBC-obituario_csbc1812_a-Margarida
+         occ$CSBC-obituario_csbc2909-MMendes
+
+      rperson$rp-46/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0705-Desconhecido
+         occ$CSBC-obituario_csbc0801-Desconhecido
+         occ$CSBC-obituario_csbc1511-desconhecido
+         occ$CSBC-obituario_csbc1608-Desconhecido
+
+      rperson$rp-49/nome desconhecido/m/status=N/obs=confrontações
+         occ$CSBC-obituario_csbc0902_a-MDomingues-per1-4
+         occ$CSBC-obsbc2001-per1-4
+
+      rperson$rp-62/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc1004-Desconhecido
+
+      rperson$rp-66/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc2110-APeres
+         occ$CSBC-obituario_csbc2110-desconhecida
+         occ$CSBC-obituario_csbc2110-desconhecido
+
+      rperson$rp-68/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0802-MCaixão
+
+      rperson$rp-85/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0105-AFernandes
+
+      rperson$rp-96/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0910-desconhecida
+         occ$CSBC-obituario_csbc0910-desconhecido
+
+      rperson$rp-97/nome desconhecido/m/status=N
+         occ$CSBC-obituario_csbc0109-desconhecida
+
+      rperson$rp-34/Ousenda Peres/f/status=N
+         occ$CSBC-obituario_csbc1108-OPeres
+         occ$CSBC-obituario_csbc1408-OPeres
+
+      rperson$rp-467/Paio/m/status=N/obs=notuit
+         occ$CSBC-obituario_csbc0701-DPaio
+         occ$sbartcv1126.1-per11
+
+      rperson$rp-128/Paio Anes/m/status=N
+         occ$sbartcomp1210.1-per6
+         occ$sbartcomp1210.1.egas
+
+      rperson$rp-53/Pascoal de Carvalhais/m/status=N
+         occ$CSBC-obituario_csbc0608-PCarvalhais
+         occ$CSBC-obituario_csbc1308-PCarvalhais
+
+      rperson$rp-127/Pascoal Domingues/m/status=N
+         occ$sbartdoa1349.2.pascoal
+
+      rperson$rp-243/Pedro/m/status=N
+         occ$csbartolomeu.ref23041378-dpedro
+         occ$CSBC-obituario_csbc0709_b-ReiPedro
+         occ$CSBC-obituario_csbc0712-ReiDesconhecido
+         occ$CSBC-obituario_csbc2108_a-ReiPedro
+         occ$CSBC-obituario_csbc2403_a-ReiPedro
+         occ$CSBC-obituario_cscbc0102_b-ReiPedro
+         occ$sbartconf1364.1.rei
+         occ$sbartsent1357.2.rei
+
+      rperson$rp-51/Pedro/m/status=N
+         occ$CSBC-obituario_csbc0311-DPedro
+         occ$CSBC-obituario_csbc0702-BispoPedro
+         occ$CSBC-obituario_csbc2210-BispoPedro
+
+      rperson$rp-295/Pedro Afonso/m/status=N
+         occ$sbartolomeu.ref.0712-pafonso
+         occ$sbartolomeu.ref.0812-pafonso
+         occ$sbartolomeu.ref.14021406-pafonso
+         occ$sbartolomeu.ref.2202-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2202-pafonso/obs=WARNING: Occurrence missing
+
+      rperson$rp-345/Pedro Afonso/m/status=N
+
+      rperson$rp-357/Pedro Afonso/m/status=N
+         occ$sbartolomeu.tab.0203_a-pafonso
+         occ$sbartolomeu.tab.0412-pafonso
+         occ$sbartolomeu.tab.0712-pafonso
+         occ$sbartolomeu.tab.0802-pafonso
+         occ$sbartolomeu.tab.3011-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab.3011b-pafonso
+         occ$sbartolomeu.tab0203_a-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0412-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0712-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab0802-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab3011-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu2502-pafonso
+
+      rperson$rp-394/Pedro Afonso/m/status=N
+         occ$CSBC-obituario_csbc0807-PAfonso
+         occ$CSBC-obituario_csbc1808-PAfonso
+         occ$sbartolomeu.ref.0203-pafonso
+         occ$sbartolomeu.ref.1012-pafonso
+         occ$sbartolomeu1004-pafonso
+
+      rperson$rp-395/Pedro Afonso/m/status=N
+         occ$sbartolomeu.test.3011-pafonso/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test3011-pafonso/obs=WARNING: Occurrence missing
+
+      rperson$rp-210/Pedro Anes/m/status=N
+         occ$CSBC-obituario_csbc0212-PAnes
+         occ$CSBC-obituario_csbc0804-PAnes
+         occ$CSBC-obituario_csbc2207-PAnes
+
+      rperson$rp-465/Pedro Anes/m/status=N
+         occ$csbartolomeu.tab1375-panes
+         occ$csbartolomeu.tab18041375-panes
+
+      rperson$rp-75/Pedro Aparício/m/status=N
+         occ$CSBC-obituario_csbc2308-PAparicios
+
+      rperson$rp-104/Pedro Colaco/m/status=N
+         occ$sbartemp1322.1.colaco
+
+      rperson$rp-342/Pedro Colaço/m/status=N/obs=Conlacii
+         occ$CSBC-obituario_csbc0904-PColaço
+         occ$CSBC-obituario_csbc0912-PColaço
+
+      rperson$rp-208/Pedro Domingues/m/status=N
+         occ$CSBC-obituario_csbc1609-PDomingues
+         occ$CSBC-obituario_csbc2301-PDomingues
+         occ$sbartpf1357.1-per6
+
+      rperson$rp-237/Pedro Domingues/m/status=N
+         occ$sbartaf1313.1-per7
+         occ$sbartdoa1337.1-per7
+         occ$sbartproc1348.1-per5
+
+      rperson$rp-397/Pedro Esteves/m/status=N
+         occ$sbartolomeu.test.2202-pesteves/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2202-pesteves/obs=WARNING: Occurrence missing
+
+      rperson$rp-466/Pedro Esteves/m/status=N/obs=herdeiro
+         occ$sbartolomeu.test25011383-pesteves
+         occ$sbartolomeu25011383-pesteves
+
+      rperson$rp-369/Pedro Guilherme/m/status=N
+
+      rperson$rp-396/Pedro Lourenço/m/status=N
+         occ$CSBC-obituario_csbc1502-PLourenço
+         occ$sbartcomp1210.1-per9
+
+      rperson$rp-126/Pedro Martins/m/status=N
+         occ$CSBC-obituario_csbc0612-PMartins
+         occ$sbartcomp1223.1-per2
+
+      rperson$rp-162/Pedro Martins/m/status=N
+         occ$sbartemp1292.1-per6
+
+      rperson$rp-348/Pedro Martins/m/status=N
+         occ$CSBC-obituario_csbc0209-PMartins
+         occ$CSBC-obituario_csbc2610-PMartins
+
+      rperson$rp-78/Pedro Martins/m/status=N
+         occ$CSBC-obituario_csbc1704-PMartins
+
+      rperson$rp-468/Pedro Mateus/m/status=N
+         occ$sbart1366.1-per5-per6
+         occ$sbartemp1357.1-per3
+
+      rperson$rp-177/Pedro Peres/m/status=N
+         occ$sbartsent1266.1-per15
+         occ$sbartsent1266.1-per6
+         occ$sbartsent1289.1-per11
+
+      rperson$rp-209/Pedro Peres/m/status=N
+         occ$CSBC-obituario_csbc0202_a-PPeres
+         occ$sbartdoa1295.1.sbart-per1
+         occ$sbartemp1292.1.sbart-per1
+         occ$sbartesc1291.1.sbart-per2
+         occ$sbartsent1289.1.sbart-per1
+
+      rperson$rp-320/Pedro Sanches/m/status=N
+         occ$csbartolomeu21051388-psanches
+         occ$CSBC-obituario_csbc0411-PSanches
+         occ$CSBC-obituario_csbc1104_a-PSanches
+
+      rperson$rp-363/Pedro Vicente/m/status=N
+         occ$sbartolomeu1012-pvicente
+         occ$sbartolomeu1906-pvicente
+
+      rperson$rp-218/Pero Martins/m/status=N
+
+      rperson$rp-170/Perote/m/status=N
+         occ$sbartemp1363.3-per2-per5
+         occ$sbartemp1363.3.perote
+
+      rperson$rp-224/Prior e Cabido de S. Bartolomeu/m/status=N
+         occ$sbartdoa1295.1.sbart
+         occ$sbartdoa1305.1.sbart
+         occ$sbartdoa1326.1.sbart
+         occ$sbartdoa1335.1.sbart
+         occ$sbartdoa1337.1.sancha
+         occ$sbartdoa1337.1.sbart
+         occ$sbartdoa1349.1.sbart
+         occ$sbartdoa1349.2.sbart
+         occ$sbartdoa1360.1.sbart
+
+      rperson$rp-212/Raimundo/m/status=N
+         occ$sbartcv1224.1-per10
+         occ$sbartsent1326.1-per1
+         occ$sbartsent1333.1-per1
+
+      rperson$rp-215/Raimundo Beltrães/m/status=N/obs=ausente
+         occ$csbartolomeu.ref03031379-rbeltraes
+         occ$csbartolomeu.ref03061386-rbeltraes
+         occ$csbartolomeu.ref07071377-rbeltraes
+         occ$csbartolomeu.ref08101389-rbeltraes
+         occ$csbartolomeu.ref09021389-rbeltraes
+         occ$csbartolomeu.ref12011389-rbeltraes
+         occ$csbartolomeu.ref13041376-rbeltraes
+         occ$csbartolomeu.ref13041376_a-rbeltraes
+         occ$csbartolomeu.ref1374-rbeltraes
+         occ$csbartolomeu.ref14041379-rbeltraes
+         occ$csbartolomeu.ref14101375-rbeltraes
+         occ$csbartolomeu.ref20011381-rbeltraes
+         occ$csbartolomeu.ref20081375-rbeltraes
+         occ$csbartolomeu.ref22021377-rbeltraes
+         occ$csbartolomeu.ref22101386-rbeltraes
+         occ$csbartolomeu.ref23041378-rbeltraes
+         occ$csbartolomeu.ref24081377-rbeltraes
+         occ$csbartolomeu.ref25011383-rbeltraes
+         occ$csbartolomeu.ref25101389-rbeltraes
+         occ$csbartolomeu.ref28031389-rbeltraes
+         occ$csbartolomeu.ref28101384-rbeltraes
+         occ$csbartolomeu.ref3011-rbeltraes
+         occ$csbartolomeu.ref30111382-rbeltraes
+         occ$csbartolomeu02061375-rbeltraes
+         occ$csbartolomeu18041375-rbeltraes
+         occ$CSBC-obituario_csbc1107-RBeltrães
+         occ$CSBC-obituario_csbc3006-RBeltrães
+         occ$sbartemp1369.4.sbart-per1
+         occ$sbartemp1373.1.sbart-per1
+         occ$sbartemp1374.1.sbart-per1
+         occ$sbartemp1374.2.sbart-per1
+         occ$sbartemp1374.3.sbart-per1
+         occ$sbartolomeu-0707-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.0203_a-rbeltraes
+         occ$sbartolomeu.ref.0412-rbeltraes
+         occ$sbartolomeu.ref.0503-rbeltraes
+         occ$sbartolomeu.ref.0505-rbeltraes
+         occ$sbartolomeu.ref.0512-rbeltraes
+         occ$sbartolomeu.ref.0607-rbeltraes
+         occ$sbartolomeu.ref.0712-rbeltraes
+         occ$sbartolomeu.ref.0802-rbeltraes
+         occ$sbartolomeu.ref.0804-rbeltraes
+         occ$sbartolomeu.ref.0809-rbeltraes
+         occ$sbartolomeu.ref.0812-rbeltraes
+         occ$sbartolomeu.ref.1001-rbeltraes
+         occ$sbartolomeu.ref.1004-rbeltraes
+         occ$sbartolomeu.ref.1012-rbeltraes
+         occ$sbartolomeu.ref.1012_a-rbeltraes
+         occ$sbartolomeu.ref.14021406-rbeltraes
+         occ$sbartolomeu.ref.1711-rbeltraes
+         occ$sbartolomeu.ref.1906-rbeltraes
+         occ$sbartolomeu.ref.2002-rbeltraes
+         occ$sbartolomeu.ref.2102-rbeltraes
+         occ$sbartolomeu.ref.2111-rbeltraes
+         occ$sbartolomeu.ref.2202-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.2502-rbeltraes
+         occ$sbartolomeu.ref.2505-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.2605-rbeltraes
+         occ$sbartolomeu.ref.2703-rbeltraes
+         occ$sbartolomeu.ref.3009-rbeltraes
+         occ$sbartolomeu.ref.3011-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref.3011b-rbeltraes
+         occ$sbartolomeu.ref.erido0503-rbeltraes
+         occ$sbartolomeu.ref0203_a-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0412-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0503-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0505-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0512-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0607-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0712-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0802-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0804-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0809-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0812-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1001-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1004-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref14021406-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1711-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1906-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2002-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2102-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2111-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2202-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2502-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2505-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2605-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2703-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref3009-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref3011-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.refb.2202-rbeltraes
+         occ$sbartolomeu.refb.2505b-rbeltraes
+         occ$sbartolomeu.referido0503-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu0407-rbeltraes
+         occ$sbartolomeu0707-rbeltraes/obs=WARNING: Occurrence missing
+         occ$sbartolomeub-0707-rbeltraes
+         occ$sbartren1369.3.sbart-per1
+
+      rperson$rp-124/Rui/m/status=N/obs=dúvida de leitura
+
+      rperson$rp-219/Rui/m/status=N/obs=dúvida de leitura
+
+      rperson$rp-283/Rui Martins/m/status=N
+         occ$sbartolomeu.ref0203_a-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0407-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref0712-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref14021406-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1906-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2105-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2201-rmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2202-rmartins/obs=WARNING: Occurrence missing
+
+      rperson$rp-469/Rui Martins/m/status=N
+         occ$csbartolomeu.ref02061375-rmartins
+         occ$sbartolomeu.ref.0203_a-rmartins
+         occ$sbartolomeu.ref.0407-rmartins
+         occ$sbartolomeu.ref.0712-rmartins
+         occ$sbartolomeu.ref.1012_a-rmartins
+         occ$sbartolomeu.ref.14021406-rmartins
+         occ$sbartolomeu.ref.1906-rmartins
+         occ$sbartolomeu.ref.2201-rmartins
+         occ$sbartolomeu.refb.2105b-rmartins
+         occ$sbartolomeu.refb.2202-rmartins
+
+      rperson$rp-146/Salvador Domingues/m/status=N
+         occ$sbartemp1363.2.salvador
+         occ$sbartolomeu.test2002-sdomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-158/Salvador Domingues/m/status=N
+         occ$sbartemp1331.1.salvador
+
+      rperson$rp-470/Salvador Domingues/m/status=N
+         occ$CSBC-obituario_csbc1211_a-SDomingues
+         occ$sbartolomeu.ref.1004-sdomingues
+         occ$sbartolomeu.ref.2703-sdomingues
+         occ$sbartolomeu.ref1004-sdomingues/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref2703-sdomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-30/Sancha Bucheira/f/status=N
+         occ$CSBC-obituario_csbc0609-SBucheira
+         occ$CSBC-obituario_csbc2208-SBucheira
+
+      rperson$rp-160/Sancha Martins/m/status=N
+         occ$sbartemp1357.2.sancha
+
+      rperson$rp-343/Sancha Salvador/f/status=N/obs=nome truncado
+         occ$CSBC-obituario_csbc0904-SSalvador
+         occ$CSBC-obituario_csbc0912-salvadores
+
+      rperson$rp-391/Sancho Garcia/m/status=N
+         occ$CSBC-obituario_csbc1904-SGarcia
+         occ$sbartaf1362.1.sbart-per1
+         occ$sbartcon1366.1.sbart-per1
+         occ$sbartdoa1360.1.sbart-per1
+         occ$sbartemp1348.2.sbart-per1
+         occ$sbartemp1349.1.sbart-per1
+         occ$sbartemp1353.1.sbart-per1
+         occ$sbartemp1355.1.sbart-per1
+         occ$sbartemp1357.1.sbart-per1
+         occ$sbartemp1357.2.sbart-per1
+         occ$sbartemp1358.1.sbart-per1
+         occ$sbartemp1361.1.sbart-per1
+         occ$sbartemp1363.1.sbart-per1
+         occ$sbartemp1363.2.sbart-per1
+         occ$sbartemp1363.3.sbart-per1
+         occ$sbartemp1365.1.sbart-per1
+         occ$sbartpf1357.1-per4
+         occ$sbartsent1351.1.sbart-per3
+         occ$sbartsent1356.1.sbart-per5
+
+      rperson$rp-87/Sancho Garcia/m/status=N
+         occ$CSBC-obituario_csbc0411-SGarcia
+         occ$CSBC-obituario_csbc1104_a-PSanches-per1-4
+
+      rperson$rp-69/Sancho Gonçalves/m/status=N
+         occ$CSBC-obituario_csbc2308_b-SGonçalves
+
+      rperson$rp-139/Sebastião Feltreiro/m/status=N
+         occ$sbartsent1287.1-per2
+         occ$sbartsent1287.1.sebastiao
+
+      rperson$rp-311/Senhorinha Rodrigues/f/status=N
+         occ$CSBC-obituario_csbc2510-Senhorinha
+         occ$sbartolomeu.ref0503-srodrigues/obs=WARNING: Occurrence missing
+
+      rperson$rp-80/Simão Mendes/m/status=N
+         occ$CSBC-obituario_csbc1203-SMendes
+         occ$CSBC-obituario_csbc1707-SMendes
+         occ$CSBC-obituario_csbc2601-SMendes
+         occ$CSBC-obituario_csbc2704-SMendes
+
+      rperson$rp-65/Soares/m/status=N
+         occ$CSBC-obituario_csbc2410-DSancha
+         occ$CSBC-obituario_csbc2410-MSoares
+
+      rperson$rp-168/Susana Peres/f/status=N
+         occ$CSBC-obituario_0202_b-SPeres
+         occ$sbartdoa1305.1.susana
+
+      rperson$rp-257/Teresa Dias/m/status=N
+         occ$cabidosecoimbra1258-TDias
+
+      rperson$rp-384/Toda/f/status=N
+         occ$CSBC-obituario_csbc.0202_c-DToda
+         occ$CSBC-obituario_csbc2209-DToda
+
+      rperson$rp-60/Toda/m/status=N
+         occ$CSBC-obituario_csbc1505-DToda
+         occ$kalendas_laecc1311-DToda
+
+      rperson$rp-260/Urbano Martins/m/status=N
+         occ$CSBC-obituario_csbc0112-UMartins
+
+      rperson$rp-108/Vasco/m/status=N
+         occ$sbartsent1357.1-per8
+
+      rperson$rp-174/Vasco Afonso/m/status=N
+         occ$csbartolomeu07071377.ref-vafonso
+         occ$sbartemp1368.1-per7
+         occ$sbartemp1373.1-per4
+
+      rperson$rp-84/Vasco Afonso/m/status=N
+         occ$CSBC-obituario_csbc0402_a-VAfonso
+
+      rperson$rp-266/Vasco Anes/m/status=N
+         occ$sbartolomeu.ref2111-vanes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2111-vanes/obs=WARNING: Occurrence missing
+
+      rperson$rp-472/Vasco Anes/m/status=N
+         occ$sbartolomeu.ref.2111-vanes
+         occ$sbartolomeu.test.2111-vanes
+
+      rperson$rp-109/Vasco Martins/m/status=N
+         occ$sbartav1363.1-per6
+         occ$sbartav1363.1.vasco
+
+      rperson$rp-471/Vasco Martins/m/status=N
+         occ$csbartolomeu.tab20011381-vmartins
+         occ$csbartolomeu.tab25011383-vmartins
+         occ$sbartolomeu.tab.0503-vmartins
+         occ$sbartolomeu.tab.2002-vmartins
+         occ$sbartolomeu.tab0503-vmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.tab2002-vmartins/obs=WARNING: Occurrence missing
+         occ$sbartolomeu1012-vmartins
+         occ$sbartolomeu1012_a-vmartins
+         occ$sbartolomeu2201-vmartins
+         occ$sbartsent1321.1-per14
+
+      rperson$rp-298/Vasco Peres/m/status=N
+         occ$sbartolomeu.test2002-vperes/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.test2605-vperes/obs=WARNING: Occurrence missing
+
+      rperson$rp-402/Vasco Peres/m/status=N
+         occ$csbartolomeu.ref03061386-vperes
+         occ$csbartolomeu.test03061386-vperes
+         occ$csbartolomeu.test08101389-vperes
+         occ$csbartolomeu.test22021377-vperes
+         occ$csbartolomeu.test22101386-vperes
+         occ$csbartolomeu.test28101384-vperes
+         occ$sbartolomeu.test.2002-vperes
+         occ$sbartolomeu.test.2605-vperes
+
+      rperson$rp-132/Vicente/m/status=N
+         occ$sbartsent1266.1.vicente
+
+      rperson$rp-155/Vicente Anes/m/status=N
+         occ$sbartpos1363.1.vicente
+         occ$sbartsent1345.2.vicente
+
+      rperson$rp-36/Vicente Anes/m/status=N
+         occ$CSBC-obituario_csbc0101_a-VAnes
+         occ$CSBC-obituario_csbc0202-VAnes
+         occ$CSBC-obituario_csbc1803-VAnes
+         occ$CSBC-obituario_csbc1812-VAnes
+         occ$CSBC-obituario_csbc2009-VAnes
+
+      rperson$rp-92/Vicente Bento/m/status=N
+         occ$CSBC-obituario_csbc1810-Desconhecido
+         occ$CSBC-obituario_csbc1810-VBento
+
+      rperson$rp-276/Vicente Dias/m/status=N/obs=à morte do pai foi realizada a venda dos lagares
+
+      rperson$rp-365/Vicente Dias/m/status=N/obs=à morte do pai foi realizada a venda dos lagares
+
+      rperson$rp-129/Vicente Domingues/m/status=N
+         occ$sbartaf1362.1.domingos
+         occ$sbartemp1292.1.lanceiro
+
+      rperson$rp-148/Vicente Domingues/m/status=N
+         occ$sbartemp1355.1.vicente
+
+      rperson$rp-277/Vicente Domingues/m/status=N
+         occ$CSBC-obituario_csbc1007-VDomingues
+         occ$sbartolomeu.ref.1012_a-vdomingues
+         occ$sbartolomeu.ref1012-cabelos/obs=WARNING: Occurrence missing
+         occ$sbartolomeu.ref1012_a-vdomingues/obs=WARNING: Occurrence missing
+
+      rperson$rp-35/Vicente Esteves/m/status=N
+         occ$CSBC-obituario_csbc1711-VEsteves
+         occ$CSBC-obituario_csbc2611-VEsteves
+         occ$sbartdoa1360.1.vicente
+
+      rperson$rp-118/Vicente Geraldes/m/status=N
+         occ$sbartsent1335.1-per7
+         occ$sbartsent1341.2-per5
+
+      rperson$rp-474/Vicente Luís/m/status=N
+         occ$csbartolomeu22021377-vluis
+         occ$sbartemp1373.1-per8
+
+      rperson$rp-117/Vicente Martins/m/status=N
+         occ$sbartsent1335.1-per5
+         occ$sbartsent1341.2-per4
+
+      rperson$rp-473/Vicente Mateus/m/status=N/obs=herdeiro
+         occ$sbartolomeu.test25011383-vmateus
+         occ$sbartolomeu25011383-vmateus
+
+      rperson$rp-235/Vicente Peres/m/status=N
+         occ$sbartsent1341.1-per2
+         occ$sbartsent1341.2-per2
+
